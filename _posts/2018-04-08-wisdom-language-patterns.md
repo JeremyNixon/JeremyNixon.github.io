@@ -37,6 +37,6 @@ categories: jekyll update
 17. Dichotomy
 	* It is not x, but y
 	* Your x is not my y
-	* Do not to x, but do y
+	* Do not do x, but do y
 18. Fluidity
 
