@@ -9,7 +9,7 @@ categories: creativity
 
 _Categories of Technique_
 
-1. Intentionally enter default mode over ideas
+1. Mindwandering, Daydreaming, and Relaxation - Intentionally enter default mode
 2. Abstract and Generalize / Transfer over similar problems & solutions
 3. Composition / Recombination
 4. Idea Lists
@@ -35,7 +35,7 @@ _Categories of Technique_
 
 _Techniques_
 
-1. __Intentionally enter default mode over ideas__
+1. __Mindwandering, Daydreaming, and Relaxation - Intentionally enter default mode over ideas__
     - Load up an idea / problem / question and:
         - Go for a walk
         - Take a shower
