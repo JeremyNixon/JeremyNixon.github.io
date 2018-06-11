@@ -5,7 +5,7 @@ date:   2018-06-09 05:02:46 -0700
 categories: creativity
 ---
 
-> _Solve Creativity. Use it to solve everything else._
+> _Revel in the moment of creation._
 
 _Categories of Technique_
 
