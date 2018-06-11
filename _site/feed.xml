@@ -1,4 +1,131 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-11T01:29:25-07:00</updated><id>http://localhost:4000/</id><title type="html">Grounded Abstraction</title><subtitle>Reach to the sky from the bottom.</subtitle><entry><title type="html">Systematizing Creativity - Models and Techniques</title><link href="http://localhost:4000/jekyll/update/2018/06/08/systematizing-creativity-models-and-techniques.html" rel="alternate" type="text/html" title="Systematizing Creativity - Models and Techniques" /><published>2018-06-08T05:02:46-07:00</published><updated>2018-06-08T05:02:46-07:00</updated><id>http://localhost:4000/jekyll/update/2018/06/08/systematizing-creativity-models-and-techniques</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/06/08/systematizing-creativity-models-and-techniques.html">&lt;blockquote&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-11T09:33:15-07:00</updated><id>http://localhost:4000/</id><title type="html">Grounded Abstraction</title><subtitle>Reach to the sky from the bottom.</subtitle><entry><title type="html">Compressing Execution</title><link href="http://localhost:4000/productivity/2018/06/11/compressing-execution.html" rel="alternate" type="text/html" title="Compressing Execution" /><published>2018-06-11T09:02:46-07:00</published><updated>2018-06-11T09:02:46-07:00</updated><id>http://localhost:4000/productivity/2018/06/11/compressing-execution</id><content type="html" xml:base="http://localhost:4000/productivity/2018/06/11/compressing-execution.html">&lt;p&gt;&lt;em&gt;Major Techniques&lt;/em&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Run Task Management System (Hierarchical Goals)
+    &lt;ul&gt;
+      &lt;li&gt;Plan each day in advance&lt;/li&gt;
+      &lt;li&gt;Schedule on a calendar in addition to a to-do list&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Build streaks / habits / momentum&lt;/li&gt;
+  &lt;li&gt;Triage (80/20, Pareto Principle)&lt;/li&gt;
+  &lt;li&gt;Single, clear task at a time&lt;/li&gt;
+  &lt;li&gt;Most important task in the morning with focus
+    &lt;ul&gt;
+      &lt;li&gt;Do the most difficult task first&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Cut off all distractions&lt;/li&gt;
+  &lt;li&gt;Enter the appropriate mental state
+    &lt;ul&gt;
+      &lt;li&gt;Music&lt;/li&gt;
+      &lt;li&gt;Visualization&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Create Large Chunks of Time&lt;/li&gt;
+  &lt;li&gt;Social Accountability
+    &lt;ul&gt;
+      &lt;li&gt;Precommitment&lt;/li&gt;
+      &lt;li&gt;Feedback&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Bite off the smallest action step possible&lt;/li&gt;
+  &lt;li&gt;Many small projects - large projects kill morale&lt;/li&gt;
+  &lt;li&gt;Focus Tracking&lt;/li&gt;
+  &lt;li&gt;Time Tracking&lt;/li&gt;
+  &lt;li&gt;Metrics as a reward system&lt;/li&gt;
+  &lt;li&gt;Set Deadlines&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;Major Models&lt;/em&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Momentum&lt;/li&gt;
+  &lt;li&gt;Process Focus vs. Outcome Focus (Growth vs. Product)&lt;/li&gt;
+  &lt;li&gt;Goal clarity / fuzziness, level of abstraction of goals (lower the better)&lt;/li&gt;
+  &lt;li&gt;Focus / Attention&lt;/li&gt;
+  &lt;li&gt;Social Norms&lt;/li&gt;
+  &lt;li&gt;Habits (Cue, Routine, Reward)&lt;/li&gt;
+  &lt;li&gt;Metrics associated with clear goals&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;Minor Techniques&lt;/em&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Say no to everything misaligned with goals
+    &lt;ul&gt;
+      &lt;li&gt;Hell yes or no.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Meditation&lt;/li&gt;
+  &lt;li&gt;Cold Shower&lt;/li&gt;
+  &lt;li&gt;Timer&lt;/li&gt;
+  &lt;li&gt;Take Breaks&lt;/li&gt;
+  &lt;li&gt;Stop Doing list or Not To Do list&lt;/li&gt;
+  &lt;li&gt;Batch tasks
+    &lt;ul&gt;
+      &lt;li&gt;Ex, email/messages 2x a day&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;If an action takes less than 5m to complete, do it immediately&lt;/li&gt;
+  &lt;li&gt;Be Well Rested&lt;/li&gt;
+  &lt;li&gt;Stopping Time&lt;/li&gt;
+  &lt;li&gt;Have tiers to your daily tasks, don’t stop a tier until that tier is done.&lt;/li&gt;
+  &lt;li&gt;Do the hardest thing first&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;Minor Models&lt;/em&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Attention Switching Costs / Impact of multitasking&lt;/li&gt;
+  &lt;li&gt;Self Sabotage&lt;/li&gt;
+  &lt;li&gt;Parkinson’s Principle&lt;/li&gt;
+  &lt;li&gt;Willpower&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Major Techniques Run Task Management System (Hierarchical Goals) Plan each day in advance Schedule on a calendar in addition to a to-do list Build streaks / habits / momentum Triage (80/20, Pareto Principle) Single, clear task at a time Most important task in the morning with focus Do the most difficult task first Cut off all distractions Enter the appropriate mental state Music Visualization Create Large Chunks of Time Social Accountability Precommitment Feedback Bite off the smallest action step possible Many small projects - large projects kill morale Focus Tracking Time Tracking Metrics as a reward system Set Deadlines</summary></entry><entry><title type="html">Living Contrarian Thinkers</title><link href="http://localhost:4000/thinking/2018/06/11/contrarian-thinkers.html" rel="alternate" type="text/html" title="Living Contrarian Thinkers" /><published>2018-06-11T00:00:00-07:00</published><updated>2018-06-11T00:00:00-07:00</updated><id>http://localhost:4000/thinking/2018/06/11/contrarian-thinkers</id><content type="html" xml:base="http://localhost:4000/thinking/2018/06/11/contrarian-thinkers.html">&lt;p&gt;&lt;strong&gt;Uncategorized&lt;/strong&gt;&lt;br /&gt;
+Nicholas Nassim Taleb&lt;br /&gt;
+Mr. Money Moustache&lt;br /&gt;
+Venkatesh Rao&lt;br /&gt;
+Bret Victor&lt;br /&gt;
+Jeffrey Pfeffer&lt;br /&gt;
+Mencius Moldbug&lt;br /&gt;
+Tim Ferriss  &lt;br /&gt;
+Noam Chomsky  &lt;br /&gt;
+Richard Joyce&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Scientists&lt;/strong&gt;&lt;br /&gt;
+Eric Weinstein&lt;br /&gt;
+Stephen Wolfram&lt;br /&gt;
+David Krakauer&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Athiests&lt;/strong&gt;&lt;br /&gt;
+Richard Dawkins&lt;br /&gt;
+Sam Harris&lt;br /&gt;
+Christopher Hitchens&lt;br /&gt;
+David Sloan Wilson&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rationalists&lt;/strong&gt;&lt;br /&gt;
+Eliezer Yudkowsky&lt;br /&gt;
+Nate Soares&lt;br /&gt;
+Scott Alexander&lt;br /&gt;
+Robin Hanson&lt;br /&gt;
+Holden Karnofsky&lt;br /&gt;
+Sarah Constantin&lt;br /&gt;
+Anna Salamon&lt;br /&gt;
+Dominic Cummings&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Economists&lt;/strong&gt;&lt;br /&gt;
+Thomas Sowell&lt;br /&gt;
+Roland Fryer&lt;br /&gt;
+Tyler Cowen&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Psychologists&lt;/strong&gt;&lt;br /&gt;
+Steven Pinker&lt;br /&gt;
+Paul Bloom&lt;br /&gt;
+Jordan Peterson&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Entrepreneurs&lt;/strong&gt;&lt;br /&gt;
+Balaji Srinivasan&lt;br /&gt;
+Peter Thiel&lt;br /&gt;
+Ray Dalio&lt;br /&gt;
+Charlie Munger&lt;br /&gt;
+Paul Graham&lt;br /&gt;
+Naval Ravikant&lt;/p&gt;</content><author><name></name></author><summary type="html">Uncategorized Nicholas Nassim Taleb Mr. Money Moustache Venkatesh Rao Bret Victor Jeffrey Pfeffer Mencius Moldbug Tim Ferriss Noam Chomsky Richard Joyce</summary></entry><entry><title type="html">Systematizing Creativity - Models and Techniques</title><link href="http://localhost:4000/creativity/2018/06/08/systematizing-creativity-models-and-techniques.html" rel="alternate" type="text/html" title="Systematizing Creativity - Models and Techniques" /><published>2018-06-08T05:02:46-07:00</published><updated>2018-06-08T05:02:46-07:00</updated><id>http://localhost:4000/creativity/2018/06/08/systematizing-creativity-models-and-techniques</id><content type="html" xml:base="http://localhost:4000/creativity/2018/06/08/systematizing-creativity-models-and-techniques.html">&lt;blockquote&gt;
   &lt;p&gt;&lt;em&gt;Solve Creativity. Use it to solve everything else.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -20,13 +147,15 @@
   &lt;li&gt;Thought Habits / Mental.&lt;/li&gt;
   &lt;li&gt;Invert&lt;/li&gt;
   &lt;li&gt;Activities&lt;/li&gt;
-  &lt;li&gt;Social Solutions&lt;/li&gt;
+  &lt;li&gt;Social Solutions&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;hr /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/Creative-Hand.jpg&quot; alt=&quot;Moment of Creation&quot; /&gt;&lt;/p&gt;
+&lt;!-- ![Moment of Creation](http://localhost:4000/assets/Creative-Hand.jpg) --&gt;
+&lt;!-- &lt;img src=&quot;/assets/your-image.jpg&quot; alt=&quot;Moment of Creation&quot;&gt; --&gt;
 
 &lt;p&gt;&lt;em&gt;Techniques&lt;/em&gt;&lt;/p&gt;
 
@@ -346,7 +475,357 @@
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;!-- ![Moment of Creation](Creative-Hand.jpg) --&gt;</content><author><name></name></author><summary type="html">Solve Creativity. Use it to solve everything else.</summary></entry><entry><title type="html">Google Brain Research Overview</title><link href="http://localhost:4000/jekyll/update/2018/06/07/google-brain-research-overview.html" rel="alternate" type="text/html" title="Google Brain Research Overview" /><published>2018-06-07T05:02:46-07:00</published><updated>2018-06-07T05:02:46-07:00</updated><id>http://localhost:4000/jekyll/update/2018/06/07/google-brain-research-overview</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/06/07/google-brain-research-overview.html">&lt;p&gt;By Jeremy Nixon [&lt;a href=&quot;mailto:jnixon2@gmail.com&quot;&gt;jnixon2@gmail.com&lt;/a&gt;]. Nov 2017.&lt;/p&gt;
+&lt;!-- ![Moment of Creation](Creative-Hand.jpg) --&gt;</content><author><name></name></author><summary type="html">Solve Creativity. Use it to solve everything else.</summary></entry><entry><title type="html">Systematizing Creativity - Models and Techniques</title><link href="http://localhost:4000/jekyll/update/2018/06/08/systematizing-creativity-models-and-techniques.html" rel="alternate" type="text/html" title="Systematizing Creativity - Models and Techniques" /><published>2018-06-08T05:02:46-07:00</published><updated>2018-06-08T05:02:46-07:00</updated><id>http://localhost:4000/jekyll/update/2018/06/08/systematizing-creativity-models-and-techniques</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/06/08/systematizing-creativity-models-and-techniques.html">&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Solve Creativity. Use it to solve everything else.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;Categories of Technique&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Intentionally enter default mode over ideas&lt;/li&gt;
+  &lt;li&gt;Abstract and Generalize / Transfer over similar problems &amp;amp; solutions&lt;/li&gt;
+  &lt;li&gt;Composition / Recombination&lt;/li&gt;
+  &lt;li&gt;Idea Lists&lt;/li&gt;
+  &lt;li&gt;Decomposition&lt;/li&gt;
+  &lt;li&gt;Randomness&lt;/li&gt;
+  &lt;li&gt;Idea Mapping, Graphs of Relationships between Ideas&lt;/li&gt;
+  &lt;li&gt;Leading questions&lt;/li&gt;
+  &lt;li&gt;Reframe / Question Assumptions&lt;/li&gt;
+  &lt;li&gt;Multiple levels of analysis&lt;/li&gt;
+  &lt;li&gt;Think ground up, from first principles&lt;/li&gt;
+  &lt;li&gt;Automation&lt;/li&gt;
+  &lt;li&gt;Thought Habits / Mental.&lt;/li&gt;
+  &lt;li&gt;Invert&lt;/li&gt;
+  &lt;li&gt;Activities&lt;/li&gt;
+  &lt;li&gt;Social Solutions&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/Creative-Hand.jpg&quot; alt=&quot;Moment of Creation&quot; /&gt;
+&lt;!-- &lt;img src=&quot;/assets/your-image.jpg&quot; alt=&quot;Moment of Creation&quot;&gt; --&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Techniques&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Intentionally enter default mode over ideas&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Load up an idea / problem / question and:
+        &lt;ul&gt;
+          &lt;li&gt;Go for a walk&lt;/li&gt;
+          &lt;li&gt;Take a shower&lt;/li&gt;
+          &lt;li&gt;Sleep
+            &lt;ul&gt;
+              &lt;li&gt;Start to fall asleep, wake up as you do (use alarm or keys in the hand)&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Hypnagogia&quot;&gt;Hypnagogia&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Meditation
+            &lt;ul&gt;
+              &lt;li&gt;Sit in silence with the target as an object&lt;br /&gt;
+  	&lt;br /&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;hr /&gt;
+    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Abstract and Generalize / Transfer over similar problems &amp;amp; solutions&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Model vs. Technique - see what works in the space, ask why to get a model. Generalize from the model to generate more techniques.&lt;/li&gt;
+      &lt;li&gt;Metaphor Generation
+        &lt;ul&gt;
+          &lt;li&gt;Idea list over metaphors for a given problem / solution / object&lt;/li&gt;
+          &lt;li&gt;Transfer solutions and insights from the related domains&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Find a source idea, categorize it, generalize to finding more instances of that category.
+        &lt;ul&gt;
+          &lt;li&gt;Ex. Properties of Representation, Systematizing Creativity&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;List solutions to a problem and generalize&lt;/li&gt;
+      &lt;li&gt;List related problems and generalize from their solutions&lt;br /&gt;
+  	&lt;br /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;hr /&gt;
+    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Composition / Recombination&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Idea List for concept set&lt;/li&gt;
+      &lt;li&gt;Run recombination over generated concepts
+        &lt;ol&gt;
+          &lt;li&gt;Hold the concepts in mind, asking how they relate to one another&lt;br /&gt;
+  	&lt;br /&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;hr /&gt;
+    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Idea Lists&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;List Creation + Time Pressure
+        &lt;ul&gt;
+          &lt;li&gt;Choose a topic / prompt / question.&lt;/li&gt;
+          &lt;li&gt;10m Time Constraint.&lt;/li&gt;
+          &lt;li&gt;Fill list to 10 ideas.&lt;/li&gt;
+          &lt;li&gt;If time becomes a limiting factor, let novelty / quality fall.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Alternative versions:
+        &lt;ul&gt;
+          &lt;li&gt;Go into diffuse mode over an idea list, with no time limit&lt;/li&gt;
+          &lt;li&gt;Create a huge list (with a low barrier to idea entry) and prune it
+            &lt;ul&gt;
+              &lt;li&gt;This resolves the psychological conflict between creative ideation and rigor / quality&lt;br /&gt;
+  	&lt;br /&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;hr /&gt;
+    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Decomposition (Mapping out the space)&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Break into component pieces, in multiple directions
+        &lt;ul&gt;
+          &lt;li&gt;Ex. Machine learning becomes Linear Algebra + Calculus + Probability Theory + Computer Science, which break into their own subregions&lt;/li&gt;
+          &lt;li&gt;Ex. Scientific Field becomes Major Papers + Categories of the topic + Conferences + Major Researchers + Quality Sites&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Mutually Exclusive, Collectively Exhaustive&lt;/li&gt;
+      &lt;li&gt;Deconstruction + Optimization&lt;/li&gt;
+      &lt;li&gt;Actually do science ‘to split’&lt;br /&gt;
+  	&lt;br /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;hr /&gt;
+    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Randomness&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Randomize. Generate random ideas by specifying some parameters, and make them work / use them as prompts.&lt;/li&gt;
+      &lt;li&gt;Randomly show words that serve as prompts&lt;/li&gt;
+      &lt;li&gt;Stream of Consciousness&lt;br /&gt;
+  	&lt;br /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;hr /&gt;
+    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Idea Mapping, Graphs of Relationships between Ideas&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Create a graph of the relationships between critical ideas in a space&lt;br /&gt;
+  	&lt;br /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;hr /&gt;
+    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Leading questions&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Recursive ‘Why?’&lt;/li&gt;
+      &lt;li&gt;Imagine the future (problem is solved, for ex.). What happened? Work backwards.&lt;/li&gt;
+      &lt;li&gt;What are the sacred beliefs? What can’t be thought?&lt;/li&gt;
+      &lt;li&gt;“what if” questions&lt;/li&gt;
+      &lt;li&gt;“how might we” questions&lt;/li&gt;
+      &lt;li&gt;Invert - “what if the opposite is true”&lt;/li&gt;
+      &lt;li&gt;Eliminate - “does it even matter”&lt;/li&gt;
+      &lt;li&gt;“What if I need to solve it once and for all”&lt;/li&gt;
+      &lt;li&gt;Scalability - “What if I need to solve it for everyone”&lt;/li&gt;
+      &lt;li&gt;What is the meta level idea?&lt;/li&gt;
+      &lt;li&gt;What questions do I have about this?&lt;/li&gt;
+      &lt;li&gt;What would other people think of?&lt;br /&gt;
+  	&lt;br /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;hr /&gt;
+    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Reframe / Question Assumptions&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Constraints
+        &lt;ul&gt;
+          &lt;li&gt;Create resource constraints (time, attention, money, assumptions, etc.)&lt;/li&gt;
+          &lt;li&gt;Create resource excess (time, attention, money, etc.)&lt;/li&gt;
+          &lt;li&gt;Eliminating options&lt;/li&gt;
+          &lt;li&gt;What are the upstream constraints in the system?&lt;/li&gt;
+          &lt;li&gt;Define boundaries of solution spaces better
+            &lt;ul&gt;
+              &lt;li&gt;Find upstream constraints&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Apply different modes of processing
+        &lt;ul&gt;
+          &lt;li&gt;What would a supervillain do? (Prompt framing) / Supervillain mode&lt;/li&gt;
+          &lt;li&gt;Emotional - Get into emotional state and generate ideas
+            &lt;ul&gt;
+              &lt;li&gt;Anger&lt;/li&gt;
+              &lt;li&gt;Arousal&lt;/li&gt;
+              &lt;li&gt;Gratefulness&lt;/li&gt;
+              &lt;li&gt;Adoration&lt;/li&gt;
+              &lt;li&gt;Frustration&lt;/li&gt;
+              &lt;li&gt;Excitement&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Types of Thinker - What would I generate if I was a:
+            &lt;ul&gt;
+              &lt;li&gt;Mathematician&lt;/li&gt;
+              &lt;li&gt;Technologist&lt;/li&gt;
+              &lt;li&gt;Computer Scientist&lt;/li&gt;
+              &lt;li&gt;Philosopher&lt;/li&gt;
+              &lt;li&gt;Psychologist&lt;/li&gt;
+              &lt;li&gt;Economist&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;find inspiration in other areas:
+            &lt;ul&gt;
+              &lt;li&gt;math&lt;/li&gt;
+              &lt;li&gt;mythology&lt;/li&gt;
+              &lt;li&gt;writings about principles&lt;/li&gt;
+              &lt;li&gt;Physics&lt;/li&gt;
+              &lt;li&gt;Etc&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Environmental
+            &lt;ul&gt;
+              &lt;li&gt;Work in a cluttered environment&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Game Lenses, list of generic lenses&lt;/li&gt;
+          &lt;li&gt;Asking what would Hufflepuff / Gryffindor / me would do&lt;/li&gt;
+          &lt;li&gt;Asking what a friend would do&lt;/li&gt;
+          &lt;li&gt;Predicting what someone will say and
+            &lt;ul&gt;
+              &lt;li&gt;Then asking them, for interesting feedback&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;What? / Why? / How?&lt;br /&gt;
+  	&lt;br /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;hr /&gt;
+    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Multiple levels of analysis&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Multiple levels of abstraction - ask what alternate levels of analysis exist, through decomposition and abstraction over the current level of analysis
+        &lt;ul&gt;
+          &lt;li&gt;Multiple frames - think at lower and higher levels of analysis, simultaneously. Ask how they interact.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Meta-object two space
+        &lt;ul&gt;
+          &lt;li&gt;Simultaneously optimizing the object and the meta level&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;hr /&gt;
+    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Think ground up, from first principles&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Ask what the underlying goal is for a space, and for what solutions would serve that goal. For each solution, think of the components necessary to make that solution happen.
+        &lt;ul&gt;
+          &lt;li&gt;What are the basic principles of x?
+&lt;br /&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;hr /&gt;
+    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Automation&lt;/strong&gt; [&lt;a href=&quot;https://docs.google.com/document/d/10e4BJO_krtuSB0vI5Yo7KL98iFFeONCGZPaIFsCa8AM/edit?usp=sharing&quot;&gt;See Expanded Version&lt;/a&gt;]&lt;br /&gt;
+  	&lt;br /&gt;&lt;/p&gt;
+
+    &lt;hr /&gt;
+    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Thought Habits / Mental&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Idea List Habitually&lt;/li&gt;
+      &lt;li&gt;Brainstorm Habitually&lt;/li&gt;
+      &lt;li&gt;Create and refine a distinct open mode&lt;/li&gt;
+      &lt;li&gt;Create imminent desire for coming up with relevant ideas&lt;/li&gt;
+      &lt;li&gt;System 1 + Generalization
+        &lt;ul&gt;
+          &lt;li&gt;Take an intuitive response and understand its mechanism. Turn the mechanism into a generator.&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;hr /&gt;
+    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Invert&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Take any technique, and do the opposite over some parameter&lt;/li&gt;
+      &lt;li&gt;Imagine ways of not doing it, or preventing the goal from being reached: adversarial&lt;br /&gt;
+	&lt;br /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;hr /&gt;
+    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Activities&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;List Creation + Time Pressure&lt;/li&gt;
+      &lt;li&gt;Writing
+        &lt;ul&gt;
+          &lt;li&gt;Write freely over the topic / question / prompt&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Brainstorm [thought dumping]&lt;/li&gt;
+      &lt;li&gt;Defend a difficult position, adversarial conversation&lt;/li&gt;
+      &lt;li&gt;Drawing&lt;/li&gt;
+      &lt;li&gt;Giving a speech to the air&lt;/li&gt;
+      &lt;li&gt;Improv Games&lt;br /&gt;
+	&lt;br /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;hr /&gt;
+    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Social Solutions&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Crowdsourcing ideas&lt;/li&gt;
+      &lt;li&gt;Read Books / Articles on Topic&lt;/li&gt;
+      &lt;li&gt;Debate the topic&lt;/li&gt;
+      &lt;li&gt;Look up what other people have been saying about it
+        &lt;ul&gt;
+          &lt;li&gt;discuss things with others&lt;/li&gt;
+          &lt;li&gt;check social media&lt;/li&gt;
+          &lt;li&gt;find differing discussions online&lt;/li&gt;
+          &lt;li&gt;Mapping ideas generation for other people!&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Work with other dissimilar people&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- ![Moment of Creation](Creative-Hand.jpg) --&gt;</content><author><name></name></author><summary type="html">Solve Creativity. Use it to solve everything else.</summary></entry><entry><title type="html">Google Brain Research Overview</title><link href="http://localhost:4000/machinelearning/2018/06/07/google-brain-research-overview.html" rel="alternate" type="text/html" title="Google Brain Research Overview" /><published>2018-06-07T05:02:46-07:00</published><updated>2018-06-07T05:02:46-07:00</updated><id>http://localhost:4000/machinelearning/2018/06/07/google-brain-research-overview</id><content type="html" xml:base="http://localhost:4000/machinelearning/2018/06/07/google-brain-research-overview.html">&lt;p&gt;By Jeremy Nixon [&lt;a href=&quot;mailto:jnixon2@gmail.com&quot;&gt;jnixon2@gmail.com&lt;/a&gt;]. Nov 2017.&lt;/p&gt;
 
 &lt;p&gt;Overview&lt;/p&gt;
 
@@ -3497,7 +3976,7 @@
  [1, ‘Ayush Sekhari’],
  [1, ‘Andrew Ng’],
  [1, ‘Andrew Lampinen’],
- [1, ‘Alex Irpan’],&lt;/p&gt;</content><author><name></name></author><summary type="html">By Jeremy Nixon [jnixon2@gmail.com]. Nov 2017.</summary></entry><entry><title type="html">Wisdom Language Patterns</title><link href="http://localhost:4000/jekyll/update/2018/06/07/wisdom-language-patterns.html" rel="alternate" type="text/html" title="Wisdom Language Patterns" /><published>2018-06-07T05:02:46-07:00</published><updated>2018-06-07T05:02:46-07:00</updated><id>http://localhost:4000/jekyll/update/2018/06/07/wisdom-language-patterns</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/06/07/wisdom-language-patterns.html">&lt;ol&gt;
+ [1, ‘Alex Irpan’],&lt;/p&gt;</content><author><name></name></author><summary type="html">By Jeremy Nixon [jnixon2@gmail.com]. Nov 2017.</summary></entry><entry><title type="html">Wisdom Language Patterns</title><link href="http://localhost:4000/thinking/2018/06/07/wisdom-language-patterns.html" rel="alternate" type="text/html" title="Wisdom Language Patterns" /><published>2018-06-07T05:02:46-07:00</published><updated>2018-06-07T05:02:46-07:00</updated><id>http://localhost:4000/thinking/2018/06/07/wisdom-language-patterns</id><content type="html" xml:base="http://localhost:4000/thinking/2018/06/07/wisdom-language-patterns.html">&lt;ol&gt;
   &lt;li&gt;Acceptance
     &lt;ul&gt;
       &lt;li&gt;As dissolving conflict&lt;/li&gt;
@@ -3553,7 +4032,7 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Fluidity&lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">Acceptance As dissolving conflict As the path to peace Fatalism We shall all die someday Eventually, it shall all come to pass Emphasize Questions over Answers Paradox / Contradiction (Must both be x and not be x) Harmony Metaphor standing in for argument Narrative standing in for argument Patience Wait for understanding to take action Alignment As a solution to internal conflict Integration De-escalation of internal conflict As opposed to willpower, which escalates internal conflict Peace, Calm, Serenity Awareness The Mind Conscience, Consciousness Reflection Deep / Depth / Layers Balance Force / Willpower / Effort / Discipline vs. Alignment / Integration / Harmony Light vs. Darkness Yin vs. Yang Chaos vs. Order Dichotomy It is not x, but y Your x is not my y Do not do x, but do y Fluidity</summary></entry><entry><title type="html">How to Think</title><link href="http://localhost:4000/hyperanalytic/2015/06/23/how-to-think.html" rel="alternate" type="text/html" title="How to Think" /><published>2015-06-23T05:02:46-07:00</published><updated>2015-06-23T05:02:46-07:00</updated><id>http://localhost:4000/hyperanalytic/2015/06/23/how-to-think</id><content type="html" xml:base="http://localhost:4000/hyperanalytic/2015/06/23/how-to-think.html">&lt;!-- &lt;h2 class='post_title'&gt;How to Think&lt;/h2&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Acceptance As dissolving conflict As the path to peace Fatalism We shall all die someday Eventually, it shall all come to pass Emphasize Questions over Answers Paradox / Contradiction (Must both be x and not be x) Harmony Metaphor standing in for argument Narrative standing in for argument Patience Wait for understanding to take action Alignment As a solution to internal conflict Integration De-escalation of internal conflict As opposed to willpower, which escalates internal conflict Peace, Calm, Serenity Awareness The Mind Conscience, Consciousness Reflection Deep / Depth / Layers Balance Force / Willpower / Effort / Discipline vs. Alignment / Integration / Harmony Light vs. Darkness Yin vs. Yang Chaos vs. Order Dichotomy It is not x, but y Your x is not my y Do not do x, but do y Fluidity</summary></entry><entry><title type="html">How to Think</title><link href="http://localhost:4000/thinking/2015/06/23/how-to-think.html" rel="alternate" type="text/html" title="How to Think" /><published>2015-06-23T05:02:46-07:00</published><updated>2015-06-23T05:02:46-07:00</updated><id>http://localhost:4000/thinking/2015/06/23/how-to-think</id><content type="html" xml:base="http://localhost:4000/thinking/2015/06/23/how-to-think.html">&lt;!-- &lt;h2 class='post_title'&gt;How to Think&lt;/h2&gt;
 &lt;p&gt; --&gt;
 &lt;p&gt;Nobody that I’ve met has had a great answer to how to get a mapping from concepts and frameworks to problems to solve, where their intuition brings the most salient, information-full frameworks and concepts to mind as soon as they encounter a problem. This is definitely how my brain seems to work and so improving this would lead to great outcomes.
 &lt;!-- &lt;/p&gt;&lt;p&gt; --&gt;&lt;/p&gt;
@@ -4159,7 +4638,7 @@
       &lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">Nobody that I’ve met has had a great answer to how to get a mapping from concepts and frameworks to problems to solve, where their intuition brings the most salient, information-full frameworks and concepts to mind as soon as they encounter a problem. This is definitely how my brain seems to work and so improving this would lead to great outcomes.</summary></entry><entry><title type="html">Optimize for Volatility, not Average Capacity</title><link href="http://localhost:4000/jekyll/update/2015/06/22/optimize-for-volatility.html" rel="alternate" type="text/html" title="Optimize for Volatility, not Average Capacity" /><published>2015-06-22T05:02:46-07:00</published><updated>2015-06-22T05:02:46-07:00</updated><id>http://localhost:4000/jekyll/update/2015/06/22/optimize-for-volatility</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2015/06/22/optimize-for-volatility.html">&lt;p&gt;There are a number of interrelated ideas that I’d like to connect. Those are Optionality, Trial and Error, Exploration-Exploitation, Experimentation, Natural Selection, Comfort Zones, Creative Destruction, and certainly a swath of other critical ideas.&lt;/p&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Nobody that I’ve met has had a great answer to how to get a mapping from concepts and frameworks to problems to solve, where their intuition brings the most salient, information-full frameworks and concepts to mind as soon as they encounter a problem. This is definitely how my brain seems to work and so improving this would lead to great outcomes.</summary></entry><entry><title type="html">Optimize for Volatility, not Average Capacity</title><link href="http://localhost:4000/thinking/2015/06/22/optimize-for-volatility.html" rel="alternate" type="text/html" title="Optimize for Volatility, not Average Capacity" /><published>2015-06-22T05:02:46-07:00</published><updated>2015-06-22T05:02:46-07:00</updated><id>http://localhost:4000/thinking/2015/06/22/optimize-for-volatility</id><content type="html" xml:base="http://localhost:4000/thinking/2015/06/22/optimize-for-volatility.html">&lt;p&gt;There are a number of interrelated ideas that I’d like to connect. Those are Optionality, Trial and Error, Exploration-Exploitation, Experimentation, Natural Selection, Comfort Zones, Creative Destruction, and certainly a swath of other critical ideas.&lt;/p&gt;
 
 &lt;p&gt;The central idea is Optionality - in many cases, you get the upside from volatility. You sample over and over from a distribution (you can imagine meeting potential friends/romantic partners, or trying out classes or a major at college, or there being many mutations of a gene in a population) and take the best, or at least the better, option.&lt;/p&gt;
 
@@ -4177,7 +4656,7 @@
 
 &lt;p&gt;Creative destruction is critical for the growth of economic systems, and thrives off of the volatility inherent in the life and death of industry. By taking the upside to variance, capitalistic societies grow off of optionality.&lt;/p&gt;
 
-&lt;p&gt;This foundational principle underlies almost all value creation. It calls for us to optimize systems for volatility, not average capacity. Education, business, personal lifestyle - all of these have much to gain from volatility. And so the common heuristic that volatility is bad or dangerous or scary is only true at the lower fractal level. At the system one level up, the variance is essential to growth.&lt;/p&gt;</content><author><name></name></author><summary type="html">There are a number of interrelated ideas that I’d like to connect. Those are Optionality, Trial and Error, Exploration-Exploitation, Experimentation, Natural Selection, Comfort Zones, Creative Destruction, and certainly a swath of other critical ideas. The central idea is Optionality - in many cases, you get the upside from volatility. You sample over and over from a distribution (you can imagine meeting potential friends/romantic partners, or trying out classes or a major at college, or there being many mutations of a gene in a population) and take the best, or at least the better, option. In all situations like this (and they are everywhere), volatility is more important than the average. In Exploration-Exploitation, optionality lets you exploit by taking the best solution thusfar and using it as your model for behavior. When there’s high variance in what you’re exploring - say you’re sampling different dishes at a restaurant - if some dishes are amazing and some are awful, you get the upside - amazing dishes all the time - as soon as you start exploiting. If there isn’t much volatility - if every dish is basically the same - even if the dishes are quite good, you don’t end up as well off as when there’s variation that you can take advantage of. Personal experimentation is a form of exploration, where you try out a new behavior, style of living, or a new habit. When there’s more variation in the change in life quality, you get much more out of experimentation. Natural selection benefits from high levels of mutation in a population, because that allows for faster adaptation to an environment and faster improvements in fitness at the species level. In Trial and Error, there’s a binary outcome and you sample over and over until you get a success. Then you can use that success again and again. People who are said to be staying inside their comfort zones are suffering from the absence of optionality - by refusing to explore the space, they end up with a weak payoff. Creative destruction is critical for the growth of economic systems, and thrives off of the volatility inherent in the life and death of industry. By taking the upside to variance, capitalistic societies grow off of optionality. This foundational principle underlies almost all value creation. It calls for us to optimize systems for volatility, not average capacity. Education, business, personal lifestyle - all of these have much to gain from volatility. And so the common heuristic that volatility is bad or dangerous or scary is only true at the lower fractal level. At the system one level up, the variance is essential to growth.</summary></entry><entry><title type="html">Idea Flow</title><link href="http://localhost:4000/hyperanalytic/2015/06/21/ideaflow.html" rel="alternate" type="text/html" title="Idea Flow" /><published>2015-06-21T05:02:46-07:00</published><updated>2015-06-21T05:02:46-07:00</updated><id>http://localhost:4000/hyperanalytic/2015/06/21/ideaflow</id><content type="html" xml:base="http://localhost:4000/hyperanalytic/2015/06/21/ideaflow.html">&lt;p&gt;Idea flow is the name I give to the visceral sense that ideas are moving through your life at speed - you can think of it as a rate, a number of ideas per day, that create a sense of intellectual exploration and growth.&lt;/p&gt;
+&lt;p&gt;This foundational principle underlies almost all value creation. It calls for us to optimize systems for volatility, not average capacity. Education, business, personal lifestyle - all of these have much to gain from volatility. And so the common heuristic that volatility is bad or dangerous or scary is only true at the lower fractal level. At the system one level up, the variance is essential to growth.&lt;/p&gt;</content><author><name></name></author><summary type="html">There are a number of interrelated ideas that I’d like to connect. Those are Optionality, Trial and Error, Exploration-Exploitation, Experimentation, Natural Selection, Comfort Zones, Creative Destruction, and certainly a swath of other critical ideas. The central idea is Optionality - in many cases, you get the upside from volatility. You sample over and over from a distribution (you can imagine meeting potential friends/romantic partners, or trying out classes or a major at college, or there being many mutations of a gene in a population) and take the best, or at least the better, option. In all situations like this (and they are everywhere), volatility is more important than the average. In Exploration-Exploitation, optionality lets you exploit by taking the best solution thusfar and using it as your model for behavior. When there’s high variance in what you’re exploring - say you’re sampling different dishes at a restaurant - if some dishes are amazing and some are awful, you get the upside - amazing dishes all the time - as soon as you start exploiting. If there isn’t much volatility - if every dish is basically the same - even if the dishes are quite good, you don’t end up as well off as when there’s variation that you can take advantage of. Personal experimentation is a form of exploration, where you try out a new behavior, style of living, or a new habit. When there’s more variation in the change in life quality, you get much more out of experimentation. Natural selection benefits from high levels of mutation in a population, because that allows for faster adaptation to an environment and faster improvements in fitness at the species level. In Trial and Error, there’s a binary outcome and you sample over and over until you get a success. Then you can use that success again and again. People who are said to be staying inside their comfort zones are suffering from the absence of optionality - by refusing to explore the space, they end up with a weak payoff. Creative destruction is critical for the growth of economic systems, and thrives off of the volatility inherent in the life and death of industry. By taking the upside to variance, capitalistic societies grow off of optionality. This foundational principle underlies almost all value creation. It calls for us to optimize systems for volatility, not average capacity. Education, business, personal lifestyle - all of these have much to gain from volatility. And so the common heuristic that volatility is bad or dangerous or scary is only true at the lower fractal level. At the system one level up, the variance is essential to growth.</summary></entry><entry><title type="html">Idea Flow</title><link href="http://localhost:4000/thinking/2015/06/21/ideaflow.html" rel="alternate" type="text/html" title="Idea Flow" /><published>2015-06-21T05:02:46-07:00</published><updated>2015-06-21T05:02:46-07:00</updated><id>http://localhost:4000/thinking/2015/06/21/ideaflow</id><content type="html" xml:base="http://localhost:4000/thinking/2015/06/21/ideaflow.html">&lt;p&gt;Idea flow is the name I give to the visceral sense that ideas are moving through your life at speed - you can think of it as a rate, a number of ideas per day, that create a sense of intellectual exploration and growth.&lt;/p&gt;
 
 &lt;p&gt;The greatest speeds have been achieved with dramatic amounts of reading. The experiment from Sophomore summer where I read 4 books a week is the prime example. My mind was chock full and flying each and every day.&lt;/p&gt;
 
