@@ -24,7 +24,8 @@ _Categories of Technique_
 13. Thought Habits / Mental.
 14. Invert
 15. Activities 
-16. Social Solutions
+16. Social Solutions  
+<br>
 
 ---
 <br>
