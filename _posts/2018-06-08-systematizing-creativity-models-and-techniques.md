@@ -5,7 +5,7 @@ date:   2018-06-08 05:02:46 -0700
 categories: jekyll update
 ---
 
-*_Solve Creativity. Use it to solve everything else._*
+> _Solve Creativity. Use it to solve everything else._
 
 _Categories of Technique_
 
