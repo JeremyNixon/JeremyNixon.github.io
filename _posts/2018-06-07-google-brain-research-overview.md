@@ -2,7 +2,7 @@
 layout: post
 title:  "Google Brain Research Overview"
 date:   2018-06-07 05:02:46 -0700
-categories: jekyll update
+categories: machinelearning
 ---
 
 By Jeremy Nixon [[jnixon2@gmail.com](mailto:jnixon2@gmail.com)]. Nov 2017.

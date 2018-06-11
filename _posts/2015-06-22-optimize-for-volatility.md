@@ -2,7 +2,7 @@
 layout: post
 title:  "Optimize for Volatility, not Average Capacity"
 date:   2015-06-22 05:02:46 -0700
-categories: jekyll update
+categories: thinking
 ---
 There are a number of interrelated ideas that I’d like to connect. Those are Optionality, Trial and Error, Exploration-Exploitation, Experimentation, Natural Selection, Comfort Zones, Creative Destruction, and certainly a swath of other critical ideas. 
  

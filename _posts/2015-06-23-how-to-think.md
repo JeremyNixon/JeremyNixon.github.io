@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Think"
 date:   2015-06-23 05:02:46 -0700
-categories: hyperanalytic
+categories: thinking
 ---
 
 <!-- <h2 class='post_title'>How to Think</h2>

@@ -2,7 +2,7 @@
 layout: post
 title: "Living Contrarian Thinkers"
 date: 2018-06-11
-categories: jekyll update
+categories: thinking
 ---
 
 **Uncategorized**  

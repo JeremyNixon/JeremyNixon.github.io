@@ -2,7 +2,7 @@
 layout: post
 title:  "Wisdom Language Patterns"
 date:   2018-06-07 05:02:46 -0700
-categories: jekyll update
+categories: thinking
 ---
 
 1. Acceptance
