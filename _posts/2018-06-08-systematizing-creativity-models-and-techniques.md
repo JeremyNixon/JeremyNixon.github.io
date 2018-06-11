@@ -7,7 +7,7 @@ categories: jekyll update
 
 _Categories of Technique_
 
-1. Intentionally enter diffuse mode over ideas
+1. Intentionally enter default mode over ideas
 2. Abstract and Generalize / Transfer over similar problems & solutions
 3. Composition / Recombination
 4. Idea Lists
