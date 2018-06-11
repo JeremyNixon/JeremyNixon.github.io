@@ -5,6 +5,8 @@ date:   2018-06-08 05:02:46 -0700
 categories: jekyll update
 ---
 
+*_Solve Creativity. Use it to solve everything else._*
+
 _Categories of Technique_
 
 1. Intentionally enter default mode over ideas
