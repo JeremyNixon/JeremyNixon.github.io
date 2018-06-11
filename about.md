@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Identity?
+title: Identity.
 permalink: /about/
 ---
 
-I have no identity. I don't even exist.
+Identity is dangerous.
 
-Who am I?
-
-Uncompressable antifragile zero-to-hero meta-contrarian.
+My name is Jeremy Nixon.
 
 <!-- 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/) -->
