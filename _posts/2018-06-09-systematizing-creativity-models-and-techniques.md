@@ -30,8 +30,8 @@ _Categories of Technique_
 ---
 <br>
 
-![Moment of Creation]({{ "/assets/images/Creative-Hand.jpg" | absolute_url }})
-<!-- <img src="/assets/your-image.jpg" alt="Moment of Creation"> -->
+<!-- ![Moment of Creation]({{ "/assets/images/Creative-Hand.jpg" | absolute_url }}) -->
+<img src="https://github.com/JeremyNixon/JeremyNixon.github.io/blob/master/_site/assets/images/Creative-Hand.jpg" alt="Moment of Creation">
 
 _Techniques_
 
