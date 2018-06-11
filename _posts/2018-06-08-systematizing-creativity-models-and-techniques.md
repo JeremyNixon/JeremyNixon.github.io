@@ -29,8 +29,8 @@ _Categories of Technique_
 ---
 <br>
 
-![Moment of Creation]({{ "/assets/Creative-Hand.jpg" | absolute_url }})
-
+<!-- ![Moment of Creation]({{ "/assets/Creative-Hand.jpg" | absolute_url }}) -->
+<img src="/assets/your-image.jpg" alt="Moment of Creation">
 
 _Techniques_
 
