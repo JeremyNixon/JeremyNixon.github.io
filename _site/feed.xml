@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-11T01:13:20-07:00</updated><id>http://localhost:4000/</id><title type="html">Grounded Abstraction</title><subtitle>Reach to the sky from the bottom.</subtitle><entry><title type="html">Systematizing Creativity - Models and Techniques</title><link href="http://localhost:4000/jekyll/update/2018/06/08/systematizing-creativity-models-and-techniques.html" rel="alternate" type="text/html" title="Systematizing Creativity - Models and Techniques" /><published>2018-06-08T05:02:46-07:00</published><updated>2018-06-08T05:02:46-07:00</updated><id>http://localhost:4000/jekyll/update/2018/06/08/systematizing-creativity-models-and-techniques</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/06/08/systematizing-creativity-models-and-techniques.html">&lt;blockquote&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-11T01:29:25-07:00</updated><id>http://localhost:4000/</id><title type="html">Grounded Abstraction</title><subtitle>Reach to the sky from the bottom.</subtitle><entry><title type="html">Systematizing Creativity - Models and Techniques</title><link href="http://localhost:4000/jekyll/update/2018/06/08/systematizing-creativity-models-and-techniques.html" rel="alternate" type="text/html" title="Systematizing Creativity - Models and Techniques" /><published>2018-06-08T05:02:46-07:00</published><updated>2018-06-08T05:02:46-07:00</updated><id>http://localhost:4000/jekyll/update/2018/06/08/systematizing-creativity-models-and-techniques</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/06/08/systematizing-creativity-models-and-techniques.html">&lt;blockquote&gt;
   &lt;p&gt;&lt;em&gt;Solve Creativity. Use it to solve everything else.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -3561,212 +3561,605 @@
 &lt;p&gt;The plan is to run this framework against problems in life systematically, until the models become an integral part of habitual thought. System 1 can do the work of aggregating their results after I see enough data, and the framework will expose the strongest ways to think about problems immediately.
 &lt;!-- &lt;/p&gt;&lt;p&gt; --&gt;&lt;/p&gt;
 
-&lt;p&gt;What follows is a master list of this framework.
+&lt;p&gt;What follows is a master list of this framework.&lt;br /&gt;
 &lt;!-- &lt;/p&gt;&lt;p&gt; --&gt;
-&lt;!-- &lt;div class='post_title'&gt; --&gt;&lt;/p&gt;
-
-&lt;p&gt;Models Master List (Letting Things Blow Up)
+&lt;!-- &lt;div class='post_title'&gt; --&gt;
 &lt;!-- &lt;/p&gt;&lt;p&gt; --&gt;&lt;/p&gt;
+
+&lt;p&gt;Models Master List&lt;/p&gt;
 
 &lt;p&gt;Behavioral Economics / Psychology&lt;/p&gt;
 
-&lt;p&gt;Prospect Theory&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Prospect Theory&lt;/p&gt;
 
-&lt;p&gt;Reference Dependence&lt;/p&gt;
-
-&lt;p&gt;Loss / Risk / Uncertainty Aversion&lt;/p&gt;
-
-&lt;p&gt;Growth vs Fixed Mindset&lt;/p&gt;
-
-&lt;p&gt;System 1 / System 2&lt;/p&gt;
-
-&lt;p&gt;Goal Factoring&lt;/p&gt;
-
-&lt;p&gt;Ego (Positional Negotiation)&lt;/p&gt;
-
-&lt;p&gt;Environment as Main Determinant of Behavior (Social and Physical)&lt;/p&gt;
-
-&lt;p&gt;Assume that some options are eliminated&lt;/p&gt;
-
-&lt;p&gt;Prevention Focus vs Promotion Focus&lt;/p&gt;
-
-&lt;p&gt;When we consider the best and worst states, what context do we think exists?&lt;/p&gt;
-
-&lt;p&gt;Identify Aversive Factors&lt;/p&gt;
-
-&lt;p&gt;Inferential Distance&lt;/p&gt;
-
-&lt;p&gt;Steelman each idea&lt;/p&gt;
-
-&lt;p&gt;Exposure Therapy&lt;/p&gt;
-
-&lt;p&gt;Groupthink&lt;/p&gt;
-
-&lt;p&gt;Confirmation Bias&lt;/p&gt;
-
-&lt;p&gt;Selection Effects&lt;/p&gt;
-
-&lt;p&gt;Availability Bias&lt;/p&gt;
-
-&lt;p&gt;Cognitive Dissonance (Consistency plus Sour Grapes)&lt;/p&gt;
-
-&lt;p&gt;Social Proof&lt;/p&gt;
-
-&lt;p&gt;No Brainer (Do the Obvious Thing)&lt;/p&gt;
-
-&lt;p&gt;Reciprocation&lt;/p&gt;
-
-&lt;p&gt;Maslow’s Hammer (The tools you have determine the solutions you see)&lt;/p&gt;
-
-&lt;p&gt;Habits&lt;/p&gt;
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;p&gt;Reference Dependence&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Loss / Risk / Uncertainty Aversion&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Growth vs Fixed Mindset&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;System 1 / System 2&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Goal Factoring&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ego (Positional Negotiation)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Prevention Focus vs Promotion Focus&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Identify Aversive Factors&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Exposure Therapy&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Inferential Distance&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Steelman each idea&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Groupthink&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Confirmation Bias&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Selection Effects&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Narrative Fallacy&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Availability Bias&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Reciprocation&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Social Proof&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Liking (Similarity, Compliments, Growing Together)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Commitment and Consistency (Cognitive Dissonance, Sour Grapes)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Authority&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Alignment / Misalignment&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Halo Effect&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Placebo Effect&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Self-fulfilling prophecy&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;Economics&lt;/p&gt;
 
-&lt;p&gt;Incentives&lt;/p&gt;
-
-&lt;p&gt;Opportunity Cost (Necessity of trade-offs)&lt;/p&gt;
-
-&lt;p&gt;Marginal Value&lt;/p&gt;
-
-&lt;p&gt;Supply Demand (Scarcity, scarce resources)&lt;/p&gt;
-
-&lt;p&gt;Diminishing Marginal Returns&lt;/p&gt;
-
-&lt;p&gt;Option Value (Value in Exploration)&lt;/p&gt;
-
-&lt;p&gt;Comparative Advantage / Specialization&lt;/p&gt;
-
-&lt;p&gt;Equilibrium&lt;/p&gt;
-
-&lt;p&gt;Hyperbolic Discounting&lt;/p&gt;
-
-&lt;p&gt;Arbitrage&lt;/p&gt;
-
-&lt;p&gt;Deadweight Loss (Resource Misallocation)&lt;/p&gt;
-
-&lt;p&gt;Elasticity (First derivative, response magnitude of supply/demand to changing price)&lt;/p&gt;
-
-&lt;p&gt;Tragedy of the Commons (Free Rider Problem)&lt;/p&gt;
-
-&lt;p&gt;Externalities&lt;/p&gt;
-
-&lt;p&gt;Moral Hazard / Principal Agent Problem&lt;/p&gt;
-
-&lt;p&gt;Expected Value&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Incentives&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Opportunity Cost (Necessity of trade-offs)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Marginal Value&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Supply Demand (Scarcity, scarce resources)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Diminishing Marginal Returns&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Option Value (Value in Exploration)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Comparative Advantage / Specialization&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Equilibrium (Individual vs. System Wide incentives)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hyperbolic Discounting&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Deadweight Loss (Resource Misallocation)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Elasticity (First derivative, response magnitude of supply/demand to changing price)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tragedy of the Commons (Free Rider Problem)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Externalities&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Moral Hazard / Principal Agent Problem&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Expected Value&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Arbitrage&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;Mathematics&lt;/p&gt;
 
-&lt;p&gt;Check Derivative and Second Derivative, not just Objective Function&lt;/p&gt;
-
-&lt;p&gt;Nonlinearity&lt;/p&gt;
-
-&lt;p&gt;Invert&lt;/p&gt;
-
-&lt;p&gt;Principle Component Analysis&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Check Derivative and Second Derivative, not just Objective Function&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Linear vs. Nonlinear Models (Especially Exponentials)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Principle Component Analysis&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tree Structure (Graphical Structure)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Binary / Discrete vs. Continuous&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;Statistics&lt;/p&gt;
 
-&lt;p&gt;Antifragility (Gains from volatility)&lt;/p&gt;
-
-&lt;p&gt;Option (Short or long volatility)&lt;/p&gt;
-
-&lt;p&gt;Optionality&lt;/p&gt;
-
-&lt;p&gt;Narrative Fallacy&lt;/p&gt;
-
-&lt;p&gt;Search for Objective Data to Inform Decisions&lt;/p&gt;
-
-&lt;p&gt;Intensity (Variance)&lt;/p&gt;
-
-&lt;p&gt;Conditional probabilities multiply - theorizing is extremely difficult&lt;/p&gt;
-
-&lt;p&gt;Power Law Distribution vs Normal Distribution&lt;/p&gt;
-
-&lt;p&gt;Outliers&lt;/p&gt;
-
-&lt;p&gt;Law of Large Numbers (Poker style optimal play)&lt;/p&gt;
-
-&lt;p&gt;Mean Regression&lt;/p&gt;
-
-&lt;p&gt;Bias / Variance&lt;/p&gt;
-
-&lt;p&gt;Tight / Aggressive approach to decisions&lt;/p&gt;
-
-&lt;p&gt;Pareto Principle (80/20 rule, Curate, Triage)&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Conditional Probability / Bayes Rule (Make sure to condition, don’t use aggregate probability)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Power Law Distribution vs Normal Distribution&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Outliers&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Law of Large Numbers (Poker style optimal play)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mean Regression&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Bias / Variance&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;Biology&lt;/p&gt;
 
-&lt;p&gt;Evolution&lt;/p&gt;
-
-&lt;p&gt;Natural Selection&lt;/p&gt;
-
-&lt;p&gt;Memes&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Evolution&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Natural Selection&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Memes&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;Physics&lt;/p&gt;
 
-&lt;p&gt;Critical Mass&lt;/p&gt;
-
-&lt;p&gt;First Principles Foundational Thought&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Critical Mass&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;First Principles Foundational Thought (As opposed to metaphorical thought)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;Chemistry&lt;/p&gt;
 
-&lt;p&gt;Dose Dependence&lt;/p&gt;
-
-&lt;p&gt;Catalyst&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Dose Dependence&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Catalyst&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Activation Energy&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;Philosophy&lt;/p&gt;
 
-&lt;p&gt;Consider the Meta Level&lt;/p&gt;
-
-&lt;p&gt;Consequentialism&lt;/p&gt;
-
-&lt;p&gt;Problem of Induction / Empiricism&lt;/p&gt;
-
-&lt;p&gt;Values Framework&lt;/p&gt;
-
-&lt;p&gt;Simplicity (Occam’s Razor)&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Consider the Meta Level&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Abstraction&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Consequentialism vs. Deontology&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Problem of Induction / Empiricism&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Values Framework&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Simplicity (Occam’s Razor)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;Engineering&lt;/p&gt;
 
-&lt;p&gt;Bottleneck&lt;/p&gt;
-
-&lt;p&gt;Backup System&lt;/p&gt;
-
-&lt;p&gt;Positive / Negative Feedback&lt;/p&gt;
-
-&lt;p&gt;Curate&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Bottleneck&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Backup System&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Positive / Negative Feedback&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Curate&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;Heuristics&lt;/p&gt;
 
-&lt;p&gt;What would I think if I was another type of person? Different Identity?&lt;/p&gt;
-
-&lt;p&gt;Habits&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;What would I think if I was another type of person? Different Identity?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Habits&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Environment as Main Determinant of Behavior (Social and Physical)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Assume that some options are eliminated&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;When we consider the best and worst states, what context do we think exists?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Which dogs didn’t bark (what did I expect to see that did not exist?)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Frog in boiling water (what slow changes are impacting the system?)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tight / Aggressive approach to decisions (Focus tradeoff)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Pareto Principle (80/20 rule, Curate, Triage)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;No Brainer (Do the Obvious Thing)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Maslow’s Hammer (The tools you have determine the solutions you see)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Invert&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;History&lt;/p&gt;
 
-&lt;p&gt;When has this problem or approach been tried or solved in the past?&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;When has this problem or approach been tried or solved in the past?&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;Sociology&lt;/p&gt;
 
-&lt;p&gt;Identity&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Identity&lt;/p&gt;
 
-&lt;p&gt;With social roles&lt;/p&gt;
-
-&lt;p&gt;With organizations&lt;/p&gt;
-
-&lt;p&gt;With status levels&lt;/p&gt;
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;p&gt;With social roles&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;With organizations&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;With status levels&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;Computer Science&lt;/p&gt;
 
-&lt;p&gt;Systematize (Write an Algorithm / Process)&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Systematize (Write an Algorithm / Process)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Exploration-Exploitation&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Divide and Conquer (Split problem into pieces)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Premature Optimization&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;Exploration-Exploitation&lt;/p&gt;
+&lt;p&gt;Books (As Frameworks)&lt;/p&gt;
 
-&lt;p&gt;Divide and Conquer (Split problem into pieces)&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Antifragile&lt;/p&gt;
 
-&lt;p&gt;Premature Optimization&lt;/p&gt;
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;p&gt;Antifragility (Gains from volatility)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Payoffs thinking instead of probabilities thinking&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Level of exposure to extreme events&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Options (Short or long volatility)&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Decisive&lt;/p&gt;
 
-&lt;p&gt;Tree Structure (Graphical Structure)&lt;/p&gt;</content><author><name></name></author><summary type="html">Nobody that I’ve met has had a great answer to how to get a mapping from concepts and frameworks to problems to solve, where their intuition brings the most salient, information-full frameworks and concepts to mind as soon as they encounter a problem. This is definitely how my brain seems to work and so improving this would lead to great outcomes.</summary></entry><entry><title type="html">Optimize for Volatility, not Average Capacity</title><link href="http://localhost:4000/jekyll/update/2015/06/22/optimize-for-volatility.html" rel="alternate" type="text/html" title="Optimize for Volatility, not Average Capacity" /><published>2015-06-22T05:02:46-07:00</published><updated>2015-06-22T05:02:46-07:00</updated><id>http://localhost:4000/jekyll/update/2015/06/22/optimize-for-volatility</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2015/06/22/optimize-for-volatility.html">&lt;p&gt;There are a number of interrelated ideas that I’d like to connect. Those are Optionality, Trial and Error, Exploration-Exploitation, Experimentation, Natural Selection, Comfort Zones, Creative Destruction, and certainly a swath of other critical ideas.&lt;/p&gt;
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;p&gt;Search for Objective Data to Inform Decisions&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Small Experiment / Ooch&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;What are the options that we’re not considering?&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;What beliefs do I have that I should question?&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;What is the evidence that contradicts my beliefs?&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;What are the underlying desires guiding my decision?&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Assume that some or all options are eliminated or required. What do we do?&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;What is the opportunity cost of this decision? (Opportunity Cost)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Can we reframe between prevention focus and promotion focus?&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Who else had this problem, and how can we learn from them? (History)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;What evidence, if witnessed, would change your mind?&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;When this went well, what was happening?&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;What was the close-up experience of people who made my decision in the past? (Inside View)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;How will I feel about this decision in 5 minutes, in 4 months, in 3 years?&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Premortem - imagine this decision going horribly wrong and going extremely well. What caused it?&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;What is the courageous action? The imaginative action?&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;What would other people of different types do in my position? (Different person heuristic)&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Getting to Yes&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;p&gt;Escape Ego Association (Positional Negotiation)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Separate the people from the problem&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Escape to underlying interests, of which the positions are made&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Invent Options for Mutual Gain&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Use Objective Criteria&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;CFAR Manual&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;p&gt;Visualization over possible futures (similar to best state worst state)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Actually Try - OMG I need to do this all the time, it’s huge&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Murphyjitsu&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Identify motivating urges&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Identify aversive factors&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Combine objective information with Value of Information&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Inferential Distance (what knowledge is requisite)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Explain the problem in detail (to a duck)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Actually understand the problem&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Intensity&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Identify Bottleneck to problem solving&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Obvious next step that needs to happen&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Where did the problem go wrong? Did it happen earlier than expected?&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Steel-Man each idea&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Mindset check - are you looking for evidence for a particular option, or genuinely a scout&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Physiology check - what’s your psychological state?&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;City of Lights - separate yourself into different parts with different opinions&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;How can training occur naturally in behavior (deliberate performance)?&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Overlearning - seeing an idea everywhere, immersion&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Postmortem - when this has failed in the past, what happened?&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Exposure Therapy&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Fragment - break the problem into smaller pieces/chunks&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Identity - Sociology&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Poor Charlie’s Almanac&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;p&gt;Specialization/Comparative Advantage&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Law of Large Numbers / Poker-style optimal play, long term tends to theoretical values&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Invert! Invert the question or the situation, try reversing everything.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Mean Regression&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Backup System - All critical systems have a backup, avoid downside exposure&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Simplicity. Make as few decisions as possible, have few dependencies.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Equilibrium&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Critical Mass&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Think at the Margin&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Scarcity&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Social Proof&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Consistency&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Reciprocation&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Risk/Loss/Uncertainty Aversion&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Positive Feedback&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Catalyst&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Compound Interest&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Tight/Aggressive approach to decisions&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Pareto Principle (80/20 rule)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Man with a hammer syndrome&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Tragedy of the Commons&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;No-Brainer / Do the obvious thing&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Nobody that I’ve met has had a great answer to how to get a mapping from concepts and frameworks to problems to solve, where their intuition brings the most salient, information-full frameworks and concepts to mind as soon as they encounter a problem. This is definitely how my brain seems to work and so improving this would lead to great outcomes.</summary></entry><entry><title type="html">Optimize for Volatility, not Average Capacity</title><link href="http://localhost:4000/jekyll/update/2015/06/22/optimize-for-volatility.html" rel="alternate" type="text/html" title="Optimize for Volatility, not Average Capacity" /><published>2015-06-22T05:02:46-07:00</published><updated>2015-06-22T05:02:46-07:00</updated><id>http://localhost:4000/jekyll/update/2015/06/22/optimize-for-volatility</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2015/06/22/optimize-for-volatility.html">&lt;p&gt;There are a number of interrelated ideas that I’d like to connect. Those are Optionality, Trial and Error, Exploration-Exploitation, Experimentation, Natural Selection, Comfort Zones, Creative Destruction, and certainly a swath of other critical ideas.&lt;/p&gt;
 
 &lt;p&gt;The central idea is Optionality - in many cases, you get the upside from volatility. You sample over and over from a distribution (you can imagine meeting potential friends/romantic partners, or trying out classes or a major at college, or there being many mutations of a gene in a population) and take the best, or at least the better, option.&lt;/p&gt;
 
