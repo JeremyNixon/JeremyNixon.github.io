@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Systematizing Creativity - Models and Techniques"
-date:   2018-06-08 05:02:46 -0700
+date:   2018-06-09 05:02:46 -0700
 categories: creativity
 ---
 
