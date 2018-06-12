@@ -34,4 +34,5 @@ Many creatives add these practices as habits to their lives, taking daily walks 
 ___
 
 Part of a series on [Systematizing Creativity].
+
 [Systematizing Creativity]: https://jeremynixon.github.io/creativity/2018/06/09/systematizing-creativity-models-and-techniques.html
