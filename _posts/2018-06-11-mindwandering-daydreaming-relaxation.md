@@ -29,3 +29,9 @@ The default mode network is a state of the brain associated with being at rest w
 It’s important to load up the thoughts or problem you’d like to be creative over or that you expect will interact well with one another prior to entering default mode. Thoughts that have been experience recently or that have sunken into long term memory can be used as material for this creative moment.  
 
 Many creatives add these practices as habits to their lives, taking daily walks or long showers. 
+
+<br>
+___
+
+Part of a series on [Systematizing Creativity].
+[Systematizing Creativity]: https://jeremynixon.github.io/creativity/2018/06/09/systematizing-creativity-models-and-techniques.html
