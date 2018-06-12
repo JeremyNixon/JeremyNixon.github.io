@@ -7,13 +7,14 @@ categories: creativity
 
 > _Revel in the moment of creation._
 
-This approach to systematizing creativity sits at the intersection of the conscious and unconscious mind. The key is to induce a state of mind wandering, allowing thoughts to freely re-combine with one another, be compared and aligned with one another, but through a subconscious and intuitive process rather than through an intentional process. Good examples include the following:  
+This approach to systematizing creativity sits at the intersection of the conscious and unconscious mind. The key is to induce a state of mind wandering, allowing thoughts to freely re-combine with one another, be compared and aligned with one another, through a subconscious and intuitive process rather than through an intentional process. Good examples include the following:  
 
 1. Walking
 	- Especially wandering, walking without destination
 2. Showering
 3. Sleep
-	- Onset of sleep
+	- Start to fall asleep, wake up as you do (use alarm or keys in the hand)
+	- Onset of sleep (Hypnagogia)
 	- REM sleep
 	- Sleep deprivation
 	- Lucid Dreaming

@@ -35,7 +35,7 @@ _Categories of Technique_
 
 _Techniques_
 
-1. __[Mind Wandering, Daydreaming, and Relaxation - Intentionally enter default mode](https://jeremynixon.github.io/creativity/2018/06/11/mindwandering-daydreaming-relaxation.html)__
+1. __[Mind Wandering, Daydreaming, and Relaxation - Intentionally enter default mode]__
     - Load up an idea / problem / question and:
         - Go for a walk
         - Take a shower
@@ -251,3 +251,5 @@ Great thanks to Hikari Sorensen, Alton Sun, Parnian Barekatain, Romeo Stevens, G
 June Bossman, Michael Andregg, Mark Estefanos, and everyone else that inspired
 and contributed to this beautiful body of ideas.
 <!-- ![Moment of Creation](Creative-Hand.jpg) -->
+
+[Mind Wandering, Daydreaming, and Relaxation - Intentionally enter default mode]: https://jeremynixon.github.io/creativity/2018/06/11/mindwandering-daydreaming-relaxation.html
