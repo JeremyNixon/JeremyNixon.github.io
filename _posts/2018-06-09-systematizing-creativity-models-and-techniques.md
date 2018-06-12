@@ -9,7 +9,7 @@ categories: creativity
 
 _Categories of Technique_
 
-1. [Mind Wandering, Daydreaming, and Relaxation - Intentionally enter default mode](jeremynixon.github.io/creativity/2018/06/11/mindwandering-daydreaming-relaxation)
+1. [Mind Wandering, Daydreaming, and Relaxation - Intentionally enter default mode](https://jeremynixon.github.io/creativity/2018/06/11/mindwandering-daydreaming-relaxation.html)
 2. Abstract and Generalize / Transfer over similar problems & solutions
 3. Composition / Recombination
 4. Idea Lists
@@ -35,7 +35,7 @@ _Categories of Technique_
 
 _Techniques_
 
-1. __Mind Wandering, Daydreaming, and Relaxation - Intentionally enter default mode over ideas__
+1. __[Mind Wandering, Daydreaming, and Relaxation - Intentionally enter default mode](https://jeremynixon.github.io/creativity/2018/06/11/mindwandering-daydreaming-relaxation.html)__
     - Load up an idea / problem / question and:
         - Go for a walk
         - Take a shower
