@@ -8,6 +8,7 @@ categories: creativity
 > _Revel in the moment of creation._
 
 Idea Listing:  
+-Choose a topic to generate 10 ideas over.
 -10m Time Constraint.  
 -Fill to 10 ideas. Let quality fall if time becomes a limiting factor.  
 -Both expected value and volatility optimization  
