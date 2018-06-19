@@ -10,10 +10,10 @@ categories: creativity
 _Categories of Technique_
 
 1. [Mind Wandering, Daydreaming, and Relaxation - Intentionally enter default mode](https://jeremynixon.github.io/creativity/2018/06/11/mindwandering-daydreaming-relaxation.html)
-2. Abstract and Generalize / Transfer over similar problems & solutions
+2. Abstract and Generalize / Analogize - Transfer over similar problems & solutions
 3. Composition / Recombination
-4. Idea Lists
-5. Decomposition
+4. [Idea Lists]
+5. [Decomposition]
 6. Randomness
 7. Idea Mapping, Graphs of Relationships between Ideas
 8. Leading questions
@@ -49,7 +49,7 @@ _Techniques_
     ---
     <br>
 
-2. __Abstract and Generalize / Transfer over similar problems & solutions__
+2. __Abstract and Generalize / Analogize - Transfer over similar problems & solutions__
     - Model vs. Technique - see what works in the space, ask why to get a model. Generalize from the model to generate more techniques.
     - Metaphor Generation
         - Idea list over metaphors for a given problem / solution / object
@@ -58,6 +58,7 @@ _Techniques_
         - Ex. Properties of Representation, Systematizing Creativity
     - List solutions to a problem and generalize
     - List related problems and generalize from their solutions  
+    - Operating over your operators
   	<br>
 
     ---
@@ -72,7 +73,7 @@ _Techniques_
     ---
     <br>
 
-4. __Idea Lists__
+4. __[Idea Lists]__
     - List Creation + Time Pressure
         - Choose a topic / prompt / question.
         - 10m Time Constraint. 
@@ -87,7 +88,7 @@ _Techniques_
     ---
     <br>
 
-5. __Decomposition (Mapping out the space)__
+5. __[Decomposition]__
     - Break into component pieces, in multiple directions
         - Ex. Machine learning becomes Linear Algebra + Calculus + Probability Theory + Computer Science, which break into their own subregions
         - Ex. Scientific Field becomes Major Papers + Categories of the topic + Conferences + Major Researchers + Quality Sites
@@ -253,3 +254,5 @@ and contributed to this beautiful body of ideas.
 <!-- ![Moment of Creation](Creative-Hand.jpg) -->
 
 [Mind Wandering, Daydreaming, and Relaxation - Intentionally enter default mode]: https://jeremynixon.github.io/creativity/2018/06/11/mindwandering-daydreaming-relaxation.html
+[Idea Lists]: https://jeremynixon.github.io/creativity/2018/06/18/idea-lists.html
+[Decomposition]: https://jeremynixon.github.io/creativity/2018/06/18/decomposition.html
