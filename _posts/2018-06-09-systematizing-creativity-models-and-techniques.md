@@ -9,11 +9,11 @@ categories: creativity
 
 _Categories of Technique_
 
-1. [Mind Wandering, Daydreaming, and Relaxation - Intentionally enter default mode](https://jeremynixon.github.io/creativity/2018/06/11/mindwandering-daydreaming-relaxation.html)
+1. Mind Wandering, Daydreaming, and Relaxation - Intentionally enter default mode
 2. Abstract and Generalize / Analogize - Transfer over similar problems & solutions
 3. Composition / Recombination
-4. [Idea Lists]
-5. [Decomposition]
+4. Idea Lists
+5. Decomposition
 6. Randomness
 7. Idea Mapping, Graphs of Relationships between Ideas
 8. Leading questions

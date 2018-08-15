@@ -9,10 +9,23 @@ categories: creativity
 
 Idea Listing:  
 -Choose a topic to generate 10 ideas over.
--10m Time Constraint.  
+-10m Time Constraint. Start timer.  
 -Fill to 10 ideas. Let quality fall if time becomes a limiting factor.  
--Both expected value and volatility optimization  
+-Optimize for both expected value of the idea and for its novelty
 -Novelty - Novelty is great but not necessary. Feel free to dial this down as time goes on.
+<br>  
+
+---
+<br>
+
+Mechanics:
+The time constraint accomplishes a number of important things.
+1. Creates the freedom to let all other thoughts, worries and mental activity be released temporarily. The time being explicitly set aside for one task is permission to let go of open loops, freeing those slots in working memory for the task.
+2. Activates an action-oriented mode, a creation rather than consumption mode.
+3. Is a step of momentum towards taking productive action
+4. Creates freedom from other people - they either see it, or you feel comfortable letting them know that you're busy (but only temporarily, making it feel acceptable).
+
+
 <br>  
 
 ---
