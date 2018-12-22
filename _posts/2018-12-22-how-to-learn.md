@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "How to Think"
-date:   2015-06-23 05:02:46 -0700
+title:  "How to Learn"
+date:   2018-12-22 05:02:46 -0700
 categories: thinking
 ---
 
