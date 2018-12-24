@@ -24,7 +24,7 @@ Major Models:
 7. Learning by doing as more effective than learning in abstract - 8/ learning as active or passive
 9. Able to Recreate vs. Recall ability vs. Illusion of Competence
 10. Outcome oriented vs. Process oriented
-11/ System 1 / System 2
+11. System 1 / System 2
 12. Focused vs. Default Mode Thinking
 
 Major Techniques:
