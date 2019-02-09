@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.4.0 -->
+<title>OpenAI Research Frontier | Grounded Abstraction</title>
+<meta name="generator" content="Jekyll v3.8.0" />
+<meta property="og:title" content="OpenAI Research Frontier" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="By Jeremy Nixon [jnixon2@gmail.com]. Nov 2017." />
+<meta property="og:description" content="By Jeremy Nixon [jnixon2@gmail.com]. Nov 2017." />
+<link rel="canonical" href="http://localhost:4000/thinking/2019/02/08/openai-research-overview.html" />
+<meta property="og:url" content="http://localhost:4000/thinking/2019/02/08/openai-research-overview.html" />
+<meta property="og:site_name" content="Grounded Abstraction" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-02-08T17:37:46-08:00" />
+<script type="application/ld+json">
+{"description":"By Jeremy Nixon [jnixon2@gmail.com]. Nov 2017.","@type":"BlogPosting","url":"http://localhost:4000/thinking/2019/02/08/openai-research-overview.html","headline":"OpenAI Research Frontier","dateModified":"2019-02-08T17:37:46-08:00","datePublished":"2019-02-08T17:37:46-08:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/thinking/2019/02/08/openai-research-overview.html"},"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Grounded Abstraction" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Grounded Abstraction</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about/">Identity.</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">OpenAI Research Frontier</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2019-02-08T17:37:46-08:00" itemprop="datePublished">Feb 8, 2019
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p>By Jeremy Nixon [<a href="mailto:jnixon2@gmail.com">jnixon2@gmail.com</a>]. Nov 2017.</p>
+
+<p>Categories: Domain in which the paper’s innovation is novel.</p>
+
+<ol>
+  <li>
+    <p>Reinforcement Learning</p>
+
+    <ol>
+      <li>
+        <p>Multi-Agent</p>
+      </li>
+      <li>
+        <p>Exploration</p>
+      </li>
+      <li>
+        <p>Imitation Learning</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Deep Learning</p>
+  </li>
+  <li>
+    <p>Memory</p>
+  </li>
+  <li>
+    <p>Program Learning</p>
+  </li>
+  <li>
+    <p>Representation Learning</p>
+  </li>
+  <li>
+    <p>Variational Inference</p>
+  </li>
+  <li>
+    <p>Generative Models</p>
+  </li>
+  <li>
+    <p>Evolution</p>
+  </li>
+  <li>
+    <p>Applications</p>
+
+    <ol>
+      <li>
+        <p>Security / Safety</p>
+      </li>
+      <li>
+        <p>Robotics</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Environments</p>
+  </li>
+</ol>
+
+<p>Papers:</p>
+
+<ol>
+  <li>
+    <p>Reinforcement Learning</p>
+
+    <ol>
+      <li>
+        <p>Multi-Agent</p>
+
+        <ol>
+          <li>
+            <p>Learning with Opponent-Learning Awareness</p>
+          </li>
+          <li>
+            <p><a href="https://arxiv.org/abs/1709.04326">https://arxiv.org/abs/1709.04326</a></p>
+          </li>
+          <li>
+            <p>Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments</p>
+          </li>
+          <li>
+            <p><a href="https://arxiv.org/abs/1706.02275">https://arxiv.org/abs/1706.02275</a></p>
+          </li>
+          <li>
+            <p>Emergence of Grounded Compositional Language in Multi-Agent Populations</p>
+          </li>
+          <li>
+            <p><a href="https://arxiv.org/abs/1703.04908">https://arxiv.org/abs/1703.04908</a></p>
+          </li>
+        </ol>
+      </li>
+      <li>
+        <p>Exploration</p>
+
+        <ol>
+          <li>
+            <p>Parameter Space Noise for Exploration</p>
+          </li>
+          <li>
+            <p><a href="https://arxiv.org/abs/1706.01905">https://arxiv.org/abs/1706.01905</a></p>
+          </li>
+          <li>
+            <p>UCB and InfoGain Exploration via Q-Ensembles</p>
+          </li>
+          <li>
+            <p><a href="https://arxiv.org/abs/1706.01502">https://arxiv.org/abs/1706.01502</a></p>
+          </li>
+          <li>
+            <p>Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning</p>
+          </li>
+          <li>
+            <p><a href="https://arxiv.org/abs/1611.04717">https://arxiv.org/abs/1611.04717</a></p>
+          </li>
+          <li>
+            <p>VIME: Variational Information Maximizing Exploration</p>
+          </li>
+          <li>
+            <p>https://arxiv.org/abs/1605.09674</p>
+          </li>
+        </ol>
+      </li>
+      <li>
+        <p>Imitation Learning</p>
+
+        <ol>
+          <li>
+            <p>Third-Person Imitation Learning</p>
+          </li>
+          <li>
+            <p><a href="https://arxiv.org/abs/1703.01703">https://arxiv.org/abs/1703.01703</a></p>
+          </li>
+          <li>
+            <p>One-Shot Imitation Learning</p>
+          </li>
+          <li>
+            <p><a href="https://arxiv.org/abs/1703.07326">https://arxiv.org/abs/1703.07326</a></p>
+          </li>
+        </ol>
+      </li>
+      <li>
+        <p>RL2: Fast Reinforcement Learning via Slow Reinforcement Learning</p>
+      </li>
+      <li>
+        <p>https://arxiv.org/abs/1611.02779</p>
+      </li>
+      <li>
+        <p>Teacher-Student Curriculum Learning</p>
+      </li>
+      <li>
+        <p><a href="https://arxiv.org/abs/1707.00183">https://arxiv.org/abs/1707.00183</a></p>
+      </li>
+      <li>
+        <p>Equivalence Between Policy Gradients and Soft Q-Learning</p>
+      </li>
+      <li>
+        <p><a href="https://arxiv.org/abs/1704.06440">https://arxiv.org/abs/1704.06440</a></p>
+      </li>
+      <li>
+        <p>Prediction and Control with Temporal Segment Models</p>
+      </li>
+      <li>
+        <p>https://arxiv.org/abs/1703.04070</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Deep Learning</p>
+
+    <ol>
+      <li>
+        <p>Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks</p>
+      </li>
+      <li>
+        <p>https://arxiv.org/abs/1602.07868</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Memory</p>
+
+    <ol>
+      <li>
+        <p>Hindsight Experience Replay [Also, Reinforcement Learning]</p>
+      </li>
+      <li>
+        <p><a href="https://arxiv.org/pdf/1707.01495.pdf">https://arxiv.org/pdf/1707.01495.pdf</a></p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Program Learning</p>
+
+    <ol>
+      <li>
+        <p>Extensions and Limitations of the Neural GPU</p>
+      </li>
+      <li>
+        <p>https://arxiv.org/abs/1611.00736</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Representation Learning</p>
+
+    <ol>
+      <li>
+        <p>Variational Lossy Autoencoder</p>
+      </li>
+      <li>
+        <p><a href="https://arxiv.org/abs/1611.02731">https://arxiv.org/abs/1611.02731</a></p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Variational Inference</p>
+
+    <ol>
+      <li>
+        <p>Improving Variational Inference with Inverse Autoregressive Flow</p>
+      </li>
+      <li>
+        <p>https://arxiv.org/abs/1606.04934</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Generative Models</p>
+
+    <ol>
+      <li>
+        <p>Generative Adversarial Networks</p>
+
+        <ol>
+          <li>
+            <p>InfoGan: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [Also, Representation Learning]</p>
+          </li>
+          <li>
+            <p><a href="https://arxiv.org/abs/1606.03657">https://arxiv.org/abs/1606.03657</a></p>
+          </li>
+          <li>
+            <p>Improved Techniques for Training GANs</p>
+          </li>
+          <li>
+            <p>https://arxiv.org/abs/1606.03498</p>
+          </li>
+        </ol>
+      </li>
+      <li>
+        <p>On the Quantitative Analysis of Decoder-Based Generative Models</p>
+      </li>
+      <li>
+        <p><a href="https://arxiv.org/abs/1611.04273">https://arxiv.org/abs/1611.04273</a></p>
+      </li>
+      <li>
+        <p>A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy Based Models [Also Reinforcement Learning]</p>
+      </li>
+      <li>
+        <p><a href="https://arxiv.org/pdf/1611.03852.pdf">https://arxiv.org/pdf/1611.03852.pdf</a></p>
+      </li>
+      <li>
+        <p>PixelCNN++: Improving the Pixel CNN with Discretized Logistic Mixture Likelihood and Other Modifications</p>
+      </li>
+      <li>
+        <p><a href="https://arxiv.org/abs/1701.05517">https://arxiv.org/abs/1701.05517</a></p>
+      </li>
+      <li>
+        <p>Learning to Generate Reviews and Discovering Sentiment</p>
+      </li>
+      <li>
+        <p><a href="https://arxiv.org/abs/1704.01444">https://arxiv.org/abs/1704.01444</a></p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Evolution</p>
+
+    <ol>
+      <li>
+        <p>Evolution Strategies as a Scalable Alternative to Reinforcement Learning</p>
+      </li>
+      <li>
+        <p>https://arxiv.org/abs/1703.03864</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Applications</p>
+
+    <ol>
+      <li>
+        <p>Security / Safety</p>
+
+        <ol>
+          <li>
+            <p>Deep Reinforcement Learning from Human Preferences</p>
+          </li>
+          <li>
+            <p><a href="https://arxiv.org/abs/1706.03741">https://arxiv.org/abs/1706.03741</a></p>
+          </li>
+          <li>
+            <p>Concrete Problems in AI Safety</p>
+          </li>
+          <li>
+            <p>https://arxiv.org/abs/1606.06565</p>
+          </li>
+          <li>
+            <p>Adversarial Attacks on Neural Network Policies</p>
+          </li>
+          <li>
+            <p><a href="https://arxiv.org/abs/1702.02284">https://arxiv.org/abs/1702.02284</a></p>
+          </li>
+          <li>
+            <p>Adversarial Training Methods for Semi-Supervised Text Classification</p>
+          </li>
+          <li>
+            <p><a href="https://arxiv.org/abs/1605.07725">https://arxiv.org/abs/1605.07725</a></p>
+          </li>
+          <li>
+            <p>Semi-Supervised Knowledge Transfer for Deep Learning from Private Training Data</p>
+          </li>
+          <li>
+            <p><a href="https://arxiv.org/abs/1610.05755">https://arxiv.org/abs/1610.05755</a></p>
+          </li>
+          <li>
+            <p>Debate Amplification</p>
+          </li>
+          <li>
+            <p>https://arxiv.org/pdf/1805.00899.pdf</p>
+          </li>
+        </ol>
+      </li>
+      <li>
+        <p>Robotics</p>
+
+        <ol>
+          <li>
+            <p>Domain Randomization for Transferring Deep NEural Networks from Simulation to the Real World</p>
+          </li>
+          <li>
+            <p><a href="https://arxiv.org/abs/1703.06907">https://arxiv.org/abs/1703.06907</a></p>
+          </li>
+          <li>
+            <p>Transfer from Simulation to Real World through Learning Deep Inverse Dynamics Model</p>
+          </li>
+          <li>
+            <p><a href="https://arxiv.org/abs/1610.03518">https://arxiv.org/abs/1610.03518</a></p>
+          </li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Environments</p>
+
+    <ol>
+      <li>
+        <p>Infrastructure for Deep Learning</p>
+      </li>
+      <li>
+        <p>https://blog.openai.com/infrastructure-for-deep-learning/</p>
+      </li>
+      <li>
+        <p>Universe</p>
+      </li>
+      <li>
+        <p><a href="https://blog.openai.com/universe/">https://blog.openai.com/universe/</a></p>
+      </li>
+      <li>
+        <p>OpenAI Gym</p>
+      </li>
+      <li>
+        <p><a href="https://arxiv.org/abs/1606.01540">https://arxiv.org/abs/1606.01540</a></p>
+      </li>
+    </ol>
+  </li>
+</ol>
+
+<p>OpenAI Researchers (Every name on a published OpenAI Paper)</p>
+
+<p>Paul Christiano</p>
+
+<p><del>Ryan Lowe</del></p>
+
+<p><del>Jean Harb</del></p>
+
+<p><del>Pieter Abbeel</del></p>
+
+<p>Igor Mordatch</p>
+
+<p>Matthias Plappert</p>
+
+<p>Rein Houthooft</p>
+
+<p>Prafulla Dhariwal</p>
+
+<p>Szymon Sidor</p>
+
+<p>Richard Y. Chen</p>
+
+<p><del>Xi Chen</del></p>
+
+<p>Marcin Andrychowicz</p>
+
+<p>John Schulman</p>
+
+<p>Alec Radford</p>
+
+<p><del>Rafal Jozefowicz</del></p>
+
+<p><del>Yan Duan</del></p>
+
+<p><del>Bradly C. Stadie</del></p>
+
+<p><del>Jonathan Ho</del></p>
+
+<p>Jonas Schneider</p>
+
+<p>Ilya Sutskever</p>
+
+<p>Wojciech Zaremba</p>
+
+<p><del>Rachel Fong</del></p>
+
+<p>Josh Tobin</p>
+
+<p>Alex Ray</p>
+
+<p><del>Nikhil Mishra</del></p>
+
+<p><del>Ian Goodfellow</del></p>
+
+<p><del>Tim Salimans</del></p>
+
+<p><del>Diederik P. Kingma</del></p>
+
+<p><del>Andrej Karpathy</del></p>
+
+<p>Yuri Burda</p>
+
+<p><del>Zain Shah</del></p>
+
+<p><del>Trevor Blackwell</del></p>
+
+<p><del>Vicki Cheung</del></p>
+
+<p><a href="http://990s.foundationcenter.org/990_pdf_archive/810/810861541/810861541_201612_990.pdf">Salaries of top employees</a> [Pg. 28]</p>
+
+<p><a href="http://www.guidestar.org/FinDocuments/2016/810/861/2016-810861541-0eb61629-9.pdf">Hours &amp; Salaries of top employees</a> [Pg. 7]</p>
+
+<p>OpenAI spent 11 million in 2016, 7 million on salary. For comparison, Deepmind spend 138 million in 2016.</p>
+
+  </div><a class="u-url" href="/thinking/2019/02/08/openai-research-overview.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Grounded Abstraction</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Grounded Abstraction</li><li><a class="u-email" href="mailto:jnixon2@gmail.com">jnixon2@gmail.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/jeremynixon"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">jeremynixon</span></a></li><li><a href="https://www.twitter.com/JvNixon"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">JvNixon</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Reach to the sky from the bottom.</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
