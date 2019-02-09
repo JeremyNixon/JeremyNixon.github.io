@@ -10,7 +10,7 @@ categories: creativity
 One powerful generative motion is to take a whole and divide it into its sub-parts. Once cut up, the sub-parts can be [recombined], solved individually, maximized over, or even recursively decomposed.
 
 <!-- ![Decomposition Visualization](/images/Decomposition-Image.png) -->
-<p><a target="_blank" href="https://github.com/JeremyNixon/JeremyNixon.github.io/blob/master/_site/assets/images/Decomposition-Image.png"><img src="https://github.com/JeremyNixon/JeremyNixon.github.io/raw/master/_site/assets/images/Decomposition-Image.png" alt="Decomposition" style="max-width:100%;"></a></p>
+<p><a target="_blank" href="https://github.com/JeremyNixon/JeremyNixon.github.io/blob/master/_site/images/Decomposition-Image.png"><img src="https://github.com/JeremyNixon/JeremyNixon.github.io/raw/master/_site/assets/images/Decomposition-Image.png" alt="Decomposition" style="max-width:100%;"></a></p>
 
 Decomposition is necessary for turning abstract plans into action. For example, take an action like 'go to Antartica'. That action isn't executable - it needs to be decomposed into sub-parts (book a flight, go from where you are to an airport, navagate the airport, fly to southern Argentina, travel to the boat, call a tour operator, acquire a permit, etc.).  
 
@@ -29,7 +29,7 @@ Decomposition can be thought of as inverting abstraction. Where abstraction is c
 
 Part of a series on [Systematizing Creativity].
 
-<p><a target="_blank" href="https://github.com/JeremyNixon/JeremyNixon.github.io/blob/master/_site/assets/images/Creative-Hand.jpg"><img src="https://github.com/JeremyNixon/JeremyNixon.github.io/raw/master/_site/assets/images/Creative-Hand.jpg" alt="Moment of Creation" style="max-width:100%;"></a></p>
+<p><a target="_blank" href="https://github.com/JeremyNixon/JeremyNixon.github.io/blob/master/_site/images/Creative-Hand.jpg"><img src="https://github.com/JeremyNixon/JeremyNixon.github.io/raw/master/_site/images/Creative-Hand.jpg" alt="Moment of Creation" style="max-width:100%;"></a></p>
 
 [Systematizing Creativity]: https://jeremynixon.github.io/creativity/2018/06/09/systematizing-creativity-models-and-techniques.html
 [recombined]: https://jeremynixon.github.io/creativity/2018/06/18/recombination.html

@@ -31,7 +31,7 @@ _Categories of Technique_
 <br>
 
 <!-- ![Moment of Creation]({{ "/assets/images/Creative-Hand.jpg" | absolute_url }}) -->
-<p><a target="_blank" href="https://github.com/JeremyNixon/JeremyNixon.github.io/blob/master/_site/assets/images/Creative-Hand.jpg"><img src="https://github.com/JeremyNixon/JeremyNixon.github.io/raw/master/_site/assets/images/Creative-Hand.jpg" alt="Moment of Creation" style="max-width:100%;"></a></p>
+<p><a target="_blank" href="https://github.com/JeremyNixon/JeremyNixon.github.io/blob/master/_site/assets/images/Creative-Hand.jpg"><img src="https://github.com/JeremyNixon/JeremyNixon.github.io/raw/master/_site/images/Creative-Hand.jpg" alt="Moment of Creation" style="max-width:100%;"></a></p>
 
 _Techniques_
 

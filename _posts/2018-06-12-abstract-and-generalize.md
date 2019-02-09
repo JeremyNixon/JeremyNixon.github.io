@@ -9,7 +9,7 @@ categories: creativity
 
 All of Systematizing Creativity is Abstraction and Generalization.
 
-
+This has been moved to a [new location].
 
 
 <br>
@@ -18,6 +18,8 @@ All of Systematizing Creativity is Abstraction and Generalization.
 
 Part of a series on [Systematizing Creativity].
 
-<p><a target="_blank" href="https://github.com/JeremyNixon/JeremyNixon.github.io/blob/master/_site/assets/images/Creative-Hand.jpg"><img src="https://github.com/JeremyNixon/JeremyNixon.github.io/raw/master/_site/assets/images/Creative-Hand.jpg" alt="Moment of Creation" style="max-width:100%;"></a></p>
+<p><a target="_blank" href="https://github.com/JeremyNixon/JeremyNixon.github.io/blob/master/_site/images/Creative-Hand.jpg"><img src="https://github.com/JeremyNixon/JeremyNixon.github.io/raw/master/_site/images/Creative-Hand.jpg" alt="Moment of Creation" style="max-width:100%;"></a></p>
 
 [Systematizing Creativity]: https://jeremynixon.github.io/creativity/2018/06/09/systematizing-creativity-models-and-techniques.html
+
+[new location]: https://www.syscreativity.com/2019/01/23/abstraction
