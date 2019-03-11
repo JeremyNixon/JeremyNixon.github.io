@@ -4,14 +4,10 @@ title:  "Generators of Felt-Sense Meaning"
 date:   2019-02-17 15:09:46 -0700
 categories: thinking
 ---
-1.  Human connection
+1.  Human connection (Especially its creation, its loss)
     
 
 	1.  Family
-	    
-
-		*  Especially its creation, its loss
-	    
 
 	2.  Sense of belonging, of home
 	    
@@ -32,6 +28,8 @@ categories: thinking
 	2.  Sacrifice
 	    
 	3.  Investment
+
+	4. Collective Mission / Movements
 	    
 
 3.  Specialness
@@ -46,9 +44,11 @@ categories: thinking
 	5.  Sacred Beliefs
 	    
 	6.  Higher than humanity, transcendence
+
+	7.  Enlightenment / Awakening
     
 
-7.  Immortality
+5.  Immortality
     
 	
 	8.  Denial of Death
@@ -56,7 +56,7 @@ categories: thinking
 	9.  Live on in works and impact
     
 
-10.  Suffering
+6.  Suffering
     
 
 		11.  Avoidance of suffering, in self and others
@@ -64,9 +64,9 @@ categories: thinking
 		12.  Elimination of suffering
 	    
 
-13.  Enlightenment
+7.  Knowledge & Insight
     
-14.  Identity
+8.  Identity
     
 
 		15.  Changes in identity
@@ -77,6 +77,4 @@ categories: thinking
 		    
 		18.  Growth
 	    
-19.  Autonomy / Control / Responsibility
-    
-20.  Collective Mission / Movementss
+9.  Autonomy / Control / Responsibility
