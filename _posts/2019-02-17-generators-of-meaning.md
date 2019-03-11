@@ -59,9 +59,9 @@ categories: thinking
 6.  Suffering
     
 
-		11.  Avoidance of suffering, in self and others
-		    
-		12.  Elimination of suffering
+	11.  Avoidance of suffering, in self and others
+	    
+	12.  Elimination of suffering
 	    
 
 7.  Knowledge & Insight
@@ -69,12 +69,12 @@ categories: thinking
 8.  Identity
     
 
-		15.  Changes in identity
-		    
-		16.  Purpose Fulfillment
-		    
-		17.  Destruction / Creation of Identity
-		    
-		18.  Growth
+	15.  Changes in identity
+	    
+	16.  Purpose Fulfillment
+	    
+	17.  Destruction / Creation of Identity
+	    
+	18.  Growth
 	    
 9.  Autonomy / Control / Responsibility
