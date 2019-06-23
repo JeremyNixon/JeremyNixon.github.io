@@ -3,24 +3,39 @@ layout: default
 ---
 
 <div class="home">
+
+  <h2>Research <a style="font-size:16px" href="">[Google Scholar]</a></h2> 
+
+  <ul>
+    <li><b>Nixon, J.</b>, Dusenberry, M. W., Zhang, L., Jerfel, G., & Tran, D. (2019). <a href="http://openaccess.thecvf.com/content_CVPRW_2019/papers/Uncertainty%20and%20Robustness%20in%20Deep%20Visual%20Learning/Nixon_Measuring_Calibration_in_Deep_Learning_CVPRW_2019_paper.pdf">Measuring Calibration in Deep Learning</a>. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops (pp. 38-41).
+    </li>
+<!-- https://arxiv.org/abs/1906.03842 -->
+    <li>Metz, L., Maheswaranathan, N., <b>Nixon, J.</b>, Freeman, D., & Sohl-Dickstein, J. (2019, May). <a href="http://proceedings.mlr.press/v97/metz19a.html">Understanding and correcting pathologies in the training of learned optimizers</a>. In International Conference on Machine Learning.
+    </li>
+    <li>Dusenberry, M. W., Tran, D., Choi, E., Kemp, J., <b>Nixon, J.</b>, Jerfel, G., ... & Dai, A. M. (2019). <a href="https://arxiv.org/abs/1906.03842"> Analyzing the Role of Model Uncertainty for Electronic Health Records.</a> arXiv preprint arXiv:1906.03842.
+    </li>
+
+  </ul>
+
+
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
   {{ content }}
 
+  <!-- <h1 class="page-heading">Articles<h1> -->
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
+    <h2 class="post-list-heading">{{ page.list_title | default: "Models" }}</h2>
+    <ul class="modified-post-list">
       {%- for post in site.posts -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
+        <a class="modified-post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a> - {{ post.date | date: date_format }}
+
+        <!-- <span class="post-meta">{{ post.date | date: date_format }}</span> -->
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
