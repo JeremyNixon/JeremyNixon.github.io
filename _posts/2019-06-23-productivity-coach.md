@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "4x Productivity via Low Level Social Accountability"
+title:  "Low Level Social Accountability"
 date:   2019-06-23 05:02:46 -0700
 categories: thinking
 ---
