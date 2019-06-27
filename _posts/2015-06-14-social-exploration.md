@@ -6,8 +6,6 @@ categories: experiments
 ---
 
 
-##Social Exploration at Harvard
-
 This is a reflection on my systematic social space exploration at Harvard during Spring 2015.
 
 Social Theory Preparation:
@@ -45,5 +43,6 @@ The systematic search for quality relationships was driven by a few major mechan
 5. Talking to Professors and going to events where there are personal interactions with great thinkers.
 6. Heavy Triage on the sadder parts of my social space.
 7. Daily Accountability - Andrew Liu and Wentao Xu kept me accountable to social goals on a daily basis.
+
 The result was the happiest month of my life in February 2015, with seemingly boundless growth day after day. This completely transformed my worldview and emotional life. I know that I would be a much lesser being without it.
 
