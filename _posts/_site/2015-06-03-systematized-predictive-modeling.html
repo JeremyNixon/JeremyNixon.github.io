@@ -1,0 +1,240 @@
+<p><em>Preprocessing</em></p>
+<ol>
+  <li>Zero mean (subtract the mean from each predictor) to center the data.</li>
+  <li>Divide by standard deviation to scale the data.</li>
+  <li>DateTime</li>
+  <li>One-Hot Code</li>
+  <li>Look For skewness, log/sqrt/Box Cox transform if necessary (Boxcox)</li>
+  <li>Resolve Outliers (and understand their meaning) (apply spatial sign if model is sensitive to outliers)</li>
+  <li>Eliminate Missing Data (Can be problematic if missingness is predictive. Tree Based Models can deal with missing data)</li>
+  <li>Imputation/Interpolation (KNN or intermediate regression model)</li>
+</ol>
+
+<hr />
+<p><br /></p>
+
+<p><em>Exploratory Data Analysis</em></p>
+<ol>
+  <li>Maximal Information Coefficient Matrix / Correlation Matrix</li>
+  <li>Box-Chart Everything</li>
+  <li>Scatter Every Combination of Features</li>
+  <li>Pivot Tables</li>
+  <li>Group by particular features</li>
+  <li>Histogram Everything</li>
+  <li>Outlier Analysis</li>
+  <li>Transform Variables (Square, Cube, Inverse, Log) and Plot</li>
+  <li>Summary (Mean, Mode, Minimum, Maximum, Upper/Lower Quartiles, Identify Outliers)</li>
+</ol>
+
+<hr />
+<p><br /></p>
+
+<p><em>Data Reduction</em></p>
+<ol>
+  <li>Principal Component Analysis 
+2.Linear Discriminant Analysis (For Classification)</li>
+  <li>Feature Selection (Only use the components that account for a majority of the information when Modeling</li>
+  <li>Remove Low/Zero Variance Predictors</li>
+  <li>Remove multicollinear heavily correlated features</li>
+  <li>Isomap</li>
+  <li>Lasso</li>
+</ol>
+
+<hr />
+<p><br /></p>
+
+<p><em>Algorithms for Regression</em></p>
+<ol>
+  <li>Linear Regression
+    <ul>
+      <li>Ridge Regression / Lasso / Elastic Net</li>
+      <li>Best Subset Selection</li>
+      <li>Forward and Backward Stepwise, Stagewise</li>
+    </ul>
+  </li>
+  <li>Partial Least Squares</li>
+  <li>Principal Components Regression</li>
+  <li>Neural Networks
+    <ul>
+      <li>CNN</li>
+      <li>RNN
+  -LSTM</li>
+    </ul>
+  </li>
+  <li>Multivariate Adaptive Regression Splines</li>
+  <li>Support Vector Regressor</li>
+  <li>K-Nearest Neighbors</li>
+  <li>Regression Decision Trees</li>
+  <li>Bagged Trees</li>
+  <li>Random Forests</li>
+  <li>Extremely Random Forests</li>
+  <li>Gradient Boosted Trees</li>
+  <li>Generalized Linear Model</li>
+  <li>Generalized Additive Model</li>
+</ol>
+
+<hr />
+<p><br /></p>
+
+<p><em>Evaluating Regression</em></p>
+<ol>
+  <li>RMSE</li>
+  <li>MAE</li>
+  <li>Median</li>
+  <li>R2</li>
+  <li>Visualization</li>
+</ol>
+
+<hr />
+<p><br /></p>
+
+<p><em>Algorithms for Classification</em></p>
+<ol>
+  <li>Logistic Regression
+    <ul>
+      <li>L1, L2, Elastic Net</li>
+    </ul>
+  </li>
+  <li>Discriminant Analysis</li>
+  <li>Linear Discriminant Analysis</li>
+  <li>Quadratic Discriminant Analysis</li>
+  <li>Neural Networks
+    <ul>
+      <li>CNN</li>
+      <li>RNN
+        <ul>
+          <li>LSTM</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Support Vector Classifier</li>
+  <li>K-Nearest Neighbors</li>
+  <li>Naive Bayes</li>
+  <li>Classification Trees</li>
+  <li>Bagged Trees</li>
+  <li>Random Forests</li>
+  <li>Extremely Random Forests</li>
+  <li>Gradient Boosted Trees</li>
+  <li>Generalized Additive Model</li>
+</ol>
+
+<hr />
+<p><br /></p>
+
+<p><em>Evaluating Classification</em></p>
+<ol>
+  <li>ROC Curve</li>
+  <li>Confusion Matrix</li>
+  <li>F1 Score</li>
+  <li>Heat Map</li>
+  <li>Overall accuracy rate</li>
+  <li>Kappa Statistic</li>
+  <li>Sensitivity</li>
+  <li>Specificity</li>
+  <li>AUC</li>
+</ol>
+
+<hr />
+<p><br /></p>
+
+<p><em>Unsupervised Learning</em></p>
+<ol>
+  <li>K-Means
+    <ul>
+      <li>K-Means++</li>
+      <li>K-Medoids</li>
+    </ul>
+  </li>
+  <li>Hierarchical Agglomerative Clustering
+    <ul>
+      <li>Single Linkage, Complete Linkage, Average Linkage, Centroid Criterion</li>
+    </ul>
+  </li>
+  <li>Principal Components Analysis</li>
+  <li>Spectral Clustering</li>
+  <li>Affinity Propagation</li>
+  <li>Biclustering</li>
+  <li>Gaussian Mixture Model</li>
+</ol>
+
+<hr />
+<p><br /></p>
+
+<p><em>Classification Class Imbalance</em></p>
+<ol>
+  <li>Model Tuning (Tune Parameters For Sensitivity)</li>
+  <li>Alternate Cutoffs (Using ROC Curve)</li>
+  <li>Adjusting Prior Probability</li>
+  <li>Unequal Case Weights</li>
+  <li>Down Sampling</li>
+  <li>Up Sampling</li>
+  <li>Alter Cost Function</li>
+  <li>Dynamic Structure (Cascade of classifiers)</li>
+</ol>
+
+<hr />
+<p><br /></p>
+
+<p><em>Feature Evaluation</em></p>
+<ol>
+  <li>Coefficients in Linear Models</li>
+  <li>Random Forest Importances (variance for regression, information gain for classification)</li>
+  <li>Pearson Correlation with Outcome</li>
+  <li>Maximal Information Coefficient (MIC)</li>
+  <li>Distance Correlation (code)</li>
+  <li>Model with/without feature</li>
+  <li>Randomly shuffle the feature between data points, check difference in model quality</li>
+  <li>Lasso Automatic Selection</li>
+  <li>Mean Decrease Accuracy (code)</li>
+  <li>Stability Selection</li>
+  <li>Recursive Feature Elimination</li>
+</ol>
+
+<hr />
+<p><br /></p>
+
+<p><em>Parameter Tuning</em></p>
+<ol>
+  <li>Cross Validation</li>
+  <li>Bootstrap</li>
+  <li>Grid Search (ex)</li>
+</ol>
+
+<hr />
+<p><br /></p>
+
+<p><em>Text Features</em></p>
+<ol>
+  <li>n-Grams</li>
+  <li>Word Vector Representations (Word 2 Vec)</li>
+  <li>Bag of words</li>
+  <li>Word counts</li>
+  <li>Lengths</li>
+  <li>Tf-idf</li>
+  <li>Term frequency, weighted by its rarity</li>
+  <li>topic modeling (LDA)</li>
+</ol>
+
+<hr />
+<p><br /></p>
+
+<p><em>Modeling Techniques</em></p>
+<ol>
+  <li>Feature Engineering
+    <ul>
+      <li>Basis Expansions</li>
+      <li>Combine Features</li>
+      <li>average values, median values, variances, sums, differences, maximums or minimums, and counts.</li>
+    </ul>
+  </li>
+  <li>Stacking (using output of one algorithm as input to the next)</li>
+  <li>Internal Prediction</li>
+  <li>Blending (Especially with differentiated models)</li>
+  <li>Account For Missing Data (It can be information)</li>
+  <li>External Data</li>
+  <li>Acquire Domain Knowledge for Feature Engineering</li>
+  <li>Random Forest, Boosters, Trees Importances for Feature Exploration</li>
+  <li>Clustering for feature creation</li>
+  <li>Distance to Class Centroid</li>
+</ol>
