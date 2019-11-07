@@ -5,7 +5,7 @@ date:   2018-06-05
 categories: thinking
 ---
 
-The Information Overwhelm
+**The Information Overwhelm**
 
 How the brain works:
 
@@ -37,7 +37,7 @@ Interventions:
 
     3. Batch creative work
 
-A Project That Hurts to Think About (This is worth reading)
+**A Project That Hurts to Think About (This is worth reading)**
 
 How the brain works:
 
@@ -61,7 +61,7 @@ Interventions
 
 3. Think about getting the right concepts into writing or working memory first, not just getting the easiest concepts into working memory.
 
-Juggling Five Things at Once
+**Juggling Five Things at Once**
 
 How the brain works:
 
@@ -85,7 +85,7 @@ Interventions
 
 4. If you have to multitask, combine active thinking tasks only with automatic, embedded routines.
 
-Saying No to Distractions
+**Saying No to Distractions**
 
 How the brain works:
 
@@ -115,7 +115,7 @@ Interventions:
 
 4. Inhibit distractions early before they take on momentum.
 
-Searching for the Zone of Peak Performance
+**Searching for the Zone of Peak Performance**
 
 How the brain works:
 
@@ -135,7 +135,7 @@ Interventions:
 
 4. Bring your dopamine or adrenaline level down by activating other regions of the brain other than the prefrontal cortex.
 
-Getting Past a Roadblock
+**Getting Past a Roadblock**
 
 How the brain works:
 
@@ -161,7 +161,7 @@ Interventions:
 
 5. Simplify problems to their salient features; allow yourself to reflect from a high level, watch for the tickle of subtle connections preceding insight, and stop and focus on insights when they occur.
 
-Derailed by Drama
+**Derailed by Drama**
 
 How the brain works:
 
@@ -195,7 +195,7 @@ Interventions:
 
 4. Practice assigning words (labeling) to emotional states to reduce arousal once it kicks in. 
 
-Drowning amid Uncertainty
+**Drowning amid Uncertainty**
 
 How the brain works:
 
@@ -223,7 +223,7 @@ Interventions:
 
 6. Reappraising your own experience is a powerful way of managing internal stressors; use this technique when you’re anxious about your mental performance by saying "That’s just my brain."
 
-When Expectations Get Out of Control
+**When Expectations Get Out of Control**
 
 How the brain works:
 
@@ -257,7 +257,7 @@ Interventions:
 
 4. When a positive expectation is not being met, practice reappraising the situation by remembering it’s your brain doing something odd with dopamine.
 
-Turning Enemies into Friends
+**Turning Enemies into Friends**
 
 How the brain works:
 
@@ -279,7 +279,7 @@ Interventions:
 
 3. Actively encourage people around you to connect on human level to create better collaboration.
 
-When Everything Seems Unfair
+**When Everything Seems Unfair**
 
 How the brain works:
 
@@ -305,7 +305,7 @@ Interventions:
 
 4. Watch out for fairness being linked to other issues such as certainty, autonomy, or relatedness, where you can get intense emotional responses.
 
-The Battle for Status
+**The Battle for Status**
 
 How the brain works:
 
@@ -341,7 +341,7 @@ Interventions:
 
 5. Playing against yourself to improve your understanding of your own brain can be a powerful way of increasing your performance.
 
-When Other People Lose the Plot
+**When Other People Lose the Plot**
 
 How the brain works:
 
@@ -361,7 +361,7 @@ Interventions:
 
 3. Find ways to make it valuable for people to give themselves feedback; reward them for activating their director.
 
-The Culture That Needs to Transform
+**The Culture That Needs to Transform**
 
 How the brain works:
 
