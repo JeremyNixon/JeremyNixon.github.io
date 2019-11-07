@@ -5,7 +5,7 @@ date:   2018-06-05
 categories: thinking
 ---
 
-**The Information Overwhelm**
+<p style="text-align: center; font-weight: bold;">The Information Overwhelm</p>
 
 How the brain works:
 
@@ -37,7 +37,7 @@ Interventions:
 
     3. Batch creative work
 
-**A Project That Hurts to Think About (This is worth reading)**
+<p style="text-align: center; font-weight: bold;">A Project That Hurts to Think About (This is worth reading)</p>
 
 How the brain works:
 
@@ -61,7 +61,7 @@ Interventions
 
 3. Think about getting the right concepts into writing or working memory first, not just getting the easiest concepts into working memory.
 
-**Juggling Five Things at Once**
+<p style="text-align: center; font-weight: bold;">Juggling Five Things at Once</p>
 
 How the brain works:
 
@@ -85,7 +85,7 @@ Interventions
 
 4. If you have to multitask, combine active thinking tasks only with automatic, embedded routines.
 
-**Saying No to Distractions**
+<p style="text-align: center; font-weight: bold;">Saying No to Distractions</p>
 
 How the brain works:
 
@@ -115,7 +115,7 @@ Interventions:
 
 4. Inhibit distractions early before they take on momentum.
 
-**Searching for the Zone of Peak Performance**
+<p style="text-align: center; font-weight: bold;">Searching for the Zone of Peak Performance</p>
 
 How the brain works:
 
@@ -135,7 +135,7 @@ Interventions:
 
 4. Bring your dopamine or adrenaline level down by activating other regions of the brain other than the prefrontal cortex.
 
-**Getting Past a Roadblock**
+<p style="text-align: center; font-weight: bold;">Getting Past a Roadblock</p>
 
 How the brain works:
 
@@ -161,7 +161,7 @@ Interventions:
 
 5. Simplify problems to their salient features; allow yourself to reflect from a high level, watch for the tickle of subtle connections preceding insight, and stop and focus on insights when they occur.
 
-**Derailed by Drama**
+<p style="text-align: center; font-weight: bold;">Derailed by Drama</p>
 
 How the brain works:
 
@@ -195,7 +195,7 @@ Interventions:
 
 4. Practice assigning words (labeling) to emotional states to reduce arousal once it kicks in. 
 
-**Drowning amid Uncertainty**
+<p style="text-align: center; font-weight: bold;">Drowning amid Uncertainty</p>
 
 How the brain works:
 
@@ -223,7 +223,7 @@ Interventions:
 
 6. Reappraising your own experience is a powerful way of managing internal stressors; use this technique when you’re anxious about your mental performance by saying "That’s just my brain."
 
-**When Expectations Get Out of Control**
+<p style="text-align: center; font-weight: bold;">When Expectations Get Out of Control</p>
 
 How the brain works:
 
@@ -257,7 +257,7 @@ Interventions:
 
 4. When a positive expectation is not being met, practice reappraising the situation by remembering it’s your brain doing something odd with dopamine.
 
-**Turning Enemies into Friends**
+<p style="text-align: center; font-weight: bold;">Turning Enemies into Friends</p>
 
 How the brain works:
 
@@ -279,7 +279,7 @@ Interventions:
 
 3. Actively encourage people around you to connect on human level to create better collaboration.
 
-**When Everything Seems Unfair**
+<p style="text-align: center; font-weight: bold;">When Everything Seems Unfair</p>
 
 How the brain works:
 
@@ -305,7 +305,7 @@ Interventions:
 
 4. Watch out for fairness being linked to other issues such as certainty, autonomy, or relatedness, where you can get intense emotional responses.
 
-**The Battle for Status**
+<p style="text-align: center; font-weight: bold;">The Battle for Status</p>
 
 How the brain works:
 
@@ -341,7 +341,7 @@ Interventions:
 
 5. Playing against yourself to improve your understanding of your own brain can be a powerful way of increasing your performance.
 
-**When Other People Lose the Plot**
+<p style="text-align: center; font-weight: bold;">When Other People Lose the Plot</p>
 
 How the brain works:
 
@@ -361,7 +361,7 @@ Interventions:
 
 3. Find ways to make it valuable for people to give themselves feedback; reward them for activating their director.
 
-**The Culture That Needs to Transform**
+<p style="text-align: center; font-weight: bold;">The Culture That Needs to Transform</p>
 
 How the brain works:
 
