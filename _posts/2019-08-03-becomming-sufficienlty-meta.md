@@ -57,7 +57,7 @@ Systematized Predictive Modeling
 Systematizing Creativity
 
 
-1. (Abstraction & Generalization) What kinds of x exist?
+1. (Abstraction & Generalization) What kinds of x exist? Go from an object to the category the object is in.
 	* (Idea List) For each kind of x, idea list ways to do x
 2. (Decomposition) How can x be broken into sub-parts?
 	* (Abstraction) What are the functions of each of the sub-parts?

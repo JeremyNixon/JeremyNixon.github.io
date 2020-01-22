@@ -1,0 +1,441 @@
+I"�%<ol>
+  <li>
+    <p>Tools exist to create computational memetics through machine learning / NLP</p>
+  </li>
+  <li>
+    <p>Transmission is a function of emotion / simplicity, not truth</p>
+  </li>
+  <li>
+    <p>The only ideas you see are the ones that can propagate</p>
+  </li>
+  <li>
+    <p>Memes are antifragile (grow stronger from attack, generally through increased exposure)</p>
+  </li>
+  <li>
+    <p>Replicators</p>
+
+    <ol>
+      <li>
+        <p>Transmission by moving from one mind to another</p>
+      </li>
+      <li>
+        <p>Differential Selection based on longevity, fecundity / virality, copying-fidelity</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>There are many truths that can not or fail to propagate that are lying around to be collected</p>
+  </li>
+  <li>
+    <p>Competing memes buttress one another</p>
+
+    <ol>
+      <li>
+        <p>Opposed memes generate controversy, leading to arguments that ensure that many are exposed to the meta-meme</p>
+      </li>
+      <li>
+        <p><a href="http://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/">Ex. Toxoplasma of rage</a></p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Memes are replicators that ideologies cooperate to spread</p>
+  </li>
+  <li>
+    <p>Memetic drift</p>
+
+    <ol>
+      <li>
+        <p>Due to negative connotation</p>
+      </li>
+      <li>
+        <p>Colored -&gt; Negro -&gt; African American / Black</p>
+      </li>
+      <li>
+        <p>Artificial Intelligence -&gt; Machine Intelligence</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Memetics as organismic analogy for ideas</p>
+  </li>
+  <li>
+    <p>Sources on “memes” within an evolutionary framework</p>
+
+    <ol>
+      <li>Dawkins, The Selfish Gene, Chapter 11 Memes: The New Replicators</li>
+    </ol>
+  </li>
+  <li>
+    <p>Vaccination / Immunization to ideas</p>
+  </li>
+  <li>
+    <p>Meme design</p>
+  </li>
+  <li>
+    <p>Meme components</p>
+
+    <ol>
+      <li>
+        <p>Emotional / Attentional</p>
+      </li>
+      <li>
+        <p>Value Add</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Genealogy of ideas</p>
+  </li>
+</ol>
+
+<p>Computational Memetics</p>
+
+<ol>
+  <li>
+    <p>Cascade prediction</p>
+
+    <ol>
+      <li>
+        <p>Predicting the spread of memes across a social graph</p>
+
+        <ol>
+          <li><a href="https://www.cs.cornell.edu/home/kleinber/www14-cascades.pdf">Ex. Can cascades be predicted?</a></li>
+        </ol>
+      </li>
+      <li>
+        <p>Predicting strength of inculcation of meme</p>
+
+        <ol>
+          <li>
+            <p>Ex., number of times meme repeated by a person</p>
+          </li>
+          <li>
+            <p>Intensity / Density of engagement with meme</p>
+          </li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Understanding Properties of Memes</p>
+
+    <ol>
+      <li>
+        <p>Affect / Sentiment / Emotionality</p>
+      </li>
+      <li>
+        <p>Longevity</p>
+      </li>
+      <li>
+        <p>Fecundity (Propensity to spread)</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Understanding people - which memes they’re vulnerable to</p>
+  </li>
+  <li>
+    <p>Understanding the memetic environment</p>
+  </li>
+  <li>
+    <p>Learn the structure of the genealogy of memes</p>
+  </li>
+  <li>
+    <p>Networks over which to conduct research</p>
+
+    <ol>
+      <li>
+        <p>Top Tier</p>
+
+        <ol>
+          <li>
+            <p>Twitter</p>
+          </li>
+          <li>
+            <p>Facebook</p>
+          </li>
+          <li>
+            <p>Reddit</p>
+          </li>
+        </ol>
+      </li>
+      <li>
+        <p>Second Tier</p>
+
+        <ol>
+          <li>
+            <p>Instagram</p>
+          </li>
+          <li>
+            <p>Youtube</p>
+          </li>
+          <li>
+            <p>LinkedIn</p>
+          </li>
+          <li>
+            <p>Pinterest</p>
+          </li>
+          <li>
+            <p>Tumblr</p>
+          </li>
+        </ol>
+      </li>
+      <li>
+        <p>Third Tier</p>
+
+        <ol>
+          <li>
+            <p>Quora</p>
+          </li>
+          <li>
+            <p>Google Trends</p>
+          </li>
+          <li>
+            <p>Google / Bing / Yahoo Search Results</p>
+          </li>
+          <li>
+            <p>Google +</p>
+          </li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+</ol>
+
+<p>The Selfish Gene Meme Idea List:</p>
+
+<ol>
+  <li>
+    <p>Memetic evolution is much faster than genetic evolution</p>
+  </li>
+  <li>
+    <p>Memes can be seen as alive, if life evolves by the differential survival of replicators.</p>
+  </li>
+  <li>
+    <p>Memes are parasites, in that they use their host to survive and reproduce.</p>
+  </li>
+  <li>
+    <p>The emergence of the meme as a new replicator is akin to the emergence of alien life on our planet.</p>
+
+    <ol>
+      <li>
+        <p>We make a distinction between cellular life and memetic life.</p>
+      </li>
+      <li>
+        <p>Life = Replicator + Differential Selection. Not cellular life - memetic life. That’s why it’s alien.</p>
+      </li>
+      <li>
+        <p>Memes are alien because they’re separate from us - they’re parasites / mutualists / commensalists. We are hardware for the memes. People identify with memes - that’s a property of memes that give it strength. There is definitely coevolution between memes and people. People conflate memes (ideas, beliefs, memories) and cells (platform, hardware) when thinking about “their life”.</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>The name meme comes out of ‘mime’ - from the imitation that memes use to spread.</p>
+  </li>
+  <li>
+    <p>Standards for memes:</p>
+
+    <ol>
+      <li>
+        <p>Longevity</p>
+      </li>
+      <li>
+        <p>Virality / Fecundity</p>
+      </li>
+      <li>
+        <p>Creation of Desire to Spread</p>
+
+        <ol>
+          <li>
+            <p>Value Added</p>
+          </li>
+          <li>
+            <p>Psychological Appeal</p>
+          </li>
+        </ol>
+      </li>
+      <li>
+        <p>Ease of Spread</p>
+
+        <ol>
+          <li>
+            <p>Simplicity</p>
+          </li>
+          <li>
+            <p>Attachment to other memes in cultural environment</p>
+          </li>
+        </ol>
+      </li>
+      <li>
+        <p>Creation of Need to Spread</p>
+
+        <ol>
+          <li>Ex., Hell</li>
+        </ol>
+      </li>
+      <li>
+        <p>Copying Fidelity?</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Empirically, memes are constantly modified and blended, certainly at a low level of abstraction</p>
+  </li>
+  <li>
+    <p>Memes often have Hierarchical Structure</p>
+
+    <ol>
+      <li>
+        <p>Memes exist at multiple levels of abstraction</p>
+      </li>
+      <li>
+        <p>Memes have higher fidelity at more abstract levels</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Memes can be thought of as active agents, working for their own survival. Memes defend themselves, invade others, etc.</p>
+
+    <ol>
+      <li>They are just like biological life; they have a fitness function.</li>
+    </ol>
+  </li>
+  <li>
+    <p>Memes compete over limited resources.</p>
+
+    <ol>
+      <li>
+        <p>Attention</p>
+      </li>
+      <li>
+        <p>Memory</p>
+      </li>
+      <li>
+        <p>Time (Ex. Radio / TV Time)</p>
+      </li>
+      <li>
+        <p>Space (Ex. Billboard Space, Newspaper Column-Inches, Library Shelf Space)</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Interaction with Cultural Environment</p>
+
+    <ol>
+      <li>
+        <p>Many memes are closely linked and share their selection outcome</p>
+      </li>
+      <li>
+        <p>Ex. Organized Church, with architecture, rituals, laws, music, art, writings.</p>
+      </li>
+      <li>
+        <p>Memes can hijack other memes to propagate themselves.</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Explanation for behavior that doesn’t have a grounding in evolution</p>
+
+    <ol>
+      <li>A gene for celibacy is unlikely to survive, but a meme for celibacy can.</li>
+    </ol>
+  </li>
+  <li>
+    <p>Memes can oppose evolutionary success of the human carrying the meme</p>
+
+    <ol>
+      <li>Ex. Celibacy, Life after Death, Honor in war</li>
+    </ol>
+  </li>
+  <li>
+    <p>There is stability in the meme pool, which new memes have to invade. Pool goes to evolutionarily stable solution.</p>
+  </li>
+  <li>
+    <p>Genetic longevity through children as weaker than memetic longevity.</p>
+  </li>
+  <li>
+    <p>We don’t need to look for biological survival value of traits like religion, music, dancing, etc. - we just need to show that the memes have properties that advantage their own survival.</p>
+  </li>
+</ol>
+
+<p>Examples of Memes:</p>
+
+<ol>
+  <li>
+    <p>Tunes</p>
+
+    <ol>
+      <li>
+        <p>Song - ‘Auld Lang Syne’</p>
+      </li>
+      <li>
+        <p>Symphony</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Ideas</p>
+
+    <ol>
+      <li>
+        <p>God / Religion</p>
+      </li>
+      <li>
+        <p>Jewish Religion Laws</p>
+      </li>
+      <li>
+        <p>Life After Death</p>
+      </li>
+      <li>
+        <p>Threat of Hell</p>
+      </li>
+      <li>
+        <p>Faith - Belief without evidence</p>
+      </li>
+      <li>
+        <p>Celibacy</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Catch-phrases</p>
+  </li>
+  <li>
+    <p>Fashon</p>
+  </li>
+  <li>
+    <p>Engineering</p>
+
+    <ol>
+      <li>
+        <p>Ways of making pots (aesthetic)</p>
+      </li>
+      <li>
+        <p>Ways of creating arches (aesthetic)</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Language</p>
+  </li>
+  <li>
+    <p>Songs of Songbirds</p>
+  </li>
+  <li>
+    <p>Diet</p>
+  </li>
+  <li>
+    <p>Ceremonies</p>
+  </li>
+  <li>
+    <p>Customs</p>
+  </li>
+  <li>
+    <p>Art</p>
+  </li>
+  <li>
+    <p>Architecture</p>
+  </li>
+</ol>
+:ET
