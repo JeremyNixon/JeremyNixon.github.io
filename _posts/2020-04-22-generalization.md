@@ -12,7 +12,7 @@ The critical property of an abstraction is its ability to generalize. What is th
 
 Within a domain, learning often looks like generalization - in sports, you pattern match one situation to similar past situations, and react instinctively in a way that your intuition hopes will lead to success. In mathematics, solving a problem with an algebraic manipulation once lets you recognize that type of manipulation in other situations. And often so you abstract the manipulation into a rule or into an operation that you can run more flexibly.
 
-But you’d also like to do out of domain generalization - learn something in one context and apply it to an entirely different context. Learning language in one domain (say, in a home) and then applying it at school, or with friends rather than parents, or in speeches. Take the concept of specialization and lift it from economics to understanding sexual dimorphism in evolution. Taking the concepts of a replicator and differential selection from evolution and apply it to ideas and tunes and fashions that replicate by imitation. (add something about decomposition, modularity, causality)
+But you’d also like to do out of domain generalization - learn something in one context and apply it to an entirely different context. Learning language in one domain (say, in a home) and then applying it at school, or with friends rather than parents, or in speeches. Take the concept of specialization and lift it from economics to understanding sexual dimorphism in evolution. Taking the concepts of a replicator and differential selection from evolution and apply it to ideas and tunes and fashions that replicate by imitation.
 
 <p style="text-align: center; font-weight: bold;"> Generalization as a Standard</p>
 
