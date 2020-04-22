@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Generalization"
-date:   2020-01-21
+date:   2020-04-22
 categories: thinking
 ---
 
