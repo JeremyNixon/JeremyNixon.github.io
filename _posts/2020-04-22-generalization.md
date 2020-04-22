@@ -6,7 +6,7 @@ categories: thinking
 ---
 
 
-What is generalization?
+<p style="text-align: center; font-weight: bold;">What is generalization?</p>
 
 The critical property of an abstraction is its ability to generalize. What is the scope of its context? How cleanly does it adhere to reality, both in scope and out of scope? What flagrant misuses of the abstraction are likely? What natural safties, gramatical or otherwise, are built in?
 
@@ -14,7 +14,7 @@ Within a domain, learning often looks like generalization - in sports, you patte
 
 But you’d also like to do out of domain generalization - learn something in one context and apply it to an entirely different context. Learning language in one domain (say, in a home) and then applying it at school, or with friends rather than parents, or in speeches. Take the concept of specialization and lift it from economics to understanding sexual dimorphism in evolution. Taking the concepts of a replicator and differential selection from evolution and apply it to ideas and tunes and fashions that replicate by imitation. (add something about decomposition, modularity, causality)
 
-Generalization as a Standard
+<p style="text-align: center; font-weight: bold;"> Generalization as a Standard</p>
 
 Generalization accuracy is a great standard to hold abstractions to. What we want is for our representations to aid us in problem solving, which often takes the form of prediction what the impact of our actions will be or predicting what the state of our system will be in future.
 
@@ -24,7 +24,7 @@ Tradeoffs need to be adjudicated, and so having a downstream task to determine t
 
 Even generalization accuracy should be seen as an intermediate standard or proxy, with utility as the true goal. And perhaps we should resolve the tension between predictive accuracy and utility in favor of utility. Many models or pieces of information that improve predictive accuracy do dramatic damage to agent utility (ex., noble lies - rights, objective grounding to values, sacred & religious beliefs, etc.). It’s not clear that the metric we want to evaluate these pieces of information over with is predictive accuracy, and so that evaluation needs to happen in a decision function that adjudicates between standards based on their contribution to utility.
 
-What is Transfer?
+<p style="text-align: center; font-weight: bold;">What is Transfer?</p>
 
 A central part of the efficient use of models is their generality. Generality means that a model works across many tasks and domains, and a so a central component of an intelligent worldview is the ability to recognize and model shared structure. This flexibility allows us to deal with unforeseen problems efficiently, by co-opting ideas and models that are already well fit by world experience and leveraging them for the task at hand. It also lets us compress the information in our world model. But there’s also this wonderful exponential structure to composing models of systems that lets us counter the exponential complexity of the problems we face. 
 
@@ -44,7 +44,7 @@ What gets transferred? The information gained from training on some domain / ask
 
 Using language forces analogy / transfer over all domains - to describe a situation, we have to build a model in order to use words to describe things. And that brings in information from every other instance of the modular words used to describe the situation. Which makes it much harder to memorize the particular task at hand. Instead, we have to map it to a known structure, and in so doing transfer structure and models to it. Say you tell someone “I’m having trouble deciding what my course load should be.” The word ‘load’ brings in information about resource use and the heaviness implies there is a cost to be optimized or minimized. The word ‘decision’ implies that a set of models needs to be applied to it. You can barely describe the problem without transferring information to it.
 
-The Recognition of Shared Structure
+<p style="text-align: center; font-weight: bold;">The Recognition of Shared Structure</p>
 
 The recognition of shared structure is what allows transfer to happen. Shared structure can come in many forms. Often, fields are formed around the shared structure in some set of problems, and then a body of techniques are built to flexibly solve those problems. 
 
