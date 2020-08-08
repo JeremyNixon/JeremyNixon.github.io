@@ -1,4 +1,970 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-21T20:19:25-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jeremy Nixon</title><subtitle>Reach to the sky from the bottom.</subtitle><author><name>Jeremy Nixon</name></author><entry><title type="html">Algorithmic Thinking</title><link href="http://localhost:4000/thinking/2020/01/21/algorithmic-thinking.html" rel="alternate" type="text/html" title="Algorithmic Thinking" /><published>2020-01-21T00:00:00-08:00</published><updated>2020-01-21T00:00:00-08:00</updated><id>http://localhost:4000/thinking/2020/01/21/algorithmic-thinking</id><content type="html" xml:base="http://localhost:4000/thinking/2020/01/21/algorithmic-thinking.html">&lt;div class=&quot;alg&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-07T20:12:45-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jeremy Nixon</title><subtitle>Reach to the sky from the bottom.</subtitle><author><name>Jeremy Nixon</name></author><entry><title type="html">The Index</title><link href="http://localhost:4000/thinking/2020/04/22/index.html" rel="alternate" type="text/html" title="The Index" /><published>2020-04-22T00:00:00-07:00</published><updated>2020-04-22T00:00:00-07:00</updated><id>http://localhost:4000/thinking/2020/04/22/index</id><content type="html" xml:base="http://localhost:4000/thinking/2020/04/22/index.html">&lt;p&gt;&lt;img src=&quot;https://github.com/JeremyNixon/JeremyNixon.github.io/raw/master/_site/images/great_library.jpg&quot; alt=&quot;The Index&quot; style=&quot;max-width:100%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;By &lt;a href=&quot;https://twitter.com/JvNixon&quot;&gt;@jvnixon&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;abstraction&quot;&gt;Abstraction&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1r1gxWIcTl5lDD8TcFJ0x8X8Qh5wRWon6xfcLGHxicE4/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076362000&amp;amp;usg=AOvVaw035PKvn3d1NyAiF4r2j2rW&quot;&gt;Book Manuscript&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1iB1zMQxlGaO0GThxGAGoyyhzV9PvM8zlRtCTUTkpIyU/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076362000&amp;amp;usg=AOvVaw0vUJZnx6atyORqP0_YwSt5&quot;&gt;Overview of Abstraction Space&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;attention--focus&quot;&gt;Attention / Focus&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1K9s3F_dcqMXiHpK_L1OPZP55MMcucPxxDEwifM6rCBg/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076385000&amp;amp;usg=AOvVaw2KCYVZtniyqEzik-zdSTFC&quot;&gt;Your Brain at Work&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1GiRbkOT7eNDJKLbFcD-bDlOVl0SGHFsg6J8UB8GL0tA/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076384000&amp;amp;usg=AOvVaw0UrNGW_XVSQULmEh77rpKL&quot;&gt;Goleman’s Focus&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1GqTWF9NJPbOE8JLCwipi6T_U3siBuKCYpQmH2uwGIAc/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076384000&amp;amp;usg=AOvVaw2KXzpGZelBRciwwfWavvrX&quot;&gt;Deep Work&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1VlQhfFG64FdzInvRL-m-NUYE18O5S7wmqfVG6kYuLOw/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076384000&amp;amp;usg=AOvVaw3_kvmqgLrIytJyPyoYju3f&quot;&gt;Attention / Focus Literature&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;belief-systems&quot;&gt;Belief Systems&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1zwzWwwrbMEmOU1KkeqAdB5Lle-Ypy6XPxfXqa6tpzJo/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076407000&amp;amp;usg=AOvVaw0CcL9gbtKcZ-_pQ7f8aYq-&quot;&gt;Belief Systems&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;books&quot;&gt;Books&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/14RcGzdGbKVRdk8SHloxSDCwWMXnoMDPz2OmuFB71i4E/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076396000&amp;amp;usg=AOvVaw2xOUVqabe_0h0VwtwsGw9b&quot;&gt;Patrick Collision’s Bookshelf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1FPnVU-2CmC4EJ78jP7xraI-AoQGabHtihQRJBAkL2F8/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076397000&amp;amp;usg=AOvVaw2ijYaDtGVHac_u3ms1KGjC&quot;&gt;Book List&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1PxVnhAQ0oeVJUhGybaOSqxmklkHv8atB_PeuCzJMoqU/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076396000&amp;amp;usg=AOvVaw1vq6s1qMTxtyn4mGzx3gEK&quot;&gt;Topos Library&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1DVBtzYHQMp4SWuWsbXNINN2KyBXE5PwOj42OpZkDntk/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076397000&amp;amp;usg=AOvVaw0A3LeRqKBshxIqYzTbCfYo&quot;&gt;Books to Consider Buying&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1r_DETUoYx-95alxX2j2WW45p2K_8PQTcscZPJwQIiWE/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076633000&amp;amp;usg=AOvVaw2FQW2f6OQSitbTeHe9cJtW&quot;&gt;Reading Lists&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1H9-UsnZkuPIO_q8DPAtde9VR4QrgVoz-yUoL6oVeIKM/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076634000&amp;amp;usg=AOvVaw3sqRPVocJ0h8ZZeLqMaHAg&quot;&gt;Structure of Scientific Revolutions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1f8N4vXEdDFPP1c2K_DEppXN3UUC7tu0AcoJ3J1kFSBM/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076635000&amp;amp;usg=AOvVaw06-Cn8dU5NfKzDvTkvBiV2&quot;&gt;Great Reads&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1Jf9YZ2Yw7T0I8GVO7-IAVnTMVze0ciZJE-PF9LbESWM/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076635000&amp;amp;usg=AOvVaw1a90n7JgcCTTpyA3TqE-0G&quot;&gt;Books I Like that I Expect &amp;lt;1% Of My Friends Have Heard Of&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1bBeCdCIRx7wmMNdS3t5M55DUKTZQ_fXsrklDTTyStCk/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076637000&amp;amp;usg=AOvVaw0TSiWjbNNDgeig93tguBeh&quot;&gt;Relentless&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1vYCgqnD-iNJMyMLdQUKwFpFnselAbo89FFXLSFqTfhI/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076684000&amp;amp;usg=AOvVaw3ABZgzceDer8nFCONqVUK1&quot;&gt;Notes Elements of Statistical Learning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1F3-gMc8J57UBUo2DTsvVU7C1U1uncEpXmzE13DKwGQQ/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076395000&amp;amp;usg=AOvVaw3EU4RV7p94KXW6YwrgnT5G&quot;&gt;Bret Victor’s Library&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1p_PAmyDxa65PQStx6_-_xCJjxshXuhjNMPDuaELiBZw/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076387000&amp;amp;usg=AOvVaw0wwmYB-WPz-FrA97IjqqwR&quot;&gt;Patterns of Conflict&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1W5Sd7wAJb6VT1AEGx70wMLqs9Y1w_pzdy0kLZsPZ4OA/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076395000&amp;amp;usg=AOvVaw1gsJr6qNEcF5i-p8eCdRPb&quot;&gt;Santa Fe Institute Library&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1Yu1v_2wl-EgHX1LqRcRdDAvD1hwZ_SZVggjdOsU1TKA/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076394000&amp;amp;usg=AOvVaw20RGRJsQURg1cmuAXpPpjQ&quot;&gt;Jeremy Nixon’s Bookshelf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1QtBVQ4tapREojdmheom0hAAXPtSRYZ78uCY3Bz1hRJs/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076645000&amp;amp;usg=AOvVaw0LJaK_fDhXbGZSNbMNoH1o&quot;&gt;Applied Predictive Modeling&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1KtLsLnMWIZIvb2hbOMrp_ZTocvaaLPJhgOHTkNyeAN0/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076688000&amp;amp;usg=AOvVaw0fjmD8BqINTtJ2sRYlURHA&quot;&gt;Notes Deep Learning Textbook&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/12HhKsW2glRichQ_-H5C_9206pctOF2busy1Ms6FCB2c/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076700000&amp;amp;usg=AOvVaw39hwnFnl1R3cMJZJKobU3h&quot;&gt;Notes Strang&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/15H6E61NN4_cv8O_WQlkL-qzAmu-XR9eLstl499FphwY/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076707000&amp;amp;usg=AOvVaw3AnH0q-shwRXDO1dO7hzyr&quot;&gt;Notes The Selfish Gene&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1ivRwrK8RGOr4DxXNLCt3QHXOd1eRLHpOdQ3Crd5XTDQ/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076395000&amp;amp;usg=AOvVaw2GJNis15wVQNVlyAEmxqmb&quot;&gt;Andreeson Horowitz Library&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1dbiIPtmz2iJ3PZlM2AqAKk4bVZcjIVv1Z-IAU9-5tYE/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076670000&amp;amp;usg=AOvVaw2vzP0un_5cIio4SVcEf1V6&quot;&gt;Notes Meanings of Life&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;canonical-success&quot;&gt;Canonical Success&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1EOJY0TrVJjRIVaYjHKgr0u6madmCfVa3tEkT59t5HvM/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076393000&amp;amp;usg=AOvVaw0-KLUs_40nEA00Hvpn9maD&quot;&gt;Canonical Success&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;community&quot;&gt;Community&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/17ATBmM2NMzIwNmUCkvPeSxyVLdfbESyhZJhfibujqAQ/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076408000&amp;amp;usg=AOvVaw1UahGHY6TSdSnCHzq0rfee&quot;&gt;Communities to Create&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1bWX9x0mESKbLIIEfs20hozC_cDYcPfzZ6pbIMptj68E/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076408000&amp;amp;usg=AOvVaw0Xn9B8GEMPXa11N_FbmV99&quot;&gt;High Value Communities&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;complex-systems&quot;&gt;Complex Systems&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1dHkE5EJXxSNrswlJFKBt6qYZeOI0e6xNQe__vqvU4dc/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076386000&amp;amp;usg=AOvVaw0HOYP23f50z4vgUg6qnPMl&quot;&gt;Antifragile&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://hyperanalytic.net/optimize-for-volatility-not-average-capacity&amp;amp;sa=D&amp;amp;ust=1596495076389000&amp;amp;usg=AOvVaw3KUelsrt1I5On3vEayvWkb&quot;&gt;Optimize for Volatility&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;creativity&quot;&gt;Creativity&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1Dw6FZ_Kx2SRXO8O4aygmH0XxItZrLNjMAabozZ0xhXo/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076391000&amp;amp;usg=AOvVaw2qN7QxQ0Ht9B1hKVCjOgmU&quot;&gt;Systematizing Creativity&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;decision-making&quot;&gt;Decision Making&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1bK_hikOIsWwKutx6D3psO2pvtP-O3r5GDjcwDPCSq8c/edit&amp;amp;sa=D&amp;amp;ust=1596495076356000&amp;amp;usg=AOvVaw2Q0X3g23TN1AzcO3RcskZ8&quot;&gt;Compressing Decision Making&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1JaDBsOybZspVYunQ46JEGKUR2jJRKHN8bOujWXSdev8/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076357000&amp;amp;usg=AOvVaw1Yz0SiISaYAAlT2R1x4akp&quot;&gt;Winning Decisions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1-OzTEZBK9DnnP_YfY7vjhY432CclnDbgXvARv1mYB-M/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076358000&amp;amp;usg=AOvVaw2zvIxT4FtYMX3D4PSX03FL&quot;&gt;Meta-Decisions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1wW81B7g-bKd0km9ey6d-Ynpz3Rzx9Ie5sftpbDX-SPw/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076357000&amp;amp;usg=AOvVaw3WxdFcnLgAb94M_SgSAuQU&quot;&gt;Principles of Decision Making&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1aVOb0xlbVHxFB2akwLkxCfqf_Yq6suuC96QR6a3eSS0/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076357000&amp;amp;usg=AOvVaw2lhlgS6MkATvlm0IdmGn5R&quot;&gt;Decision Making Literature&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1KI6QvbUDGgcCA9DiWsGIzci4ya5ngGWasy2f7Jh5l2Q/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076356000&amp;amp;usg=AOvVaw1sjB81_fWD8i2bfhgrdfff&quot;&gt;Decisive&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;education&quot;&gt;Education&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1JrTIfIEM90y_WeHFMzNgVynrpuyq-SSVkVAUno644iY/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076391000&amp;amp;usg=AOvVaw3nLoD5ZQJ48yc9ULWzMwOc&quot;&gt;Education&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;execution&quot;&gt;Execution&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1hBqg1X0k2CWz7309fOCh_4_zs91w0WA50PcJAY9olaw/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076355000&amp;amp;usg=AOvVaw1-9XNR5sKMiioT7cctTTUz&quot;&gt;Compressing Execution&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;games&quot;&gt;Games&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1ekCvQ5Ky0UYjZnu9J2DfWl9CTZ-09H0KqSzPA2ug9Cs/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076416000&amp;amp;usg=AOvVaw2V8e3H1vr_l4vMfdXc7v8C&quot;&gt;Glass Bead Game&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;greatness&quot;&gt;Greatness&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://hyperanalytic.net/greatness&amp;amp;sa=D&amp;amp;ust=1596495076388000&amp;amp;usg=AOvVaw2tiPg16IL6eHqMYvx09_OQ&quot;&gt;Forces Motivating Greatness&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1hUQDqax5rWHIWp4_y30KDKzxZOETnaUTNr0FtDH3C5U/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076388000&amp;amp;usg=AOvVaw0viaxA96wiqoc6FxRHpbED&quot;&gt;Motivation&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;habits&quot;&gt;Habits&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/13wrOrwsbfIq5JzEWqkyAfBBK3Yah3ucHQPBch-eDz5E/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076387000&amp;amp;usg=AOvVaw34_5JBy7paGL7k3rnsoa8-&quot;&gt;Daily Habits Decision Making&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;heroes&quot;&gt;Heroes&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1EtvNxYq6MkpbjkJUi_My56a4XH4miQNpc_aCzvly8Vs/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076414000&amp;amp;usg=AOvVaw2yukNKEWyBfuGOnEjpv6Fs&quot;&gt;To Those Who Undermine Heroes&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ideas&quot;&gt;Ideas&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1yTt90syRz0HmQ4gXlhReIv659LBfc4NmeVExP4_OsxY/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076407000&amp;amp;usg=AOvVaw1x-PKAwn07QjQ0Fn484Oud&quot;&gt;Idea List Ideas&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;introspection&quot;&gt;Introspection&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1Ce8jQ_IL66liSZuDmMLIUPDQW9wriYFs97J-rVpsVKM/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076382000&amp;amp;usg=AOvVaw2zQDDWnTNRQlR79RGv6bxo&quot;&gt;Introspection&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://hyperanalytic.net/introspection&amp;amp;sa=D&amp;amp;ust=1596495076382000&amp;amp;usg=AOvVaw1cA_cqaKRXx5ENwor_oqRO&quot;&gt;Introspection on Hyperanalytic&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;language-patterns&quot;&gt;Language Patterns&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://drive.google.com/open?id%3D1mN56XyUnoZz66igDBtKX6WPaEM1wa0zvK2YgowPusBs&amp;amp;sa=D&amp;amp;ust=1596495076425000&amp;amp;usg=AOvVaw3TXkXfZAebx7C6HJC11MOr&quot;&gt;Wisdom Language Patterns&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://drive.google.com/open?id%3D1B0jpkSM9juDe18oTys3nDZN3w8uBYWd9MZn9DytHlZQ&amp;amp;sa=D&amp;amp;ust=1596495076425000&amp;amp;usg=AOvVaw38OiAwlw-5FmNaV9v4OhVA&quot;&gt;Religious Language Patterns&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://drive.google.com/open?id%3D1ngwSLoQ1YGV3kmZvURTEIbLMAYsZwH7gXbxrpAvLmDk&amp;amp;sa=D&amp;amp;ust=1596495076426000&amp;amp;usg=AOvVaw0HKFwSkXGPurTduWxDgGjL&quot;&gt;Love Language Patterns&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;learning&quot;&gt;Learning&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/154kd5BSUSipuTx34Kv_CZseih-5foAC2dS4efX5CX3Q/edit&amp;amp;sa=D&amp;amp;ust=1596495076353000&amp;amp;usg=AOvVaw0UXxFogwpEh5ny8uF7nqIC&quot;&gt;Compressing How to Learn&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1nL-E09Cb5thczT01JXdtDcoR-gS0O4gyd6qnQd6bGhs/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076354000&amp;amp;usg=AOvVaw3qVYve-aOMg_vhwnNWllii&quot;&gt;Meta-Learning: Story of an Autodidact&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1sSOjOALigZXm3VB8V4HE4GQPLJvuMxwj5spusM9CiIg/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076418000&amp;amp;usg=AOvVaw3myiO0oATvUd5jdysLBK2t&quot;&gt;Autodidact Resource Sharing&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;lifestyle-design&quot;&gt;Lifestyle Design&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1kBGZGveFMiOOtUIyw7wkdMN2hvBcIPSSpgHiFtT8LJ8/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076386000&amp;amp;usg=AOvVaw2_cvBs6Od2HmhdYw19caTI&quot;&gt;Ferris&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;machine-intelligence&quot;&gt;Machine Intelligence&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1fGTyiDxJDf_RGu4h_Aj1u5Liyz7fD0N_vp2usp3PKug/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076474000&amp;amp;usg=AOvVaw20I69Sz01A89GdyufWP1ZE&quot;&gt;Bias Variance vs. Variance, Bias Variance vs. Sensitivity-Specificity&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/12aZCRdXh5VmtaNFCzuV2pzIO2veA8vtQXtZhN4zMWoM/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076469000&amp;amp;usg=AOvVaw2Q78BVM997BprTl_4aZCUb&quot;&gt;Metalearning the Structure of Information&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1uotusHhahdhd_UiJSWR7lzyTutechLaSven7UOIBsiE/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076466000&amp;amp;usg=AOvVaw2lV5NpkYgCRc-0_NVlzEu8&quot;&gt;Deepmind's Path to Neuro-Inspired General Intelligence&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1QsHRWNJp6DVnabXx62vve0jf88Qixx9Pk2ZaULlaESw/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076466000&amp;amp;usg=AOvVaw3ZsspY3rAWpMHg329pLyk9&quot;&gt;High-Level Machine Intelligence Reading Group&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1k8rSAqzsED3fQWQRQiepotRu8LbBmSDAWBcxvq3oqA8/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076466000&amp;amp;usg=AOvVaw1aR_W1KWi8-OWjHjyyZ08g&quot;&gt;Abstract Representation Learning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1meJGCTknQ8z5D9ejj5eM6wfVQxivqgrR8hpKq0Rlk0A/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076463000&amp;amp;usg=AOvVaw3fB_lnDSmJgA-q8Ab4cHd-&quot;&gt;Google Brain Research Overview&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1sErfsrJlBmxPi8xmtcEuV3oBGBg4wAJ3Fbm3vN31a54/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076464000&amp;amp;usg=AOvVaw32jCZ5eQXt7V6Kwecr3n_w&quot;&gt;Criticisms of Machine Learning / Deep Learning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1xBImt4PZUeEra2By4JaRLw3dg8sqJ3znscd2sfFsjZk/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076463000&amp;amp;usg=AOvVaw1CzZCc1vBXi6XxsLu-o5Km&quot;&gt;Generative / Causal / Hierarchical Model-Based Reinforcement Learning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1ueM5mj93E4JHxZ97TD59tdBy8oQYHZA6w826Dw1_LDY/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076475000&amp;amp;usg=AOvVaw09s8JOlezEPAiRliVXUV2S&quot;&gt;Against Embodiment, Intuitive Physics &amp;amp; Neuroinspiration&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1vvZ3GC9c9k6I9WbXt-bfN859OZmUIB40OilSesGXOQw/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076457000&amp;amp;usg=AOvVaw1ecY-Aqb3vWix3qgd1p5UU&quot;&gt;Deepmind Research Overview&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1G-ppYPhrAm82PqJWidx75EjvMDz8SRLvbC9QXuIq17k/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076461000&amp;amp;usg=AOvVaw2K-di8EbvAvT4bFLRQ2mPu&quot;&gt;Machine Intelligence Research Frontier&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1Qt0PEs51qlEvyomPy5vnT4E4cwxYhFbhgB__1X1V2fw/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076465000&amp;amp;usg=AOvVaw1XYfzFQxpv2kPudfmoVLtH&quot;&gt;Future of Machine Intelligence&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1x_64kgD5urKaVkTUv0fGfIpo0yaQMtxoKmZR6ZJxHzI/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076476000&amp;amp;usg=AOvVaw2kBqJ7h6RIcFQEDk3Yxp04&quot;&gt;Issues in ML Research&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1BYd_oVgVn9S2NBkMMgIFEsbeB8sJdLFfq_YEw89A6S8/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076461000&amp;amp;usg=AOvVaw2jso7SRCe7v35nnVi62Qen&quot;&gt;Relative Safety of Forms of Machine Intelligence&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1zvo_HQKdNhxqSt4SfQCyXoiC0RmqwvvXI3mFGi_Tiug/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076582000&amp;amp;usg=AOvVaw3aSDt1hgGZ20h9x8F-K1RN&quot;&gt;Deep Learning Frameworks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1kv_g4eO_xKvdu6GLR6xNyogq4uURs3ovdELj8d1DFCg/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076583000&amp;amp;usg=AOvVaw3kJxGzrtc1sLmadxtwktrI&quot;&gt;Interesting Facts in Machine Learning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1pl9GGbI_-hFa8FK7031TYwiOkv6RYZOJNE2K_AcunF8/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076586000&amp;amp;usg=AOvVaw0gf-7vrm9CvUKM-oLvRk2r&quot;&gt;Open AI Research Breakdown&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1hUtEZb2-NDmG9mdgFlJ0QU_D3BQgxci4niJhl-vBVOU/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076456000&amp;amp;usg=AOvVaw1JZ_O5dQ626lHcq6lvVYgt&quot;&gt;Multi-Agent&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1qNQzLUeg4Y8EbyAIiV_H4pFr9qqeFeYlb_K90akL7l8/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076454000&amp;amp;usg=AOvVaw1Md7-mrvjNvRmQ_8LGVjRK&quot;&gt;Recursive Self-Improvement, Task Search, AI-GAs, Powerplay [Beneficial AGI]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1DKNbOf-A34jZjzDqBZ1DW2fTLY2zm4wKEre_y5qPUhU/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076454000&amp;amp;usg=AOvVaw2fvIzXT1NT78L_cwMoQN_h&quot;&gt;NeuroInspiration / Deep RL&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1I_R2FJLZnWbLLeF0isblF7yXz6fme9KHT49-u_iKIwI/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076458000&amp;amp;usg=AOvVaw2LJ_IFjvNBdw51rPX51imD&quot;&gt;Multi-Agent Conversation Notes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1jO8nhfaOqpVaWLI0-uaBlafqiEE_-CnIEtcTNXHrbF0/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076577000&amp;amp;usg=AOvVaw2Huza1jYmjmQFU8RYHj4tp&quot;&gt;Facebook AI Research Overview&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1ilwk5ZayFGNwtbJkPwjPmlOPonViEfMbfrP85Ovtw50/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076458000&amp;amp;usg=AOvVaw1sw6f0mZDvuFObv5G3curg&quot;&gt;Relative Safety of Paths to General Intelligence&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;media&quot;&gt;Media&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1Tp1kqicncSzQVbepSy8bvTzFbMptVwbhHVHxYkRn7Pw/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076381000&amp;amp;usg=AOvVaw27o3GzAEV6nz5q3zO0fCOD&quot;&gt;Media&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;memes&quot;&gt;Memes&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1IGsXX9J7uNbqSHkDc9MuI-FilZug2n-tsIw1wVUQQ3g/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076392000&amp;amp;usg=AOvVaw02nSWj6w__X_dMEQeJyrKd&quot;&gt;Memetics&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;meta-science&quot;&gt;Meta-Science&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1k2iav329b4LvsSll7C0PrpP1X_SFkdjtzOBu0IM-UWo/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076416000&amp;amp;usg=AOvVaw38ALIwwRY8hXdoca-6Tnxx&quot;&gt;Meta-Science&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;narratives&quot;&gt;Narratives&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1UWOgBfRiKK2-qtfArPI8g8vSdQTNKCI2iAnU3vutB5w/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076394000&amp;amp;usg=AOvVaw3ZZZcFLG1r6umUsg5rh1-H&quot;&gt;Fundamental Human Narratives&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;organizing-research&quot;&gt;Organizing Research&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1D9U_xCnkQFDQhe_BVSK6bVlRHpYIMtY8ZwRpL6PodrM/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076441000&amp;amp;usg=AOvVaw262YINrTUONWScrgTaw3jc&quot;&gt;Research Experiments, Processes and Systematization&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1n-vaSoVCEJXtfgXhdlzfTf6tpODJyoxSGwzdM3ITwQE/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076442000&amp;amp;usg=AOvVaw0UqLMlHsV59PnA3SoLU-ra&quot;&gt;Miming Great Scientists&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1MSqOaOR5RjlaPsQ4q6Q4RTv9jRA3A9-6xRhmPLWuJzk/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076443000&amp;amp;usg=AOvVaw3JpZyZWQ2_HsfWzgJJeDzA&quot;&gt;Ideas Worth Implementing as Research Org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1t8_sqyHIYqbp8Xw_wnENSgJwuYqVp3MIVwImeY_RVSY/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076444000&amp;amp;usg=AOvVaw0mLeVQjCI3X_ywcEyeGstK&quot;&gt;Publishing Decomposition / Recombination&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1CX_BOuGX4kwKFRshYzbBGV19eWUaMhc3P7kq4LZ_EIQ/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076445000&amp;amp;usg=AOvVaw0PTuhAacT_SFKvWJqAa32H&quot;&gt;Properties of Research Orgs&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1w5-Tch0NDw4ppl-ydHhwZj96y43P-dyMfSdWop0XIno/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076446000&amp;amp;usg=AOvVaw2YFVe5fU1XwmVVtqRn-O2O&quot;&gt;Open Research&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;policy&quot;&gt;Policy&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/10sUSdcslLLELwVty6bv5KYQmZsrpQLzb-QwMXQVACiM/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076418000&amp;amp;usg=AOvVaw1TlAdlgpKEOVnZ8zBE8Lyz&quot;&gt;Public Policy Positions&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;posts&quot;&gt;Posts&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/14qHzwwYLV7tc_ET4QCwLLO379TJAE1Gcwq81QbxdWAE/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076403000&amp;amp;usg=AOvVaw1CEU1VdEscXC1QjfCCgcCe&quot;&gt;To Convert Into Posts&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;power&quot;&gt;Power&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1zHdaNKsVuATnj65HHiWZQUoIqQNRXTdpi0tqP2Kei5A/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076415000&amp;amp;usg=AOvVaw0qFDbBAdkjjGCgaz0mvsBZ&quot;&gt;Distinctions in Power&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;probability&quot;&gt;Probability&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/19RiyCUPKIS8Ynzfse0NoJBiSIHHYmWWmIeMWYhbcE9s/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076413000&amp;amp;usg=AOvVaw3fXFUyKoY-b1QYCg17wHzG&quot;&gt;Evaluating Rare Interventions&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;productivity&quot;&gt;Productivity&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/17yxUxZNQAQPPRkUhlTsF4NsQz_jDD91hzYkQPci9MCo/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076611000&amp;amp;usg=AOvVaw0J50TsjocjlbRE5XIYz5KR&quot;&gt;Productivity Systems&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1bSQYrqKjA3LVfVjK_X9MzCFnlwFxd8UrHWtaJOtqEPM/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076607000&amp;amp;usg=AOvVaw2CPwfFhbTot5npJGfS3pW8&quot;&gt;My Life&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1PC2WxkPOoHpEXTan8RTK1GwqRMYsnzZq3hcnNe9kMaY/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076606000&amp;amp;usg=AOvVaw2p5BbUI922uHbiZBih2QRv&quot;&gt;Experiments List&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1mKBAv4bkm3rszzqRtdxWT4k4bkkTZLlMMq8gDoOVTd8/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076600000&amp;amp;usg=AOvVaw3C5nvILFeIgiZYFgLrh8YF&quot;&gt;Meta-Commitments&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/199uZ8VZqhB9BQ5gY2nZqyyX1FVi2kogyvkFhrDls140/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076602000&amp;amp;usg=AOvVaw0A0UOnl8qGZpiLS_z5uU5_&quot;&gt;Silicon Valley Job Skilling &amp;amp; Acquisition Guide&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1hUQDqax5rWHIWp4_y30KDKzxZOETnaUTNr0FtDH3C5U/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076599000&amp;amp;usg=AOvVaw0B06nMiGKIJ7twCmxnLgiD&quot;&gt;Motivation Idea Space&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1kM9YpDvHU-iDwyvRBzek_UxUPrzVuns2QgQkR0qP1TQ/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076599000&amp;amp;usg=AOvVaw1Pd4gM8imi8zLx-hr44GxN&quot;&gt;LifeScore&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;questions&quot;&gt;Questions&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1Ken8B30ODNqwxjlcFB_X1i5WoV-2yxlWj3L05VPHpVY/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076412000&amp;amp;usg=AOvVaw1wevc8Aly22b4hD7eMlvZr&quot;&gt;Good Questions&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;rationality&quot;&gt;Rationality&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1HsmZYgmaLkC26wIQ_7WEAc0bCMTIJwhV9Bfyu0LY2WU/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076383000&amp;amp;usg=AOvVaw2VQdWRxSRrRJjh7FnLtjAV&quot;&gt;What is Rationality?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1IiExjpBQowWM1JtJlbpsrBdf9caYcUgq2TVcdwfhGE8/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076383000&amp;amp;usg=AOvVaw03Zkd9ZZvVe4VoFqlDAkNW&quot;&gt;Naive Rationality&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;relentlessness&quot;&gt;Relentlessness&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1bBeCdCIRx7wmMNdS3t5M55DUKTZQ_fXsrklDTTyStCk/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076385000&amp;amp;usg=AOvVaw2RaD1n_RsTMjxyx0j7mBpX&quot;&gt;Grover&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;social&quot;&gt;Social&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/11EAI4vL8W6FT3Bs5k_zi-npTcz-p7nD_Lka-MThwOoE/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076363000&amp;amp;usg=AOvVaw1n8_5qoyfs1Rkw1t3Fa8WC&quot;&gt;Influence Literature&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1zxg0lTtA6sVYZ7dAOhJvP3qIGZKF1tpvWjjbR8xVvYQ/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076367000&amp;amp;usg=AOvVaw1kd492-0MDmZdH1unFa_DY&quot;&gt;Gottman on Marriage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1nlBLMdF3P8URpxiUXeoAqvoPFoQ0EBbVev0vMOmZnY8/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076364000&amp;amp;usg=AOvVaw26jsQH6yKaDqNDTV1Ljm72&quot;&gt;What Every Body is Saying&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1ee505oMJOnZcuP3rFSlI3kUmW8Q_qnvioNlPmqFiwUo/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076369000&amp;amp;usg=AOvVaw3wy5yUTJVrsFkDkSHFYjYw&quot;&gt;High Level Models&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;specialness&quot;&gt;Specialness&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/15uJgP3Hd-RroAhtr2e5OzqYkQgYDYbdY_9Bvj2q51XA/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076412000&amp;amp;usg=AOvVaw3DYofQHhLFytKiRyfNDdgC&quot;&gt;Specialness&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;status&quot;&gt;Status&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1KrZAHeXMXoTmDw2qW_zWCFxz4kTEyDTZqF_WVhyeT5k/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076415000&amp;amp;usg=AOvVaw14eO-_rVu5vVwLNXXeTvJv&quot;&gt;Competing Status Hierarchies&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;superforcasting&quot;&gt;Superforcasting&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1YPyXs5cWd6XFRx4Sfjzw8twbYUjuHoO0O5a0oA_Q3Z8/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076416000&amp;amp;usg=AOvVaw0yaB1JlutBpLA5rNcVlWGQ&quot;&gt;Teaching / Learning Superforecasting&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;technical&quot;&gt;Technical&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/14FjQcA1Z-Nos5sCZ0pt9L6O51cNFKdK1UjbP20cutwk/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076372000&amp;amp;usg=AOvVaw1YYVNtVkuWrX-1PQPYRnQA&quot;&gt;High Level Understanding Mathematics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1oX4gNfHzZej8is2UXpoSFuwujugsJ8qSfD3clbcqFWY/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076371000&amp;amp;usg=AOvVaw0dHa6-ul0bVagNhLydR8Fi&quot;&gt;High Level Understanding CS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1S-d9vP41HlxjhPVHgHDg0CqFY1iiC-wr88O5kjW7qp8/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076372000&amp;amp;usg=AOvVaw1Zt7Ebd_d84Whj1OH0_5_I&quot;&gt;High Level Understanding Physics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1pVkFRu2GtM7kUMchfrAAJJgJ1NW-jYJljUGOjhPty-k/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076373000&amp;amp;usg=AOvVaw1N0SnxMp4k0L3ym5TUVxIU&quot;&gt;Comprehensive Technical Machine Learning Topics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1lvBWuIsoYqTaZb2mv42njTjGU7vhHAyUZSvM5niu098/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076373000&amp;amp;usg=AOvVaw1MFvSmUYZsosWRjh4dkGuR&quot;&gt;Murphy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1bZCbC5lPocA1sIFs0qJYgYne-3y1b675WYrKHwIdGtM/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076374000&amp;amp;usg=AOvVaw3KCX-3HFkrs98uymSg9Bvr&quot;&gt;Systematized Predictive Modeling&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1KtLsLnMWIZIvb2hbOMrp_ZTocvaaLPJhgOHTkNyeAN0/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076374000&amp;amp;usg=AOvVaw203v2wWgPocJSfe5eji3zQ&quot;&gt;Textbook&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1uotusHhahdhd_UiJSWR7lzyTutechLaSven7UOIBsiE/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076376000&amp;amp;usg=AOvVaw1tzXkOPt8-FXp2geBg9kni&quot;&gt;Deepmind’s Path to Neuro-Inspired General Intelligence&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1BbHW2B6bygh8dYxrvYhGuH6x-eFgdDpdez9MZkrQntU/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076376000&amp;amp;usg=AOvVaw0tE_VOgmBbIzO92RfAwBvB&quot;&gt;OpenAI Research Overview&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1meJGCTknQ8z5D9ejj5eM6wfVQxivqgrR8hpKq0Rlk0A/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076377000&amp;amp;usg=AOvVaw0axCyXAAlPsevvwpqfiYj-&quot;&gt;Google Brain Research Overview&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1I28ptnaIRfrdGQj72k8cH4Wqm0b-BvRcwdHsaSJszjo/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076378000&amp;amp;usg=AOvVaw0TjtfCuTUJFfxxU8vNgXf4&quot;&gt;Demis Hassabis Resources Aggregate&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1lQbTO_B2degmbEc7I5NXPvaEXtZIv8lmwNzmS2VjJ8o/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076372000&amp;amp;usg=AOvVaw3CIFfAHYJ95XA-4yi3zUUi&quot;&gt;Limitations of Mathematics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/13s1ZC1kCFGn26OL1quIwGz0fLibaVpkDZ9RxEbNzb3U/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076370000&amp;amp;usg=AOvVaw1BLJZ3__v6uTZUGgOtylgd&quot;&gt;Fields&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1n-nXvSt9xpYDGTu6KGyYRTxLUMZa-YUaAlD3kG0q9iU/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076379000&amp;amp;usg=AOvVaw24Npd-6BpjErhIR3ruDo15&quot;&gt;Mind of Demis Hassabis&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1Gj8XxWTP4ZzZPh4yNwbsrmSeYwasheyI1tAtpLxpvUg/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076379000&amp;amp;usg=AOvVaw2MCMib2ZRoxO3NimA-0meW&quot;&gt;On Knowing Everything&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;technology&quot;&gt;Technology&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1s9yw46-P81qrvlemUhqYx2yRdSv2fpIxn5Z-LU7ue3c/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076417000&amp;amp;usg=AOvVaw09biM-FQXFOPUBFb33nOtL&quot;&gt;Industrial Revolution Tech&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1V7KdYPjAKIH1VeI-e9PysFa1yStzEPK3l-jWGlOH_Ag/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076417000&amp;amp;usg=AOvVaw2P7IZ8Re1Q_-U2WVCVYLzp&quot;&gt;Tech Trends&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;thinkers&quot;&gt;Thinkers&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1Ns5_9ezFdnz54B1tvK6sDQ10eLcjO4eeQ0WPA3DBP5w/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076380000&amp;amp;usg=AOvVaw230P6I0CU3j661guVGu1Hc&quot;&gt;Thinkers Who Went Deeper&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1B-DiHd3w8x9JTgP1JMc0wT5NmJ0oB4pnvgJ7HBaFg38/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076381000&amp;amp;usg=AOvVaw1qBVTuBFPmk5Dpimo5clkX&quot;&gt;Peter Thiel on Progress and Stagnation&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;thinking--modeling&quot;&gt;Thinking / Modeling&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/15tU8xm_RyGbEIOraUVwhCgGN2fPr0nKCrokV395QIH8/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076361000&amp;amp;usg=AOvVaw0kQsxqkVMesOB3WqdLHfpQ&quot;&gt;Models Worth Creating&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1KsAee8SodVj2nOn_ZDgToGmjSj2mEPBejt9dTvEXuiQ/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076360000&amp;amp;usg=AOvVaw3eamHBC8_0rq1Ck03Nnv_w&quot;&gt;Distinctions in Conceptual Style&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://hyperanalytic.net/algorithmic-thinking&amp;amp;sa=D&amp;amp;ust=1596495076360000&amp;amp;usg=AOvVaw2UNMC9fAk5qP6cz83nsWnA&quot;&gt;Algorithmic Thinking&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1OxhGkiRY9FpBqj5r7E9NinV6OhBm3OQxfQd3fMCnx3U/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076359000&amp;amp;usg=AOvVaw1pXQJsKG1cRK04-q6jz1M9&quot;&gt;Munger&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1nGk4pBvGNQHynyJNDQT98c6f7YqLRDhFwH6K6SX6gjQ/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076359000&amp;amp;usg=AOvVaw1CDSxoVgDo3JlOUt1xWPOh&quot;&gt;Meta-Modeling&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1QrrdKv267dlpy3sEVPvsRb-iZTyFKfr2mF5Wms4od3k/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076358000&amp;amp;usg=AOvVaw3yF0ghnFIIAmi6sncf6hzl&quot;&gt;How to Think&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1Se-Isofv3aedaweJBJe0GczkRb1fNXOPA1dD4DJWbSs/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076361000&amp;amp;usg=AOvVaw3-l1P1v0KjhWddRCPEjUJu&quot;&gt;Cognitive Categorization&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;thought&quot;&gt;Thought&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1cs_pXWX0vGHnsfImTH6EEZ7tRpf6KQC-p0h8I8lTL4E/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076413000&amp;amp;usg=AOvVaw3ylHmM1jwAN5bUj86vD-DT&quot;&gt;Seduced by Knowledge&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1O80dGZt23mGZJKNcQFwwNIVI5Qt82AJtzzbHfJXhB1c/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076413000&amp;amp;usg=AOvVaw3Avw-POgF6iorStCrwsJHk&quot;&gt;Changing my mind about my mind&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1Suqtdc0yrhUK6HqdCNd8zUlt7F8ILypymudRyprOezs/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076412000&amp;amp;usg=AOvVaw3iqnEmCrOHycU2LPSWCI7q&quot;&gt;Thought Loops, Emotion Loops&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;tradeoffs&quot;&gt;Tradeoffs&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1xnExBUCodqtJmKP-i3s-gbfmbn3H0lr3A0BLE9hUiYs/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076392000&amp;amp;usg=AOvVaw2zkPexBfRmeWpjce9Gst8_&quot;&gt;Tradeoffs&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;visualization&quot;&gt;Visualization&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1jsBEMLM_LO8TDM2iMitRwde4RMFq1-4Ca8E8Lb276Zo/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;ust=1596495076411000&amp;amp;usg=AOvVaw30RVTtXiEy2JR0Cc8ag3d5&quot;&gt;Vivid Visualization&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;idea-lists-upon-request&quot;&gt;Idea Lists (Upon Request)&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1wBmUs08i55LqDDz13hvZFXdMHvgMyiHfh7RRgnDZu0Q/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076813000&amp;amp;usg=AOvVaw0nm7Y4urXoCzkchMqKlv7H&quot;&gt;18-11-13 Powerful Concepts in Machine Learning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1GtO2HBCBbeUjPjzWh6oKui_nPJmoIek16tLB_VVcl7A/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076823000&amp;amp;usg=AOvVaw1MwgZOKUwUd3XLaoagsp10&quot;&gt;18-09-22 Efficient Social Search&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1akqEtTiZtTB55MsQFPOY9jtix2-Y2mQHXsjC8ATLXdw/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076823000&amp;amp;usg=AOvVaw1xkhXLo9rmti1Kctzo56X9&quot;&gt;18-09-22 Anti-Trends (Technologies that need to be trending but aren't)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1OCxgKnXJykofLG9CEnfYXevjacjeWu_3NtlITtZu8-E/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076824000&amp;amp;usg=AOvVaw3umIy--4iWWb19dopigAyc&quot;&gt;18-09-19 What is 'Real'?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1bWX9x0mESKbLIIEfs20hozC_cDYcPfzZ6pbIMptj68E/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076824000&amp;amp;usg=AOvVaw2UCJ_xXGAqdRQVURZyWPgU&quot;&gt;18-09-19 High Value Communities&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1mf9GhvV9sEdAx__EvIeOPytr-U-GxiC4Wg5JdThnjxY/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076825000&amp;amp;usg=AOvVaw2HQlRRCPE0-sBQHksHEiJz&quot;&gt;18-09-18 Rare Concepts I Think With Daily&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/17nWOvHRCYXX7kfjKls0RfCH_nTUYHaEkaZOJ5Y1YUV4/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076826000&amp;amp;usg=AOvVaw3aYOExMM_6DgtuHqu9wCed&quot;&gt;18-09-10 Counterfactuals Fact List&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1pNjVMt3VH1p1yF95S3395oJUjuFGj3rJKtSsL5Gkook/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076826000&amp;amp;usg=AOvVaw36XeujJxVQJpaS017-Sh8j&quot;&gt;18-09-10 Words to Create (Creating Concepts)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1vjnoejj25Qu63WGFARyRlPqK4j7HBfYx6nUpovRbQJc/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076822000&amp;amp;usg=AOvVaw33ry_aA6wvKRMV-4KpmdcM&quot;&gt;18-09-29 My Favorite Books&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1-cd2nxHUynQj4544RLBpdkdcKqH94_LuOrBJPsWwq2o/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076827000&amp;amp;usg=AOvVaw3rQRWlqT4GBmkazcJRw9c7&quot;&gt;18-09-05 Sources of Value&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1YXCoT0nn-ilKlD313kJR9_Sqr3emix1v_-fiOiQS8JA/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076828000&amp;amp;usg=AOvVaw3-8h3x0dHF7sSLbJX6-CZR&quot;&gt;18-09-05 Sources of Contrarian Truth&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1Kx1TnBVfPhfS8FraaTO8gT7xggWkhYj9BfBbDWB06No/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076825000&amp;amp;usg=AOvVaw20ULHY4amGUTL165ooI4mB&quot;&gt;18-09-15 Renaming Generalization&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1_SwK_-r_VdnYZnbzK2gepFZEvD5kE6d4usfLaaY8Kt0/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076821000&amp;amp;usg=AOvVaw0LVBHwzpAp22kT0oURKrXH&quot;&gt;18-10-12 How to Overcome Approach / Conversation Anxiety at Brain&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/165RVpU-3pzQjYeN5A4v9AV3krG1b6McUkvqSZgsVxoc/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076820000&amp;amp;usg=AOvVaw2KdR59cJxYA8LxK6yNZqTs&quot;&gt;18-10-22 Gradient Variance&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1K-RROp4NSXVBes3zzVC2TRKpV8eCJFZz6XRwsl2-VPk/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076829000&amp;amp;usg=AOvVaw1_WI8JeLLjJOKazIqHI5rB&quot;&gt;18-08-31 Thoughts on Valuable Research Events&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1CUWQQ3ist9QXpKtB3NqVra1vJxsYoTtSzlkY_2PThJ4/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076818000&amp;amp;usg=AOvVaw10NmD_3B6XhTcRzHI8Udz8&quot;&gt;18-10-29 Strengths&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1GpE2SXMSZPQt44KaDG0P0YhrrhJ9nXR9zfXegF8UDnM/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076817000&amp;amp;usg=AOvVaw2S_n64AVO8QfoVUAHgSWUX&quot;&gt;18-11-02 Transcendent Self Awareness&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1B1BZCROdRLNce5oZOl1gBHng5mNjN9k16RBEcl4g5Bc/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076816000&amp;amp;usg=AOvVaw1paHQiIcKXll9oNaW85KZ2&quot;&gt;18-11-02 Types of Transcendence&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1nNJmJjFlA7aoeXNgj9a1zg8BH1Pa4S2eegttf0cNArg/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076815000&amp;amp;usg=AOvVaw2_MrG_3z0RqpKeWNjVjn9P&quot;&gt;18-11-05 People Who Know Me Best in the World&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1IuYtRcWgYWCUo77xnFI4JHgaAyhg5kDYngpZE5LQdU4/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076815000&amp;amp;usg=AOvVaw33Lza40DFjpDmpIssO4bGk&quot;&gt;18-11-06 Common Mistakes in Thinking (Why it's hard to think)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1Jfkc2c00u2xpUH1loaGRFDXi-Gn7jXMY6T7SwP3NRqY/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076814000&amp;amp;usg=AOvVaw0cIQQydv5--L1Ls6LS-xY5&quot;&gt;18-11-06 Decomposing Intelligence&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1mYlX6CsGCatQuVt9L8y-990xfm-agcpRHukEjHd9yx8/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076814000&amp;amp;usg=AOvVaw12OvAqU5CzG1gZ6MvJnPiA&quot;&gt;18-11-10 Properties of Relationship&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1fDCJBHR6-ewrmdJJlxK4f3HyyO-ju19Pt7mmx9KGEAU/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076814000&amp;amp;usg=AOvVaw3v1EcylEfQ6QNL-IuGJtYR&quot;&gt;18-11-10 Unmodelability, Mechanisms of Chaos&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1LU6y_OTOMORFYvexU21p9khdzExpd9_DqxxF_YppW8w/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076813000&amp;amp;usg=AOvVaw0zzwSq3tHQdDOD8j8WqyAE&quot;&gt;18-11-20 How to Handle the Truth&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1P8RIQcbSimtRwFaGkYV-rbWf1s7A8EN0ifM-ebZqMp4/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076821000&amp;amp;usg=AOvVaw3iC7c56RmE0bII3VtNx7tl&quot;&gt;18-10-15 Funding Transcendent Enlightenment / Startup Ideas&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1Y1HFB0ZAtQQoDM8XvWQhkwt2HmhNSNtw-GTTEn_5ko4/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076830000&amp;amp;usg=AOvVaw3ywDlvqrUZmkrNXyY4L4jS&quot;&gt;18-08-29 Meta-concepts&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1-IxMZwprRwg2WPdPvwO9_pvQgX6mPwq0JsCHhqXrrhE/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076849000&amp;amp;usg=AOvVaw0AYDkCBrxxuQ344CS-ueMI&quot;&gt;18-06-24 Compassion Language Patterns&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1mN56XyUnoZz66igDBtKX6WPaEM1wa0zvK2YgowPusBs/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076856000&amp;amp;usg=AOvVaw2uHbf5aSmHaIonTdI1YsUl&quot;&gt;18-04-08 Wisdom Language Patterns&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1ALb5Hxsa0hbWecbprjCJPU3D5Yh_CaEVLtyHadfQvZ8/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076852000&amp;amp;usg=AOvVaw1SgaTn0_GJBRUFMmp1_QuU&quot;&gt;18-06-02 Grand Scientific Projects&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1iSwXhx5rLHa27OlX2CKlrTtw5hkQsU3rikufS-FOKb8/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076850000&amp;amp;usg=AOvVaw0AlOkGwsmlSt5CKrAudUxu&quot;&gt;18-06-07 Powerful Rituals (Ritual Design)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1nRe6LmD88u1oUpVg9Yhr0dsrz4JmhrPmxO-4KLt9k68/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076849000&amp;amp;usg=AOvVaw2WrJFZYgcYqbQ6PbQB2Wxi&quot;&gt;18-06-19 Vulnerability Language Patterns&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/17XJqrRYtOJ5cb8YBS2LljQ87AiiEvhJrj-mI8V3p0f8/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076812000&amp;amp;usg=AOvVaw2G9jI3KetKBMXdf28_CTVq&quot;&gt;18-11-27 Consciousness Decomposition&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/162wtoeNRD6UwXWUMWaztNXmmBrqZYWnjWgoEfQeNzbQ/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076848000&amp;amp;usg=AOvVaw1iVf2pChAhm3Is8o1U2pMJ&quot;&gt;18-06-25 Admiration Language Patterns&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1HV4y-FL_z9ribBjuZ5dn5dJUmZnUjM3B4tf8Y3lk4pY/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076848000&amp;amp;usg=AOvVaw242OxQHepXvLwh6fqEEOYA&quot;&gt;18-06-25 Empathy Language Patterns&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/11pj24SvyPkJpQSnShUpFA1mPMkUqLAPz_rygWFsZ8pg/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076847000&amp;amp;usg=AOvVaw2pi3f8fqNCQHV_nn7AUdgv&quot;&gt;18-06-25 Kindness Language Patterns&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1ngwSLoQ1YGV3kmZvURTEIbLMAYsZwH7gXbxrpAvLmDk/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076847000&amp;amp;usg=AOvVaw0lzTaTODwyVeoVopPlVTbZ&quot;&gt;18-06-25 Love Language Patterns&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/15FutrOKvkeocylZXAoWsyp57s4qkklzgNS4SbF_qTo0/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076846000&amp;amp;usg=AOvVaw3HxN29YcRIGYrVW7gSLmQm&quot;&gt;18-06-27 Words of Power&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1zY8pANeG4dceUFoPeXaExvez2_doBLq1zJI96hu011M/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076846000&amp;amp;usg=AOvVaw2P4ZCRCtTj6xBfEkQm7-xq&quot;&gt;18-06-29 Honesty&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/17o03IAZz-_UUZ0A6ZKKSllW4Y6LS5HzdHv5B1VWnEtk/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076845000&amp;amp;usg=AOvVaw1yrKxkLSwihAjfs2tQjzG9&quot;&gt;18-06-29 Joy Language Patterns&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1vLzRWXmTP4ljMoTYOewqqJksgTD7iUXYlE2BW1q0ehc/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076844000&amp;amp;usg=AOvVaw0f3emOqK3KcoTMnTH3Mpzl&quot;&gt;18-06-29 Openness Language Patterns&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1D-1iJqUmaLBN15ieGu02jXHzJAm-jPbM1Z9YlWx1zYY/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076844000&amp;amp;usg=AOvVaw2ArgMXwEXyuUqccQFvgCtR&quot;&gt;18-07-03 x without x&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1xPAZiZmsj6Ma3yum23H9ca4xSLnNcjBn-4TLSgsVe6g/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076843000&amp;amp;usg=AOvVaw0sGN4k3rco2Wmng11HCTiR&quot;&gt;18-07-05 Systematizing Humor&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1ouMb33e4NpgBZeuF7BZVMln0zKXFEUx3z9KXcjk-BFU/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076842000&amp;amp;usg=AOvVaw3XzKa8j-asKo9ZCQqHPD8D&quot;&gt;18-07-15 Agency Language Patterns&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1q19x0iiP8uHERC9nj9Yxu3Y9Iab01ksPbh1hjssDf9M/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076841000&amp;amp;usg=AOvVaw3c9G_95AZNXjbjhj-TyfGn&quot;&gt;18-08-03 Generators of Great Questions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1XZJFxeb0Z_j0zjnrct9_NQT1pE1uN00QIiw7yf_o7-8/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076840000&amp;amp;usg=AOvVaw1dvnKy6vFtTowNvpMqKaU6&quot;&gt;18-08-03 How to use my time more effectively&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/15sG_EXO8Hw5puyQYfh3zTGF2QfyiNEp004Jve1_qr6I/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076838000&amp;amp;usg=AOvVaw1r2x4Fa2IBXlknv1Mxb5Kt&quot;&gt;18-08-10 Ideas that most changed my decisions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1x5u6I1BS25g-so5NlBvgHY5qjUJEkNgdn7HNiLTPzxw/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076837000&amp;amp;usg=AOvVaw0wn-BGO4hlTequ0G8emL_K&quot;&gt;18-08-12 Sharable Bucket List&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1tZ05McBUJTsqNk2k29cQUvJvVZswKnkmADaWGiJIbR4/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076836000&amp;amp;usg=AOvVaw0rPUCxnaiCRNLTs1nsJ1oH&quot;&gt;18-08-15 Most Valuable Research Events&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1pUv3Z994LlcAM1rwseCpAAvXe2CNS9N62rRHpAroX5Q/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076835000&amp;amp;usg=AOvVaw1WTjf9K1llU2zrRhMd8cIW&quot;&gt;18-08-16 Implementations of Concepts in Representation Learning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1C7BwqIPP8oYvaNBblJvKvFTlqsYV6GWSKMHaj1VqBsU/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076834000&amp;amp;usg=AOvVaw2BGJMNgo1VR94kIHbivvyG&quot;&gt;18-08-21 Independent, First Principles Thinking&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1EiGLnCmzGglyFONVNJvR9Xft1nlhhb-aseJEmjAtf5o/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076834000&amp;amp;usg=AOvVaw2qaOrCxGTSofTxE0ztL9bV&quot;&gt;18-08-22 Types of Truth You Can't Handle&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1nNL-rDRCSyqRqGX0g-y8uZc7rPNIFDfAgd4O7d0rUo8/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076833000&amp;amp;usg=AOvVaw1HnDDznm4Kd_lAb-fy9949&quot;&gt;18-08-26 Deconstruction&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1hSmV_FIBY6f_yhk7w1XqtkXmLozx57RaXgEDqu0FlSU/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076831000&amp;amp;usg=AOvVaw0royVBsahA66qJI16ehK04&quot;&gt;18-08-27 New Concrete Representation Learning Ideas&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1rSWXjcQKOAJkaPEYyVgqfJuVj2obhYHpuDSPgv5rQo8/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076812000&amp;amp;usg=AOvVaw3Bx24oxYgSmlMXXdz4nygp&quot;&gt;18-11-28 Most General Concepts&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1SIka9WubPy-P4K_2N9FDg6dJsDCEDRjJrEeuvIUBrOQ/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076942000&amp;amp;usg=AOvVaw2dHLNB_mgMLD13-Bz3ULME&quot;&gt;07-01-14 Website Ideas&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1ZVHLbVP4ctCAeuX6of0qaVIfforoU8pSLrG0RvMY0uo/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076811000&amp;amp;usg=AOvVaw1723XHYP706dzjVf_lH70f&quot;&gt;18-12-13 What is Precision?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1MJlsIW_QwACZPZRCgOAffOCn1URLyLeFN-fX2TGo72M/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076932000&amp;amp;usg=AOvVaw3V26T6BeFFOddkcYyXhvp4&quot;&gt;15-08-18 Technical Hyperanalytic Posts&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1Wf6uRC4R56VOx8ug_YYt2aXQION8xvjCTdDgiKXyJE0/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076930000&amp;amp;usg=AOvVaw2lsaNlH0eENn6X0nc4hvzK&quot;&gt;16-11-23 Guaranteeing I be Meta&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1HcQIzrkuAovZIuh1HByPVkoJi5IDXlr2riM6-P0hRBM/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076929000&amp;amp;usg=AOvVaw00JskYdE2i2tc-oldzIH1Y&quot;&gt;16-12-09 Learning Maths&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1h_E5HmSoladClffHVxZpmI6VNeq-6ODtWLzm3wKmEy0/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076928000&amp;amp;usg=AOvVaw2pPoLF08xywVIY-U35zlC8&quot;&gt;17-01-27 Synthesizing Information from Worldview Building&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1AtvFekvRzH1tqHYqV-PBeFjii7APQX6yq6sDdR67LM8/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076927000&amp;amp;usg=AOvVaw3iVco07oaDhcncrCfvNEEZ&quot;&gt;17-01-29 Ideas for topics with Sebastian&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1RGKv2rsu9ZsmQivBm-LXkhgp3vLsqHvoQlthG7h6T50/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076927000&amp;amp;usg=AOvVaw0zn6rEt2WLdQGtILKVqNjp&quot;&gt;17-02-01 Ideas for Learning Machine Learning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1GXAY41tpj56x8Mf1aZB4Iguin8xf4HDLu1ryGnMLz2Q/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076926000&amp;amp;usg=AOvVaw0H0VCL5G3RJ4jTN-uSLZiC&quot;&gt;17-02-01 Ways to Discover Contrarian Truths&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1fPGKIuSSWK792kvlVKUiriUMCO2IojnsBHR8bs8a-Oc/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076924000&amp;amp;usg=AOvVaw3snjGTpfOhl9r5g4cBLKwu&quot;&gt;17-02-05 Machine Learning Startup Ideas&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1xt9inHmWUxOfFcLw39uvgfhC98o_KXJks4RN4sRN9hk/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076922000&amp;amp;usg=AOvVaw2Of9Zq7Cp7R3gpj5pXEWMl&quot;&gt;17-02-09 Learning How to Focus&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/15_0TG8zl8LvtOa2SGJTtea5V8OYMsjVHnH432KNGOa4/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076921000&amp;amp;usg=AOvVaw1lSQMOtmWw34LQdx_0q2FU&quot;&gt;17-03-23 Unusual Startup Ideas&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1Dw6FZ_Kx2SRXO8O4aygmH0XxItZrLNjMAabozZ0xhXo/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076921000&amp;amp;usg=AOvVaw3kJLjGzNwCyIU3JFQ7U-ef&quot;&gt;17-04-08 Systematizing Creativity&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1bwMRpO7-C7rb8JMWEO2esJxJxDP7kBM4VdTJxDY7JXs/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076920000&amp;amp;usg=AOvVaw2_5B8_19yBY22GziLcvBLE&quot;&gt;17-07-05 Ways to Increase Action Bias&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1bvaVt9zVT2s9DABBPm1mMNlS7pyJRdj9GmX0bHc7P2k/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076920000&amp;amp;usg=AOvVaw3P2j1sykBHjWoBPxYRJZtl&quot;&gt;17-07-07 Ways to Explain Machine Learning Algorithms&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1nGk4pBvGNQHynyJNDQT98c6f7YqLRDhFwH6K6SX6gjQ/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076919000&amp;amp;usg=AOvVaw3ndgCCTm4qlFDPNlLofZNU&quot;&gt;17-07-21 Meta-Modeling&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1ClpuqiIyFEG826d-6lMn-bD56o780EEZ47dShMo4GcY/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076918000&amp;amp;usg=AOvVaw23iMzCq26WMI6zNO1PH5r7&quot;&gt;17-07-25 Reputation Building&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1mMDrQX4yuGe3Pxon80M5w9-R2kbaDchVwpbmLc65B0E/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076917000&amp;amp;usg=AOvVaw2Axe2-4Hm87AA8mZDBdjJx&quot;&gt;17-07-26 Contrarian Ideas I Have&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1USiKkuVhJlfh5esjJ9RXbUrt-YGzO07-puUFNYra29E/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076916000&amp;amp;usg=AOvVaw0Y7-T9A905DjMO18nqNUhH&quot;&gt;17-07-26 Running Model-Technique&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1wg4gr7xxOmgMts2cb_FdyQfEa76R7dJ_QC_E3rfOnwA/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076916000&amp;amp;usg=AOvVaw2gXVf2fidpvNcIFOdt77TH&quot;&gt;17-07-26 Things to do once a billionaire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1Oyr0UkK_qT3DR3zI_N2--ugYgAdMEqOHiDv2mPQkPKI/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076916000&amp;amp;usg=AOvVaw3H98uHlRg7HEMuw3s3WzIh&quot;&gt;17-07-27 Alignment &amp;amp; Control Solutions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1SSoQCXF6p0t008AN8YYCBid6bTwJXorBeqkXzNGJJXs/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076915000&amp;amp;usg=AOvVaw3xkqdznWAQ1vlvt2TWViHX&quot;&gt;17-07-28 How to Be Like Me&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1h67MfXFdfidcOiRSqSF4yvmzYOUoDv1T2LuD_nolk5Q/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076915000&amp;amp;usg=AOvVaw38J4iyUFflxqoF2-jA5t2R&quot;&gt;17-07-30 Expanding Attention Span&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1J3U6lTW88vUSBu7y3IRXTQGoz1B6FX-VhZBEv2Naiwo/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076915000&amp;amp;usg=AOvVaw11OKwba3FCw6QTJrRt5C7i&quot;&gt;17-07-31 System 1 Breakdown&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1O3XkZ7al04L0gHKEpgCrtiaXUqrnSa9LFjqqORSE4Ho/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076914000&amp;amp;usg=AOvVaw0AU40w-AL1_NdpY20C7wNK&quot;&gt;17-08-01 Examples of Structure&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1kpHO6cczwSL6gWlyKLn16LWXlMbErEPn_YC0QFsItSI/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076914000&amp;amp;usg=AOvVaw1B0ob5f0_apyDUeBOJnTv3&quot;&gt;17-08-02 How to Silence the Chatter&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1fzIlOE4_aCCqv6AfWNb5_5tOcsHvsF9CcDWP1s5w3Ac/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076933000&amp;amp;usg=AOvVaw152MTs-jRp_JL8nWmmFsMn&quot;&gt;15-08-05 Data Science Projects I Would Love&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/14jrDtRv7vk0qwMzAEZcaMk0fsueqi7L_mAkKpxQTp4Q/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076811000&amp;amp;usg=AOvVaw3KEytn4S6PqyPY-q0ahpUP&quot;&gt;18-11-28 The Big Questions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1JjJQHuKR3SpVLgQ4GPSzUzzUtpqLAuG1dLceSub2f2A/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076934000&amp;amp;usg=AOvVaw2TE0R5cSk6eQ5DLEzjt1E4&quot;&gt;15-07-21 Writing Ideas&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/17JYfn9xkidKrjKwQeAylCvXsORbTOOMh4OGnTr8o5N4/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076936000&amp;amp;usg=AOvVaw1urCAi8GVCj10X5sbeqtRC&quot;&gt;15-07-16 Idea Lists (Meta)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1A6ktVn_n6bFVQobShLxHf2px104yyc7L_IHElLdGdho/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076811000&amp;amp;usg=AOvVaw3DU9rVcu75tVmuV5WOImFL&quot;&gt;18-12-17 Fields by Transferability&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1VKHOyMNit6sDfNlMwsmoH129cc_0IP4JtPZx8grjKis/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076810000&amp;amp;usg=AOvVaw2qSR-bCvtSOR8ASWOcHs47&quot;&gt;18-12-19 Fields to Create&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1iFFnU9YHBGZuW6nkx1WGSUXHeHdWMeCSDE31PZdc2no/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076810000&amp;amp;usg=AOvVaw1VcFjgLYFFvnjBJn9XwkdY&quot;&gt;18-12-22 Modes of Thought&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1VUYoYQNFD9QMzitSVbvdRuoaMehrfS0a0n-FPx8ScDU/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076810000&amp;amp;usg=AOvVaw16e_C4pYn0qVJiRN1mNC2u&quot;&gt;18-12-28 My MI Contrarian Truths&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1sp9daYv_qcC0vkrOCE6MIhnrIfk45qpIcpK7aUvPnso/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076809000&amp;amp;usg=AOvVaw0kwMoRAFyWQgepeJk5N6PP&quot;&gt;18-12-29 Types of Transcendence applied to Research Labs&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1-YaIdQO1c9icf83WBIjbvd_ev3gLn6ML1uNNfXVumaA/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076809000&amp;amp;usg=AOvVaw0zhcPuTVKFQmf999k2xcEi&quot;&gt;18-12-30 Extremely Useful Tools &amp;amp; Heuristics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/14sOQTdcjW5ow77oS7Kv-NPVAGNQ6nuuUhxB7zzzQSVY/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076809000&amp;amp;usg=AOvVaw17ysYsqWMs-YB3genNxMeT&quot;&gt;18-12-31 Generators of Meaning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1N7ivcvGzOPP_e-nLc2t0Arl7gmUDo_oSXoLLktuRzTg/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076808000&amp;amp;usg=AOvVaw101zCL2V7vIqYrNG5RzrV-&quot;&gt;19-01-01 Maximizing Relationship Longevity&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1qds-e2PS-PwGCcWlOOG-4qV1ZSnQOoJ5QtoLcNM01E0/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076808000&amp;amp;usg=AOvVaw1ccCOP_JNvL9Nr4ZBEwFdk&quot;&gt;19-01-16 Places to Intervene in a System&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1rM-NR5hPO9XHKQQMJmkIvkVhMh2_8N-kjz_2XwMH1T0/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076808000&amp;amp;usg=AOvVaw2KxIIhm3etLxpOpTgzlYd6&quot;&gt;19-01-18 Learning Judgment&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1-qTSgRuvA7fIOeKRL6qEy-vSXptVBnqsz5L3yO53Wb8/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076807000&amp;amp;usg=AOvVaw2lNXIJhWJ1Lk190KYXIXxo&quot;&gt;19-01-20 Generating Generators&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1WoGqX4WpI9c0X6SOpcGiq7yS3BI7vXwYb62hE73g7xY/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076807000&amp;amp;usg=AOvVaw1_e_nt1_dUETm0C0j2pMUC&quot;&gt;19-01-27 Modes of Thinking worth Internalizing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1eY1mM_lxXmqSiz4awPPBGwS8mhbSJtAmMHcWJww3QUk/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076806000&amp;amp;usg=AOvVaw1byk6qZ9Q87aNqQdjAUe23&quot;&gt;19-01-29 Games Decomposition&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1UhrrbUQKuFuSlR_SEzRyqDtajtqJ2R0tVlkv8Si-3GY/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076806000&amp;amp;usg=AOvVaw0W6xnC_Do_WWulgT1fl9uc&quot;&gt;19-01-29 Machine Learning Interview Recombination&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1m2Ao8AhhUtJmjEcb3O8NRuDAxj268NsG7MeqoC3FKNo/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076805000&amp;amp;usg=AOvVaw0rgwuxg0vMVntzKTXB7lar&quot;&gt;19-01-30 Different Definitions of Rationality in Use&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1gqcJwPCJojt7782kkbP6KycpyvpzAWRyJ5DKSi6nn_0/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076805000&amp;amp;usg=AOvVaw2XsdGBJq3SqaNYv-Z1ZQiv&quot;&gt;19-01-30 Measuring Network Similarity&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1vNk7bmpsryC8YCyeKzCyHqJUkmmR4OUq8K_PI-Guk14/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076945000&amp;amp;usg=AOvVaw0oXGB_ZyX4qiXZ9OgkW_f3&quot;&gt;06-16-14 Hello World&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/10WSwd3Inmvg_T7nwXrlrBuC1WGorg95MzUshBTNd6N4/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076944000&amp;amp;usg=AOvVaw1gv2m3cDTP3HOtkLX8w-Mu&quot;&gt;06-17-14 Writing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1Hw0rwid8HIWC5B49Gp4GyD3BGLNFhvIXBR1KYEEVFNA/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076943000&amp;amp;usg=AOvVaw2u9rsR6iAm_WOkcWwyEmK9&quot;&gt;06-19-14 Energy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1mpHR843PHqwGhpqyPN8IvbfthQBRkrnKb49yjkhRTzQ/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076943000&amp;amp;usg=AOvVaw3pFtHgRtswMbxrdyHUqIJ9&quot;&gt;06-21-14 Learning Programming&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1tKouyPSM1EHtfg8m0KRoSuCaZ87Nf6W9G4Ms3aOknnY/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076857000&amp;amp;usg=AOvVaw2i-WzuCS4K7PpzXMikz08-&quot;&gt;18-03-05 Metalearning Research Ideas&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1H8NIcEnGlbCH8pe6B-S8EL2QXYNkn3TGSlFr-tff7vs/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076942000&amp;amp;usg=AOvVaw2ufhrpmB7R8EN6VZUoAtcQ&quot;&gt;07-02-14 Careers, Backward Induction&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1d2VVR2Yjp5crT_5spZCZVeXldcP_8TETl6LK3T8m-w0/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076941000&amp;amp;usg=AOvVaw3F6SzLZyWfGJ31jEbeHACL&quot;&gt;07-06-14 To Synthesize Reading&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1B5bHjUeq0CjRmARIQKcPeUVe4HiIgyutV_NOwMJm6bg/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076940000&amp;amp;usg=AOvVaw2E54XIEfg-H61cwEx9I0ON&quot;&gt;15-02-19 Experiments I should be doing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1JRhjtXJyhO9tXfjcEVRFE7ZMGD2UFHqPb8VRsPXAyFs/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076939000&amp;amp;usg=AOvVaw3VEJzqyC4vmnxl4LVvtCx_&quot;&gt;15-03-19 Ideas for Learning ML/AI&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1mGbsM8XKloW3Bgb-ad8JL3Xfr7KL5TCrlXKU5JvZKEk/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076938000&amp;amp;usg=AOvVaw3ZgiiBYa5kB04Ju6yH5xJh&quot;&gt;15-05-07 Ideas for Learning Algorithms&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/18ahd-fWD_IVe1LWUSohgx8p5I8k2gs9sBkFl1evj_ok/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076938000&amp;amp;usg=AOvVaw3hQofBBHAWsm7elrfUbSiw&quot;&gt;15-07-14 Ideas for Ingraining Thinking Framework&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1oSc9y-9QqREjDXR2H1c5UdSuw-uUYagJKLDUuwMn0y0/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076936000&amp;amp;usg=AOvVaw0KOUkgkONnB2zC9Pr75OH4&quot;&gt;15-07-17 Intellectual Habits/Lifestyle&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/19PuAiDK9wA_Uw1aWzxMZUKN0LqmoerPlEm4kc0IQ3D0/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076858000&amp;amp;usg=AOvVaw0vPHhn3lFBtpM0BFEZHHQR&quot;&gt;18-02-28 Implementing the Structure of Information&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1_Q7MNNT8HIOXvrb_RQjX7cCEAikvfXof8AYwzFRDF8Q/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076873000&amp;amp;usg=AOvVaw3IWHTvVwko2j2kab9kpRtR&quot;&gt;17-12-27 Map / Territory Confusions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1sPA6-OccAPc-zuM1AOH5tNYOMO82uJwGSBVdflnht5g/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076859000&amp;amp;usg=AOvVaw2Mc79jPQsNls2fFsKH7cUi&quot;&gt;18-02-18 How to Become Obsessed&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1JU51xvGS7mtQHs7FJxTTGjlfN8Gmmdwy1DpUPqVF-Ys/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076913000&amp;amp;usg=AOvVaw0iyDmHvaf2NCdcU6WPvRXX&quot;&gt;17-08-04 What I would do if I didn't care about reputation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1jqhjRwh8_Ks7azmfz6sqQLpmYucMiJt2lwl1IZCwDDI/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076913000&amp;amp;usg=AOvVaw1IQy4z22EFA8e5jaJYgjc0&quot;&gt;17-08-05 Social at ICML&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1bI-fCV2uoxzfyyVo0cOaSm_OPZ1x9QPrfA6lG-Pgf58/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076912000&amp;amp;usg=AOvVaw1w5rLociKOxVln3dQy0__1&quot;&gt;17-08-07 Deep Problems with Machine Learning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1cd4KElVI3C1qS0_oRlEBsGudfNBRgj_PS8R5hCbRtJU/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076912000&amp;amp;usg=AOvVaw0hEklyXMR-FeJbn-fDp9Ec&quot;&gt;17-08-08 Juicy sides to mathematics and programming&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1D7s0f50jiG2dhsJ9AjJQ_f10PBVx8s3hDBPhPftRAzg/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076911000&amp;amp;usg=AOvVaw0iphiKglkkL70eUt0NId0z&quot;&gt;17-08-09 Breakthroughs leading to machine intelligence&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1cpiNNO9WOGyzQ1M_tK-cZv4dH35EBV-CU_ZTv58zxls/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076911000&amp;amp;usg=AOvVaw3-bdfOZZFVRbu1Iza3OSNS&quot;&gt;17-08-10 Machine Intelligence Contrarian&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/13OLMU2UrrT4VEezBQlHIgBMVrbJuFeT3NjPaMe9CsHQ/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076910000&amp;amp;usg=AOvVaw0wQ1OS_ZonaI8N6FtgaNZx&quot;&gt;17-08-11 Hierarchical Structure&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1IEZW2fIwdg6NEG-uoClVjd6qDMxCN-LZ762ancz4mfk/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076909000&amp;amp;usg=AOvVaw3nfWbr3x0XSoiqdChfa_x4&quot;&gt;17-08-14 New Types of Structure in Information&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1w4ffLBYb9yZth2AOf5dXezHyjcBnTsPZcNJcGhxOC2E/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076903000&amp;amp;usg=AOvVaw09mve5CQoqo-Yg0NcYIWUM&quot;&gt;17-08-18 Continuing Worldview Building&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1LzoT7AJ8j1NbbFLfYqDVYe8KIvtM2cUNEI33Ky3bl4g/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076902000&amp;amp;usg=AOvVaw2XJk3PJxbU49CDMsY2cyI2&quot;&gt;17-08-19 Fighting back against HN&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/17ATBmM2NMzIwNmUCkvPeSxyVLdfbESyhZJhfibujqAQ/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076901000&amp;amp;usg=AOvVaw2Toy-yr5oDAk3TOo3YN4v6&quot;&gt;17-08-20 Communities to Create&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1KEMIoLOjvS2PYgs4W8VEyIq4hL3wGvQeX1R3qJnMeiw/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076901000&amp;amp;usg=AOvVaw3pgxOniZM8sW4DnqzODyZ0&quot;&gt;17-08-21 Desedirata for Deep Learning Libraries&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/13sV_25TjB5376ErdwAIfJ7imHdGH6J7IQ-niqTdjkjk/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076900000&amp;amp;usg=AOvVaw1XvCreGh32KIVKG5P694Vg&quot;&gt;17-08-24 Ways to Induce Anger&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1z5YWt2KJNR_2ZzUYW7jlOtwz9kYYLTjtSX78V_-Zljo/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076899000&amp;amp;usg=AOvVaw3FK0wZ8NNhAk0kXU-bLIVn&quot;&gt;17-08-25 Ways to Induce Action Bias in a Community&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1gccxa4c_5d2hFtKgTguSf2MmGm9ryjV0qw9ZGJfUg9c/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076899000&amp;amp;usg=AOvVaw0jsfm9Cl5IcfIfziF3F0Pj&quot;&gt;17-08-27 Contrarian Truths about Machine Learning (Linear Regression)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1FnquAT5AS5vD2dEbmvA7hzFQC-JDve1d4vk9_m62WjA/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076931000&amp;amp;usg=AOvVaw3-ZtUMLyMbnnCYvsRhUYN_&quot;&gt;15-08-25 Getting Good at Algorithms&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1H9o89AP_9oqzVuYPzUWo4zNB-xVxRf05EL6GOA8AamA/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076898000&amp;amp;usg=AOvVaw2JBChETqa0NEeYf4xzvtcw&quot;&gt;17-08-27 Interesting Facts in Machine Learning (Linear Regression)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1Hd3hgFjzURUuzJhgvvGxl3R8F7KHKB-UlAYONrrrIJQ/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076898000&amp;amp;usg=AOvVaw3I0XOktCoI9dKtf9UqLo_v&quot;&gt;17-08-28 Interesting Facts in Machine Learning (Logistic Regression)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/19WT3g-WsiyODGHhzbO2JW5aJU23sFVwAzrh3dxF6VEE/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076897000&amp;amp;usg=AOvVaw2s2mE0i6N3qmaftZO9RVkg&quot;&gt;17-08-29 Interesting Facts in Machine Learning (Decision Trees)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1YH_pE_ukOo1XGVVxlHkbT7rcozFhSg4bllVUgflQ5Vc/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076877000&amp;amp;usg=AOvVaw18tlYaIBcg4yrwqNmu7SPp&quot;&gt;17-11-06 Thoughts On Pinker&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1nHuEMlRWDseM2Eq_UMDswGVL3rNWlgawYFQDsUgiVg0/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076876000&amp;amp;usg=AOvVaw2lA2WP1GdPA_G8fqPUz9Qo&quot;&gt;17-11-11 Potential Language Patterns&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1ZiWW5_Z6dMMlOc2uzdZOFbOPZTaDS046Wc2BPepgZac/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076876000&amp;amp;usg=AOvVaw1fqMUin5m1zMG5oxXR7fJZ&quot;&gt;17-11-23 How to Control System 1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1o1ZFzQ3CdWjLAv6ENEDdMQS31TlKwEEi1TN6naFuMVo/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076875000&amp;amp;usg=AOvVaw1zYdXlkIoP056dpoS0pSQS&quot;&gt;17-11-30 Envision Ideas To Make Happen&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1RYi2CbIVFj42TC1wr5TkMq4Zhs7qMI1JbFt72VIj8gY/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076874000&amp;amp;usg=AOvVaw3Je0KLMyJdLk0z5jyHxuE6&quot;&gt;17-12-10 Operationalizing Systematizing Creativity&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1NL1YnaNACAI3lNWHAmxkdtnSKIrg-m7Mnb7LfJXGXdY/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076874000&amp;amp;usg=AOvVaw3IyupTowAl-v3Vd6Rr1JEP&quot;&gt;17-12-24 Questions Whose Answers Would Tweak my Goals&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1o79JiC9bwNgNfktaI5qhqp-IKqBoEz_JdyC2o0kjrH4/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076872000&amp;amp;usg=AOvVaw0l0wFFZkcu64ow2S9CJY_-&quot;&gt;18-01-02 Validation Seeking Language Patterns&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1wUngm7Lb59dHaXoZM4g-AvhVK5NOPBqYrm24g5JQl_U/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076871000&amp;amp;usg=AOvVaw3KoHHVEFNgNuPwPJfjL2sO&quot;&gt;18-01-02 Ways to Become a Billionaire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1EjrwGwnAmfhEIIIovqSxZVciDC1z64KiNrWqn_a61Zg/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076870000&amp;amp;usg=AOvVaw3CTm-G4qYNsZjeSepN1Cz0&quot;&gt;18-01-04 Building a Work Ethic&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1ygJ85TmxT903nUoWx8Nn7u_3fs0IEi8TMuhf2DFAOzs/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076869000&amp;amp;usg=AOvVaw1KDzEUOH91Cap8Z4LrVNay&quot;&gt;18-01-06 Future Changes in Morality&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1pEay9zPeGQ17x5siim3Ia4t0D7JmtQ8BVJZXkmOAvuE/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076868000&amp;amp;usg=AOvVaw3sMU62JCL6aFOJrfUacThu&quot;&gt;18-01-08 Glimpses of Reality&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1nFG56w9Y26jrKWi4ialzCICLLc204J9wSWnKULVp7nM/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076867000&amp;amp;usg=AOvVaw1j6oroKa6ysrIGPs7L3HL3&quot;&gt;18-01-08 How to Clarify Thoughts&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1UWOgBfRiKK2-qtfArPI8g8vSdQTNKCI2iAnU3vutB5w/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076867000&amp;amp;usg=AOvVaw1KHJEqo6yx77bAyptfgCYv&quot;&gt;18-01-09 Fundamental Human Narratives&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1FUiD13RBpJ32Fw-e8wcFc-wUoGpqDLzvgWkyxqytJtk/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076866000&amp;amp;usg=AOvVaw3QutufR5mBtWKqO0NCDXJk&quot;&gt;18-01-12 Counter Utilitarian Intuitions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1n-rLLSD6qvpxiM1FdwhALg-pqmywOBsb9TfVre8hGBc/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076865000&amp;amp;usg=AOvVaw1RZmjYxqnGawZEalg2bg0S&quot;&gt;18-01-13 Grigory's Compiled Creativity, Shannon&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1YHqEuZu6DflNGhxjyvzTiC1FypBMZ_lWI2KgeBGMR1Q/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076864000&amp;amp;usg=AOvVaw1wxr7qJwk_Z7GXY5toGFgn&quot;&gt;18-01-13 Strengths&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1F7HXS2C0ztPT5oK1YtzNqd1zxmAZXsjz3GC7bOwfHso/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076864000&amp;amp;usg=AOvVaw2tgmDNU56XZUnNStshO0x5&quot;&gt;18-01-16 How to Talk About Abstraction&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1O1rD51KvMQcxlVYZDdMmXES_l0M20jZYleQcjjAxd2s/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076863000&amp;amp;usg=AOvVaw2TpgOKzgbOciMZ5fkHxy6D&quot;&gt;18-01-22 Conversational Mental Motions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/13bPzJOvN2LbLx1ZEfIocqD7Kv3m1nlkLtkeWqRGazBk/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076863000&amp;amp;usg=AOvVaw0TMeOzs0OwKAAhLb3UOOHA&quot;&gt;18-01-23 Emotion &amp;amp; RL&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1B0jpkSM9juDe18oTys3nDZN3w8uBYWd9MZn9DytHlZQ/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076862000&amp;amp;usg=AOvVaw3OHfCwsStdc6sEEyIZwEPm&quot;&gt;18-01-23 Religious Language Patterns&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1ko_gQgOgHrcNe3WmvQt51Etci89w5y2GEpBH5ewE60A/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076862000&amp;amp;usg=AOvVaw16Bl1gmreqYNtAEUy5B3jP&quot;&gt;18-01-24 ML Contrarian Truths Worth Testing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1pvlCImq5nCkLDqvr-TaFa2tLocizkBKq_OVRH0FNrgQ/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076861000&amp;amp;usg=AOvVaw2sWxTZRaJMVrkb31oqgNbF&quot;&gt;18-01-25 Valuable Properties of Representations&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1b0090P59fzC3LasmV5E-_E0umDXzMDMXRo5SvGpS4ms/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076861000&amp;amp;usg=AOvVaw2Tz_AZFO0iKWTQ3VDeAHDL&quot;&gt;18-01-28 What People Want, as a Function of Personality&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1T03HrKEUVQhoQoBS7mIWX8neQp01vJFbO0heHDqVUb0/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076860000&amp;amp;usg=AOvVaw0heNeeKeiBGRquH4zaW5ZT&quot;&gt;18-02-04 Destroying the Ego&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1ciSy2WkeV3b2Qk9_lqH5XGtOwTHJJOyoLHKYWkBCAw8/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076860000&amp;amp;usg=AOvVaw1Ii3EPWbr3eikLPJdovJ34&quot;&gt;18-02-11 Workshopping Creativity&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1_zfUHekyh2S7BTJm4EbrC8-4A-vNjR5gSe62GVRQ7Q4/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076878000&amp;amp;usg=AOvVaw3Q0vRnPDcCbCLo-OURVMCU&quot;&gt;17-11-06 Options Given a Break&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1l0Mi81wBtpEQZ078jQObeIkDbCwpz-Xpw3lmY-3yQw8/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076879000&amp;amp;usg=AOvVaw05-Hr46y_lerEEjS67HfR4&quot;&gt;17-11-04 What to do with a billion dollars.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1OpS7PP4fTK4oVtEOx8sVvPdT43xCWppFQBs9sgT93Pw/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076880000&amp;amp;usg=AOvVaw0FjBPb86T6_1U-u8PTlz7v&quot;&gt;17-11-03 Differentiating Factors Between Brain and MSR&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1UOB0tiLy8HB-RLTKmIBylihW21ZNMCfY3imswbVGQqE/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076880000&amp;amp;usg=AOvVaw1LH18-x45InrqKVepHz1Yz&quot;&gt;17-10-30 NIPS Creativity and Interpretable Representation Ideas&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/121m3ZS62ihC2ARX2VkWK7c-RYtSjtygi9zbKncKfIsg/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076897000&amp;amp;usg=AOvVaw2DpKdc1JdstvJwlO9S8cAC&quot;&gt;17-08-30 Deep Learning Library Ideas&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1-FbwHnDV38cbIO4uq6GEEZ5V95JZV5x2KDPUBRx4igQ/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076896000&amp;amp;usg=AOvVaw1uop7xDt7muYyrCzvZqvdP&quot;&gt;17-08-31 Machine Learning Projects&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1cPh7vHYPuISPWDcgH158uv2k6L41QqZKoBMVPDvxl9Y/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076896000&amp;amp;usg=AOvVaw0prFNQkdmk-z5pRRIG39oC&quot;&gt;17-09-02 Interesting Facts about Neural Networks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1QOXTSmAQZRByF46pBJS_BhMARlxNcDNC7QRmLrFgx3A/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076895000&amp;amp;usg=AOvVaw0Pu0zNqEOW8hQ2Kif9uVSy&quot;&gt;17-09-06 Types of Relational Structure&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/169_gZHzBP8VvcI9QzEVNuHdw5ordDTgqCg-Ee6MdyQ4/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076894000&amp;amp;usg=AOvVaw1T31L5G9pTUqQEaGSATeqH&quot;&gt;17-09-09 The Selfish Gene on Memetics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1YmqQTSMnYpwNtx9ptoiRs7-azeB77UaPMVbyKmfXeqU/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076894000&amp;amp;usg=AOvVaw2fKAushE5gE53RxMevoXNF&quot;&gt;17-09-11 Components of Voice&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1y3ACogdCWZL4ttioI5AFFMMiRKlKx7mjoWUr7farpj0/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076893000&amp;amp;usg=AOvVaw09iJJWQoyCjl2dyjhiZZKt&quot;&gt;17-09-11 Experiment Ideas&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/17VGu3bBrHdo4F9kQTxM1-X-GpYU-InaqPl1lsaf2gYA/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076893000&amp;amp;usg=AOvVaw2P0iV-QtdVYXWKU7w_w24j&quot;&gt;17-09-13 Interesting Icebreakers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1ItGhzxinUeD6EhSJS37X2f2P1cqzwmcbex55AWDC2fw/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076892000&amp;amp;usg=AOvVaw2qm7tjnTZLudtjxtJ717Rl&quot;&gt;17-09-14 Principles of Structure&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1R_GDK48pqxdHT-owYGqPhcyOmUcYQlcNA9bJlhkfVUU/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076891000&amp;amp;usg=AOvVaw0gO29bVUAlHniQj-943xFg&quot;&gt;17-09-17 Books to Write&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1X3yQCMf5MkHbXZGFezyhfe49T0hQudSBom-P-lhDBA0/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076891000&amp;amp;usg=AOvVaw34EdBr5LFA0WA72CqRQhOb&quot;&gt;17-09-17 Longevity Interventions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1GQR9Pz6vMQKNjx7FXQkcLQovjnmqqwVM1xmo3-7prn4/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076890000&amp;amp;usg=AOvVaw2UD4quXci2IbNcnWj8WuU2&quot;&gt;17-09-20 Persuasive Framing of FoMI&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1NvBZ3ZDELS24DNRoASnxUAu42o4QdwAloQkHvOX2Rkw/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076890000&amp;amp;usg=AOvVaw1dkOBHXIcKtbEjPexU4EYR&quot;&gt;17-09-21 Life &amp;amp; Productivity Coach Ideas&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1zK8KwdWM5DtxFdD_NOHmAhUclLzh_ohkbRWR_CRmp8E/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076889000&amp;amp;usg=AOvVaw0_cv-4eEym9xZVKQewbn_1&quot;&gt;17-09-21 Types of Temporal Structure&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1gwW0KNLf7CX6dUT9-S-MZOTvsFdTMokm2L3FMpcI-Co/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076889000&amp;amp;usg=AOvVaw1IylnCqIEV_TMbfAPFkNTz&quot;&gt;17-09-23 Common Insecurities&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1XhG63Ub0W4Lmsd7s9YKyqwyuzRzQbuK9FwoRAwvXugU/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076888000&amp;amp;usg=AOvVaw0TKnPhA4OEl60iT7KGOIL4&quot;&gt;17-09-24 Upsides to Low Status&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1J33TXiGsKNAP0qgH5luFPmZDkOkZH2tNQmZqpvUE73E/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076887000&amp;amp;usg=AOvVaw07KbO10N58HWi0y4RlZQzY&quot;&gt;17-09-25 Additional Weakness&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1ScZNJyOqrYmIgjhgJJnnQ_Ui1qinD2OMTxZE3bLmwUI/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076887000&amp;amp;usg=AOvVaw3qSCLj6fuGraB5UKJo1ugH&quot;&gt;17-09-26 Additional Weakness Experiments&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1SlwHWiqh--isGzoL6l0MdH2yU5LP9SLb-C7MtPewM8Q/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076886000&amp;amp;usg=AOvVaw1Id2Ltd-BrWZneSGHiqle6&quot;&gt;17-09-27 Interesting Approaches to AI Safety&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/12gQKHyf-lXuuhFdDfMFZM8nlboANClGN6JslJpL1DLE/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076886000&amp;amp;usg=AOvVaw1z9QV-knsPo_u5U5oFPPVd&quot;&gt;17-09-28 Frontier Conversations&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1KSDRzXCVcKz_62mefB_Rkg9C3jUrpnxkH2kdGqfJ6rE/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076885000&amp;amp;usg=AOvVaw05UJ-tDF7uD5rMGZ8RHAVP&quot;&gt;17-10-06 Post Religion Ideologies&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1fDwK4_uwaSF9vpRbA3ChrtDpiJHPcZI5btPY-x0YM4g/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076885000&amp;amp;usg=AOvVaw22uviMHPulQpUh6yMAhLg8&quot;&gt;17-10-07 Dominance Language Patterns&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1NTpMGZG45aHJqUNpAtmpvsPlUClrDHIFHC3TTTVHQeo/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076884000&amp;amp;usg=AOvVaw323F_Th6pv-cQmpK-IjVD0&quot;&gt;17-10-14 Interesting Facts in Machine Learning (Neural Networks)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1VWAxZkt4YXgOAAkMO6C9N4FoE3lpzyoa9v0cdD3VAZg/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076884000&amp;amp;usg=AOvVaw30Li3CaS0Qorc_7NDbY71J&quot;&gt;17-10-16 Accomplishing Arbitrary Deadlines&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1kT5WG2DfAIZKntcEw3-OHvEDulG_lyPNDfsOSMxPsw8/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076883000&amp;amp;usg=AOvVaw3Z1jQH8qVxNWpfecbebsZR&quot;&gt;17-10-17 Interesting Facts in Memetics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1aGxY3a5fBOisxndUJkkhhMxMIqLKWXgLtTRSGtSmLTE/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076882000&amp;amp;usg=AOvVaw3WDXi812WdQaS_YuJdU_56&quot;&gt;17-10-21 Ordered List of Breakthroughs for Machine Intelligence&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1CqE_q51me3a927J7hyad1Vct4S6QvFVLg-d5DXZ3WXA/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076881000&amp;amp;usg=AOvVaw04d-DupM0McmyuzX9iNGcQ&quot;&gt;17-10-26 Representation Learning Research Ideas&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1Bl0kSViy0gmMH_TvhrxWoZAEOoSHOvjIAaWjWgql44Q/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076804000&amp;amp;usg=AOvVaw0Bk9Kckan1qQzzgiQ5J0Ro&quot;&gt;19-02-01 Book Dissection&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1dWjHI_NM2G07srQJCLIe7Umae0Z-Ab_RcsKT6UT8U8g/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076805000&amp;amp;usg=AOvVaw159cSwSPG0_yepMOuKkZuo&quot;&gt;19-01-31 Humor Decomposition&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/14nxTfc9AEXw63K96fu4DTlFmcpGMw9XwSZaccTUAqpE/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076804000&amp;amp;usg=AOvVaw15wOz_rsmYP7G65CfZUJGo&quot;&gt;19-02-01 Conceptual Decomposition&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1IF0Br9NWCI3klEg7Tq4cTR3BSkfb3AmKcYnwb3u6It4/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076803000&amp;amp;usg=AOvVaw0txPj6POFU1vXcidL3nATd&quot;&gt;19-02-02 Quality Examples of Newly Created Concepts&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1gBs9cfLf-qBwrb0s8yBA_usE915VQuqnHNww_c5YPtI/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076803000&amp;amp;usg=AOvVaw2qKvqH0P1oMsR5lzYbUqEb&quot;&gt;19-02-02 Things I Should Read Daily&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/18bsUrXWd_L-gioI7ouDN4Jpm2J2ARzlC20_dG47obDw/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076803000&amp;amp;usg=AOvVaw08SM4KBLRMKqZVra0DOAAK&quot;&gt;19-02-03 How to make ideas or concepts generative&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1L4YOlk7DG3YQutox87Bhpfz7JZHypYUZwaiMFOoTENM/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076765000&amp;amp;usg=AOvVaw3mgaH6mJ7psca5nMi6yQvb&quot;&gt;20-01-29 Computational Neuroscience Theories&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1hT5K4OtqiXa8xpaW3ypKD_e-nroMni5TuNYRc-GHEI8/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076766000&amp;amp;usg=AOvVaw3g6UgwdpVjJA7WzsWLdK2h&quot;&gt;20-01-22 Productive and Practical Research Ideas&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1_vYxBHKKI4Kxqnb654WLva7JQyH1g0-KHvspG3ZHEKo/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076769000&amp;amp;usg=AOvVaw1funGdTqN7FnR3y_hYfBDU&quot;&gt;20-01-11 My Needs&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1zH_6vDIzHkxgnZazFb5zlNjuymoGdjPXfRCBu39xr68/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076769000&amp;amp;usg=AOvVaw1xTY3KSAVLmZRTm3C1uJFD&quot;&gt;20-01-09 Writing Down Culture&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1AaE-rjXvops3T1312yL6kecswTGpzXL6sIrWc1vvUqk/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076770000&amp;amp;usg=AOvVaw08G33f2Eeek4tM3T-tl5YR&quot;&gt;20-01-09 Amazing Nature (Ritual Worthy)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1Ys1mEDqJafGNIxiH91oUcMVmhljREv1yC0L9Dh45sR4/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076770000&amp;amp;usg=AOvVaw2A66K1c4uy8V6Bvf4GeYcm&quot;&gt;20-01-07 Overcoming Anxiety&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1uShaAgrqlJKWsZ4hu9EMB-Sg1W3G6atHc1i87q6dVuQ/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076771000&amp;amp;usg=AOvVaw2gGSW50vYvxNrRxRzEvurW&quot;&gt;20-01-06 Becoming Autocatalytic&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/136nnTlRe8ExZ-y0F8KkCaYXA4b18iLkgFBNI-maDSlI/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076772000&amp;amp;usg=AOvVaw1ek8RFG9evCi2yNqXleWL4&quot;&gt;20-01-06 Accountability Schemes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1Fa6GHYBYHV5h4HgMx1XnSbmJaoEVL0pvOtyrp15PnGU/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076773000&amp;amp;usg=AOvVaw0IEvnGB39FnEjwaNkqmpTK&quot;&gt;20-01-01 Trans-X&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1zWmpij90cM7gUSRLGsm2d6oZQFm9Px6PzpkuN5VerlQ/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076773000&amp;amp;usg=AOvVaw2Oi-aWa5ZjO2Ml4BD4eDSS&quot;&gt;19-12-31 Meta-X&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1izmByBNJHodiNwQZMI0vKvv61enFnMxYhjGHhKTL5nU/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076774000&amp;amp;usg=AOvVaw0LSBpQt2ZM8qYnYh-j3AUe&quot;&gt;19-12-26 Worlds I know little about&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/18PYPb9n2N6OOMIhlz2VMQRqIcBv6ryixAaDn1aMBrDQ/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076775000&amp;amp;usg=AOvVaw1U-lLktIUPL4rC1Stb4-Nn&quot;&gt;19-11-08 Optimization Algorithms&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1HhjVBx5eaQW8hZ6YU7z1PZ8rN553Fvt-2kFLEg-6pI8/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076776000&amp;amp;usg=AOvVaw3dsExtlw6kGuuHbmUVi-iV&quot;&gt;19-10-24 Emotional Space&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1n6q04CiUr7aJfm-dcHL3Ohy4d4B-aAg6rml2HG2u-bA/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076776000&amp;amp;usg=AOvVaw1GWRKrXFnIbfUSnp891bOe&quot;&gt;19-10-12 Ways to Improve Focus&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1FwcZ_UGgkrDB2Fnpmi1msNEas_y2Yee2fKuJ0HgZRrA/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076777000&amp;amp;usg=AOvVaw2e-yUYGo6lS4O-JdiCVxlz&quot;&gt;19-10-07 Novel Feedback-Loop Based Machine Learning Algorithms&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1NrFj2OG6JIEibhJBOb_sUh4wY2Wk1B0913mRpZxdVmY/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076765000&amp;amp;usg=AOvVaw11RYCyCRuKooxzQj3Mg-a7&quot;&gt;20-02-08 Innovations in Research Organization&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1HmVBODOutFFhuU9fc7hw4d9QnKjG5YakS90mDcaeuKg/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076764000&amp;amp;usg=AOvVaw0R238EDfKWcAWpFlf-nzNU&quot;&gt;20-02-10 Favorite Complement Categories&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1fSJDuNcSRly2ID8QXOx7Rzpm7tOjde1Ohv69p2czscs/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076764000&amp;amp;usg=AOvVaw09a-Jz6TMG1TBTGkFdI50u&quot;&gt;20-02-21 My Lifestyle Creep&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/11FZp-vPSDrvBsOLNklULiM_VTSuo-yM-X3G-kva9BcQ/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076763000&amp;amp;usg=AOvVaw3MS4G-w5F9s7EiTEsA1Vo3&quot;&gt;20-02-21 Transhumanist Adjacent Communities&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1lR5X0xZqSObnQhk4jBJjeFBEPloKcFbCjQiJqMWaj3M/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076751000&amp;amp;usg=AOvVaw25yud7GxpOW9EC8mW0ph5U&quot;&gt;20-07-28 Worthy Problems&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1eBJ9scnOdIyFaRKF0VGaRV5RPDELrVol5nz-8sgH7yI/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076752000&amp;amp;usg=AOvVaw2YYydR7xMf1ydyZOtTnkoi&quot;&gt;20-07-20 Reward System Options&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1kfoqXBAyRPEgDTGfrDrsjvVzFIsjo2mSP4XLKzXj9IY/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076753000&amp;amp;usg=AOvVaw3xib_87QHLO6FNILhhVxQ6&quot;&gt;20-07-19 Learning Tools&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1iHTetpMb2OBE2ge87ggjy3cu38J-aTRGKAxJa--LSS8/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076753000&amp;amp;usg=AOvVaw13K__yUczx634NOUksUrnD&quot;&gt;20-07-13 Deep Ideas in Class Discovery&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1HGzYeJswYyDKMvowTjIU9nZBiQ7Gyh4xxcHY6qTZgkM/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076754000&amp;amp;usg=AOvVaw1BbmfLTj4SGysydUSZHBY_&quot;&gt;20-07-10 Depth in Research&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/157KXZHAqQVwWnDZoG4h3i4ZK64c5J31iB-uZACVbt2Y/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076754000&amp;amp;usg=AOvVaw2BsaehOC5q8gS6sQpIQGeD&quot;&gt;20-07-05 Brain Healthy Foods Jeremy Doesn't Hate&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1UxrYYDDOIGfwdKHeGxqQZd738ofh5YDpJwljQupYN2M/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076755000&amp;amp;usg=AOvVaw2h1wB3JYgRcD4JdRKDqoSM&quot;&gt;20-07-02 Common changes in Agency&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1THDn2f9-oRZeO_4hVZplq9pNWfLZSzz-lQr3JESVF5U/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076755000&amp;amp;usg=AOvVaw3hRKTJxeqUhtnUxfC1xDx1&quot;&gt;20-07-01 Symptoms and Drivers of Civilizational Decline&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1OUh8s-dyYLwYqL4E2QDtcdbWQHrwNj-UIaGwbcZRr34/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076777000&amp;amp;usg=AOvVaw2ZE2xz_W7RDw9im9MMqA8s&quot;&gt;19-10-07 Mathematical Creativity&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/18Y5nraaihMJyXmqHKGfJJAK1huzN7CASvRYPXunw0nM/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076759000&amp;amp;usg=AOvVaw3LESAUwETydQVFKj6dDZG5&quot;&gt;20-05-12 Novel Methodology&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1p-Pou3_WyZ5p5TysYUrMlGoVEWs2F2HBDw8nquJbxSI/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076760000&amp;amp;usg=AOvVaw103VpcM8sb96XdiFfqPeHf&quot;&gt;20-04-30 Effectively Running Seminars&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1UhWdT6B5_dMSiC8O770ML8MAWbzLagitQGAGvw9sjWw/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076760000&amp;amp;usg=AOvVaw3-zwXL7vKvYbZmfVW54GWT&quot;&gt;20-04-12 Ways in which people tend to be asleep&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/15NGbm6vY1o12t_cVCKQK6krMdjGvNab_MpnUhuhN3eE/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076761000&amp;amp;usg=AOvVaw0uvMtLKzbTORueokdCN_Qr&quot;&gt;20-04-12 Knowing Someone&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1NZDqqPX6Sac0xEh6DJ1njJ5ymFOKSq7KcTMqzZNBYAY/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076762000&amp;amp;usg=AOvVaw29ADFGzupTyqPyds_XT7au&quot;&gt;20-03-10 Questions to ask regularly / Life Reframes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1fcXiq_sfTWEJWrtciAwI1oQqPAFDmdekSEgDSms2Nvw/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076762000&amp;amp;usg=AOvVaw33zVUl34mI-Py7RpXUhVTf&quot;&gt;20-03-09 Potential Life Updates&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/17dk3mT12PuL3aEV-s0lLjky2bWpOjCQGaS8TZefNqLU/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076763000&amp;amp;usg=AOvVaw2HfY-BPMcmcSWH9Wnf95T8&quot;&gt;20-02-29 Deep Truths&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1nJjeRhrnNmSJSmsEzBFold--W6iBuD8GKd1VNbUTKOw/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076757000&amp;amp;usg=AOvVaw3VryVTZsOvyF2E-BKfvS5o&quot;&gt;20-06-29 Ethics Topics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/11IYrSHCB65S2ME6VlO63VW3jC8w5FVG11MJYXlss5Yc/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076778000&amp;amp;usg=AOvVaw0us1QkIfjBlAyDC3BKKXLi&quot;&gt;19-10-07 Language Re-Representation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1jIms_LWpxPQKz4R-5FdrnFw5ylv74JMI86c6_-r0m78/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076778000&amp;amp;usg=AOvVaw1YqkE1JxbwHDE5yWfgJ1Gu&quot;&gt;19-10-07 Culture Tells&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1haPsrfwPWvrv38lRBTonHPO7LqeEWKxHZd4hjyS2sno/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076779000&amp;amp;usg=AOvVaw1ojj9uL2vqxJmtgQTYCqym&quot;&gt;19-10-05 Ways to Engage with a Presentation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1U5PI6fjmraHTmYqzGGKOipII3NBkcv3R_9UqrQQpIhE/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076792000&amp;amp;usg=AOvVaw1ocWv-THxYyiZY_D2WR1aq&quot;&gt;19-05-20 Projects Worth Doing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1bWWE-UjQp3nj_-oqiXzchHdfe5YJ39JSxcUV5PSg9sE/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076793000&amp;amp;usg=AOvVaw1WR3EehHQ8PEae4q9zUND3&quot;&gt;19-05-20 21st Century Major Scientific Breakthroughs&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1uZLIVE23GIBFUDCVg8OeOnqavkd34IX_Vg5TdE7LICw/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076793000&amp;amp;usg=AOvVaw1PXaLJumCH8aDSaL52Ioht&quot;&gt;19-05-15 Properties of Self-Reference&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1MTstT4V9CHp5oKWUh1AFaVSox16-E2tYnjQam7DkMXg/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076794000&amp;amp;usg=AOvVaw0nfx-Juxny5uWUzaNk8anv&quot;&gt;19-05-04 Posts / Essays / Articles to Write&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1-SjsAP4mnymQuw_qqXisyKXc7u_Vaql6xZ76LjkZZDw/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076794000&amp;amp;usg=AOvVaw2xopIcmQAyyGmtkHk0GR09&quot;&gt;19-05-02 Recent Breakthroughs in Deep Learning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1nhiqv_CEYkwYZh5Lsl8SXZWGpfGAnRYItgfq4zBX3A4/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076795000&amp;amp;usg=AOvVaw3fCtShmTthuNV2_UEskPff&quot;&gt;19-05-01 Research Failure Stories&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1S1UoxWGEWQQHWz6gJKrEJUCAkWkJrkxJILR0q2I8rr4/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076796000&amp;amp;usg=AOvVaw1miG3N0RAj8LRZt21r2toR&quot;&gt;19-04-22 Social Movements&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1RCtjEEfAug6rI66VvijCiZF-KUR4hbTipdyGrrw0NwA/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076796000&amp;amp;usg=AOvVaw1z_-ixZNmQ1Vwer1DMb8aC&quot;&gt;19-04-21 Technical Worldview Breaking&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1ojN6qLAS7kAJ39PbjYnjkq7ikZWSqvjIi-QzSjKzf9Q/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076791000&amp;amp;usg=AOvVaw25YjbSWj5OapaLHRmGCaXe&quot;&gt;19-05-27 Examples of Transcendence&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1PYnkT2g48TAvBPoJQyHkXbRE1SjcB7XTRo8faW2FzJo/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076797000&amp;amp;usg=AOvVaw2Nghz3mLP8jtpPzMo6XUHa&quot;&gt;19-04-08 Ideas Which Dramatically Shift Your Decision Making (Extends Worldview Breaking Ideas)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1Ps-y6LIwZ7Dd9VVFwb8048STTXI2bB8IwbBWAgqYfls/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076798000&amp;amp;usg=AOvVaw1xVcjZV33m8ClThHSNcJKd&quot;&gt;19-03-25 Love Validating Questions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/14-VKEXukmZQIH1WjqpCGvFsVie2ZlKpE7polyWiEnOI/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076799000&amp;amp;usg=AOvVaw1Qe2kIXe3KN38abAEOo3dB&quot;&gt;19-03-17 Paradigms in Machine Intelligence worth Questioning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1ryba5pyWvYbb-9X1JeIXV4HQ0EbGU3ApE-B56240jTw/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076799000&amp;amp;usg=AOvVaw2cZvBcPZn5PVsxwiDMnMDN&quot;&gt;19-02-24 Calibration (Conceptual Decomposition)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1IOCJezGiIUJseEJ296zs9SyZE2j-dEAqOjyhFjdby0c/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076800000&amp;amp;usg=AOvVaw3WJg7uwUBTYYbfF-PLlB5P&quot;&gt;19-02-23 Counterarguments to the Learning Paradigm&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1IBiPlvzfhND4jFJuUlxtm011p4MDYWwJ7my34zIBA0Q/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076801000&amp;amp;usg=AOvVaw30lMBqW5lBTeggftHnQZ02&quot;&gt;19-02-11 Physical Connection&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1K90NRuxTtwm0sc2K_5cBd7ZNGUFV3Ih3-74bPYivszY/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076802000&amp;amp;usg=AOvVaw23Lh0IVh1BFPn6WMd6FvQE&quot;&gt;19-02-04 How to be way ahead of your time&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1MH6BSP7o6uaZYqWC_Hs60dAKJiUNKP2WmVZEtS2BdD8/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076797000&amp;amp;usg=AOvVaw2roFxCTfpkUqZSy1GqG2-Q&quot;&gt;19-04-07 New Paradigms in Safety&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/13g4oBNqkCEPT6kAMNfTXgB1L8VPDQSljqUOJAKvdO3Q/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076791000&amp;amp;usg=AOvVaw3pnTp5gXq_uWLuOOqz6UHb&quot;&gt;19-05-27 Relative Safety of Forms of General Intelligence&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1XliTaSqeZOOhsou6lgt6pGTYp1RG2duJICuEmCvjo_4/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076790000&amp;amp;usg=AOvVaw0Q-zUFoKZaVIB0YAN83kPM&quot;&gt;19-06-06 10 Systems Worth Having&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/14M84S5rHJVZalGgExAsmOjXLbtsy1a4FO7dCkDQ5WAQ/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076779000&amp;amp;usg=AOvVaw0zIcCCrr5b6bbmwv8ZnGzf&quot;&gt;19-09-20 Ranking of Companies by Religiosity&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1EPceZr8Xtw3Yq-y1G-FCUDF_iG3vPqy6dtlTpeKyQ64/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076780000&amp;amp;usg=AOvVaw3xLRH09WyOu-7Arp6LONzD&quot;&gt;19-09-14 Traps to Avoid&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1XdgWLaHU0IZcHiG8SKMS--yigeHQZimeDjkVxHDal4c/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076781000&amp;amp;usg=AOvVaw0u7p9KKEpoFppyNK-wOrP2&quot;&gt;19-08-02 Landmark Language Patterns&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1udhttIMwW8CRBZ6Ci3rs9yVNx3l5x0j4ER5VgGlYe_E/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076781000&amp;amp;usg=AOvVaw1CogU8CZZvG5kv9K0FHGi_&quot;&gt;19-07-14 Valuable Unexplored Communities&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/17cJX__V8V9SPvmlRB5FKUy7PPhcq_k_TtPFrzLRZjZ8/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076783000&amp;amp;usg=AOvVaw3nOI3wC90t7BBBXYo6rmUI&quot;&gt;19-07-02 Ordered List of Great Interventions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1rPTOohO2U0NQIU0d8X32y9f8niZFGUhkDBPuH_Q8syc/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076784000&amp;amp;usg=AOvVaw020pa9janDgJWKlek5IMVU&quot;&gt;19-06-25 Kinds of Introduction&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/177VRTobB6xWBzetjwIfzFtvLsG7ho44wsMVZr5ObaJU/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076784000&amp;amp;usg=AOvVaw1qiVWmFBVr8gaZA41khzYB&quot;&gt;19-06-24 Ways to Induce Hypomania&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1vvxbyAxJ8dlf-s-6fpqqRKAxwOOEk42xU208-Bne2_g/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076790000&amp;amp;usg=AOvVaw1XYXfAn_sm0ULgoFnt2UTf&quot;&gt;19-06-05 Research Ideas in Robustness + Alignment + Security + Long Term Safety&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1GTB3S2EmI3WFZ2J-FvOcEV3JNXzrt0KHZOcE5cDaeVw/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076785000&amp;amp;usg=AOvVaw1Wv9nssomnMlas3jHV1WID&quot;&gt;19-06-23 Truly Disgusting Concepts&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1ExSb4LKG3evttciX2pbpsy--BQzETd0wME4ff18z4gw/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076786000&amp;amp;usg=AOvVaw2wm6SsPADBCm1yfhLvMLie&quot;&gt;19-06-18 Ways to Read My Whole Library&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1mT-bMwecbwh87-0Ya2i9AbDOFlJskPD6D8m52cnMpos/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076786000&amp;amp;usg=AOvVaw3X2U4WjUB3Z-LZes9i10Pf&quot;&gt;19-06-18 How to Become Deep&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1cOdbsSlyJXhsnnL81iYjAzNaAbLQB0AE__KIzsvCHuY/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076788000&amp;amp;usg=AOvVaw1z20TzZusiA0juZe0XGuux&quot;&gt;19-06-15 Obviously Correct Diet Interventions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1aW6BuA3m4zKHfHUrGmdwxGLYqjsnx1z02PeIloKZXdg/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076788000&amp;amp;usg=AOvVaw0JRY4YXnnzukx2ol9RC6OD&quot;&gt;19-06-13 Transcendent Self-Awareness&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/17KjEGRGO_RKXtpgD14ZlFac8O_Dx04C-YkxR_A07vDg/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076789000&amp;amp;usg=AOvVaw3vrNCLZp6JdZnDfUpPGMHF&quot;&gt;19-06-11 Forms of Reappraisal&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1-kkA5zTrDPCDpOuK5D5qENsQpZUK4hTw13dfrsKhKpc/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076789000&amp;amp;usg=AOvVaw3hxkNm4g0npiGQED4FaDdV&quot;&gt;19-06-11 Elements of Great Storytelling&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1jC2wd3R4LH5nuw9y-aMYeNz__pE5_ImIpVqkE0uTDfo/edit?usp%3Ddrivesdk&amp;amp;sa=D&amp;amp;ust=1596495076785000&amp;amp;usg=AOvVaw1y8ITzsU1Uj8TavxlcSqYo&quot;&gt;19-06-20 Forms of Recursive Self Improvement&lt;/a&gt;&lt;/p&gt;</content><author><name>Jeremy Nixon</name></author><summary type="html"></summary></entry><entry><title type="html">Generalization</title><link href="http://localhost:4000/thinking/2020/04/22/generalization.html" rel="alternate" type="text/html" title="Generalization" /><published>2020-04-22T00:00:00-07:00</published><updated>2020-04-22T00:00:00-07:00</updated><id>http://localhost:4000/thinking/2020/04/22/generalization</id><content type="html" xml:base="http://localhost:4000/thinking/2020/04/22/generalization.html">&lt;p style=&quot;text-align: center; font-weight: bold;&quot;&gt;What is generalization?&lt;/p&gt;
+
+&lt;p&gt;The critical property of an abstraction is its ability to generalize. What is the scope of its context? How cleanly does it adhere to reality, both in scope and out of scope? What flagrant misuses of the abstraction are likely? What natural safties, gramatical or otherwise, are built in?&lt;/p&gt;
+
+&lt;p&gt;Within a domain, learning often looks like generalization - in sports, you pattern match one situation to similar past situations, and react instinctively in a way that your intuition hopes will lead to success. In mathematics, solving a problem with an algebraic manipulation once lets you recognize that type of manipulation in other situations. And often so you abstract the manipulation into a rule or into an operation that you can run more flexibly.&lt;/p&gt;
+
+&lt;p&gt;But you’d also like to do out of domain generalization - learn something in one context and apply it to an entirely different context. Learning language in one domain (say, in a home) and then applying it at school, or with friends rather than parents, or in speeches. Take the concept of specialization and lift it from economics to understanding sexual dimorphism in evolution. Taking the concepts of a replicator and differential selection from evolution and apply it to ideas and tunes and fashions that replicate by imitation.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center; font-weight: bold;&quot;&gt; Generalization as a Standard&lt;/p&gt;
+
+&lt;p&gt;Generalization accuracy is a great standard to hold abstractions to. What we want is for our representations to aid us in problem solving, which often takes the form of prediction what the impact of our actions will be or predicting what the state of our system will be in future.&lt;/p&gt;
+
+&lt;p&gt;When adjudicating between representations and when constructing them, we’ll optimize for the representation that is easy to evaluate (simplicity heuristic) and that makes the most accurate predictions. And simplicity is also a part of accuracy - models that are simpler have the advantages of capturing more data (because in general they’re more abstract), being more robust to small differences between observations and so better able to capture the higher level regularity, and being straightforward to update when they’re mistaken.&lt;/p&gt;
+
+&lt;p&gt;Tradeoffs need to be adjudicated, and so having a downstream task to determine the appropriate lines for those tradeoffs is invaluable. Yet in practice people use other standards either as proxies for generalization or to preserve longer term value - truth is a classic example. Instead of asking if a representation is predictive, you can ask how closely it corresponds to reality via some similarity metric between your map of the territory and the territory. Often there are tradeoffs between the true model and the model that leads to the best generalization accuracy.&lt;/p&gt;
+
+&lt;p&gt;Even generalization accuracy should be seen as an intermediate standard or proxy, with utility as the true goal. And perhaps we should resolve the tension between predictive accuracy and utility in favor of utility. Many models or pieces of information that improve predictive accuracy do dramatic damage to agent utility (ex., noble lies - rights, objective grounding to values, sacred &amp;amp; religious beliefs, etc.). It’s not clear that the metric we want to evaluate these pieces of information over with is predictive accuracy, and so that evaluation needs to happen in a decision function that adjudicates between standards based on their contribution to utility.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center; font-weight: bold;&quot;&gt;What is Transfer?&lt;/p&gt;
+
+&lt;p&gt;A central part of the efficient use of models is their generality. Generality means that a model works across many tasks and domains, and a so a central component of an intelligent worldview is the ability to recognize and model shared structure. This flexibility allows us to deal with unforeseen problems efficiently, by co-opting ideas and models that are already well fit by world experience and leveraging them for the task at hand. It also lets us compress the information in our world model. But there’s also this wonderful exponential structure to composing models of systems that lets us counter the exponential complexity of the problems we face.&lt;/p&gt;
+
+&lt;p&gt;Transfer is identifying shared structure between objects of ideas or domains, and assuming that additional information that you have about one domain will generalize to being true of the other domain.&lt;/p&gt;
+
+&lt;p&gt;All machine learning is transfer. Transfer is the ‘identical’ in identical and independently distributed. At a low level, we have transfer between datapoints which leads to a standard machine learning model. It’s transfer between datasets that we usually refer to as transfer, but that’s simply a level of abstraction above the datapoint level.&lt;/p&gt;
+
+&lt;p&gt;Distributions can be closer to or farther from one another. Overfitting classically refers to an inability to ‘generalize’ to data drawn from the exact same distribution. We also need some conception of generality of models to distributions that are of different data but that have a similar structure&lt;/p&gt;
+
+&lt;p&gt;There are two major components to Transfer. The first is the recognition that transfer is possible - the recognition of shared structure between domains. The second is the application of a model whose properties were learned in one domain to another domain.&lt;/p&gt;
+
+&lt;p&gt;Abstraction and transfer are connected because the transfer between domains generally demands that the model be learned at the proper level of abstraction. The model can always be a memorization of the data that exists in that domain, and at that level it will be very difficult to transfer it to a new domain.&lt;/p&gt;
+
+&lt;p&gt;For example, say that you’re trying to determine the proper sorted order of 1-n. You’re given a few lists of numbers, and shown that after the sort they all go to 1-n. You may think of sorting, but you could also only learn that the data you’ve seen goes to the particular n-length vector you see. Trained at a low level, your model for this system will perform perfectly on the information you’ve seen thusfar. But it’s the wrong level of abstraction if you want it to generalize. When we move up, to a sorting function, we gain the ability to generalize ‘internally’, where data is generated from the same distribution as the old and we still get the sorted output correct - this won’t happen if we just memorize instances seen before, unless we look at every possible combination. But the concept of sorting itself can generalize to other problems - say, choosing the closest neighbors from a set of distances in kNN.&lt;/p&gt;
+
+&lt;p&gt;What gets transferred? The information gained from training on some domain / ask, which is stored in a model, gets transferred to a new domain.&lt;/p&gt;
+
+&lt;p&gt;Using language forces analogy / transfer over all domains - to describe a situation, we have to build a model in order to use words to describe things. And that brings in information from every other instance of the modular words used to describe the situation. Which makes it much harder to memorize the particular task at hand. Instead, we have to map it to a known structure, and in so doing transfer structure and models to it. Say you tell someone “I’m having trouble deciding what my course load should be.” The word ‘load’ brings in information about resource use and the heaviness implies there is a cost to be optimized or minimized. The word ‘decision’ implies that a set of models needs to be applied to it. You can barely describe the problem without transferring information to it.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center; font-weight: bold;&quot;&gt;The Recognition of Shared Structure&lt;/p&gt;
+
+&lt;p&gt;The recognition of shared structure is what allows transfer to happen. Shared structure can come in many forms. Often, fields are formed around the shared structure in some set of problems, and then a body of techniques are built to flexibly solve those problems.&lt;/p&gt;
+
+&lt;p&gt;A great example is in economics - there is shared structure in resource allocation problems. Take opportunity cost. It can be applied to any situation where there are scarce resources being allocated that are associated with actions that lead to some utility.&lt;/p&gt;
+
+&lt;p&gt;There’s this story where I want to finish my monthly goals, but it’s late and swing dancing starts soon. If I go to swing I can’t finish my goals - the opportunity cost to my going to swing becomes finishing these goals. At a very low level, I could take a lesson away from this which is extremely specific. Swing dancing leads to forgone goal setting. One form of learning looks like memorizing that relationship.&lt;/p&gt;
+
+&lt;p&gt;There’s a more abstract form of learning that comes out of abstracting, introducing time to the picture. There’s time that I won’t have to work on goals if I’m dancing. If I abstract at that level, I can take the lesson that time will make actions mutually exclusive - I can’t do one if I do the other. At that level, I can learn about other situations from this one. Any case where I spend time on one thing, it gets lost to being spent at another thing. And I can learn about the tradeoff from time in the context of swing dancing vs. goal setting and apply it to a number of other situations, thus achieving transfer.&lt;/p&gt;
+
+&lt;p&gt;I can amplify that transfer even more by pushing to a higher level of abstraction. Abstracting up from time to resource, I can realize that this mutual exclusivity / scarcity framework works on money and on energy (oil, gas, nuclear), works on computer memory and human memory, attention, and so on. The breadth of impact that a discovery in any of these spaces can have on the others is a function of our ability to abstract to the appropriate level to recognize the shared structure that exists around them.&lt;/p&gt;</content><author><name>Jeremy Nixon</name></author><summary type="html">What is generalization?</summary></entry><entry><title type="html">Algorithmic Thinking</title><link href="http://localhost:4000/thinking/2020/01/21/algorithmic-thinking.html" rel="alternate" type="text/html" title="Algorithmic Thinking" /><published>2020-01-21T00:00:00-08:00</published><updated>2020-01-21T00:00:00-08:00</updated><id>http://localhost:4000/thinking/2020/01/21/algorithmic-thinking</id><content type="html" xml:base="http://localhost:4000/thinking/2020/01/21/algorithmic-thinking.html">&lt;div class=&quot;alg&quot;&gt;
 &lt;p&gt;
 We see the same type of problems with the same type of structure over and over again. Algorithmic thinking is creating a little process that lets us bring our best ideas to bear on the situation consistently. 
 &lt;/p&gt;&lt;p&gt;
@@ -455,423 +1421,4 @@ What else exists?&lt;br /&gt;
 
 &lt;p&gt;In line with many of these principles, this system works because it creates immense clarity which cuts through ambiguity and allows for decisive decision making, frees mindspace from distractions, and so enables entrance to a deeply focused state of mind.&lt;/p&gt;
 
-&lt;p&gt;I experimented with variants of this which involved a remote watcher, both through screen capture and messaging back and forth on the hour. There were gains with these experiments but they weren’t nearly as substantial (my subjective estimates are ~1.5x w/ screen capture and ~1.3x with messaging). The price point was ~$600 / week. For me, this was more than worthwhile.&lt;/p&gt;</content><author><name>Jeremy Nixon</name></author><summary type="html">The problem of behavioral control, or making sure that you do what you want to be doing in any given moment, is a cornerstone of productivity and effectiveness.</summary></entry><entry><title type="html">Modes of Thinking worth Internalizing</title><link href="http://localhost:4000/thinking/2019/02/17/modes-of-thinking.html" rel="alternate" type="text/html" title="Modes of Thinking worth Internalizing" /><published>2019-02-17T16:42:46-08:00</published><updated>2019-02-17T16:42:46-08:00</updated><id>http://localhost:4000/thinking/2019/02/17/modes-of-thinking</id><content type="html" xml:base="http://localhost:4000/thinking/2019/02/17/modes-of-thinking.html">&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Latticework of Mental Models&lt;/p&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;Ex., pushing &lt;a href=&quot;https://docs.google.com/document/d/1QrrdKv267dlpy3sEVPvsRb-iZTyFKfr2mF5Wms4od3k/edit?usp=sharing&quot;&gt;How to Think&lt;/a&gt; into intuition&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Systematizing Creativity&lt;/p&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;Ex., Reframing, Questioning Assumptions, Abstraction &amp;amp; Generalization, Decomposition, Composition / Recombination, Generators, Leading Questions, etc.&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Filter at the Intersection of Competing Worldviews&lt;/p&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;
-        &lt;p&gt;Ex., &lt;a href=&quot;https://docs.google.com/document/d/1OrJDg3Y5s1g91kLsc2zVHJnZjjHbNTx8ZuHxbE20x20/edit?usp=sharing&quot;&gt;Worldview Building&lt;/a&gt;&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Ex., Internalizing the conceptual style of intellectual giants&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Intelligence Decomposition &amp;amp; Optimization Along All Axes&lt;/p&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;
-        &lt;p&gt;Memory (Working, Episodic, Long Term)&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Attention (though this feels like a limitation)&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Having a model&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Abstract Knowledge Representation&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Ability to Generalize&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Learning / Adaptivity&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Creativity&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Information processing / Computation speed&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Goal accomplishment&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Technical Consilience (Seeing the unity of knowledge behind every natural science) by internalizing:&lt;/p&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;
-        &lt;p&gt;Information Theory (Cover / Thomas)&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Statistical Mechanics (Talman)&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Algorithmic Game Theory (Nisan)&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Nonlinear Dynamics and Chaos (Strogatz)&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Mechanism Design (Borgers)&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Algorithms (CLRS)&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Neuroscience (Principles of Neural Science)&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Electromagnetics (Haliday / Resnick)&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Quantum Mechanics (Griffiths)&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Nuclear Physics (Krane)&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Chemistry (Brown)&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Intro Proof (How to Prove It)&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Analysis (Abbott)&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Set Theory (Halmus)&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Abstract Algebra (Dummit, Foote)&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Topology (Munkres)&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Category Theory (Pierce, then Awodey)&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Probability Theory: The Logic of Science (Jaynes)&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Machine Learning: A Probabilistic Perspective&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Computational Learning Theory (Kearns)&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Learning Invariant Representations (Poggio)&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Causality (Pearl)&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Computability and Logic (Boolos)&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Thinking and Deciding (Baron)&lt;/p&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;
-        &lt;p&gt;Types of thinking&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;On the Study of thinking (meta)&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Rationality&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Logic&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Normative Theory of Probability&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Descriptive theory of probability judgment&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Hypothesis Testing&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Judgement of correlation and contingency&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Actively open-minded thinking&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Normative theory of choice under uncertainty&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Descriptive theory of choice under uncertainty&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Choice under certainty&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Utility Measurement&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Decision Analysis and Values&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Quantitative Judgment&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Moral judgment and choice&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Fairness and Justice&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Social Dilemmas: Cooperation vs. Defection&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Decisions about the future&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Risk&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Path to Awakening / Enlightenment, ex. the intersection of:&lt;/p&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;
-        &lt;p&gt;Shinzen Young’s The Science of Enlightenment&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Calduasa’s The Mind Illuminated&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Chapman’s Meaningness&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Wallis’s Trantra Illuminated&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Ingram’s Mastering the Core Teachings of the Buddha&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Discover and internalize lost philosophical traditions&lt;/p&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;Ex., Al Gazali, Mohisim, Presocratics, I Ching&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Rationalism (May be too similar to Thinking and Deciding…)&lt;/p&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;As framed in SSC / LW / Sequences / HPMOR / Inadequate Equilibria&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Turn machine learning into a fully fledged philosophy around how to think (May be a subset of technical concilience…)&lt;/p&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;
-        &lt;p&gt;Bias-Variance Tradeoff&lt;/p&gt;
-
-        &lt;ol&gt;
-          &lt;li&gt;
-            &lt;p&gt;Overfitting&lt;/p&gt;
-          &lt;/li&gt;
-          &lt;li&gt;
-            &lt;p&gt;Controlling complexity&lt;/p&gt;
-
-            &lt;ol&gt;
-              &lt;li&gt;
-                &lt;p&gt;Model simplicity (restriction methods)&lt;/p&gt;
-              &lt;/li&gt;
-              &lt;li&gt;
-                &lt;p&gt;Selection methods (over features)&lt;/p&gt;
-              &lt;/li&gt;
-              &lt;li&gt;
-                &lt;p&gt;Regularization&lt;/p&gt;
-              &lt;/li&gt;
-            &lt;/ol&gt;
-          &lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Curse of dimensionality&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Ensemble Modeling&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Occam’s Razor (Formalized)&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Training vs. Generalization Error&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Interpolation vs. Extrapolation&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Smoothness&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;VC Dimension&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Variance Maximization&lt;/p&gt;
-
-        &lt;ol&gt;
-          &lt;li&gt;Optimizing for Volatility vs Expected Value&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Bayes Rule&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Bayes Error&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Exploration-Exploitation&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Manifolds as Data Representation&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Jeremy Nixon</name></author><summary type="html">Latticework of Mental Models</summary></entry><entry><title type="html">Generators of Felt-Sense Meaning</title><link href="http://localhost:4000/thinking/2019/02/17/generators-of-meaning.html" rel="alternate" type="text/html" title="Generators of Felt-Sense Meaning" /><published>2019-02-17T14:09:46-08:00</published><updated>2019-02-17T14:09:46-08:00</updated><id>http://localhost:4000/thinking/2019/02/17/generators-of-meaning</id><content type="html" xml:base="http://localhost:4000/thinking/2019/02/17/generators-of-meaning.html">&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Human connection (Especially its creation, its loss)&lt;/p&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;
-        &lt;p&gt;Family&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Sense of belonging, of home&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Community&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Friendship&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Bonding&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Romantic Pair Bonding&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Mission&lt;/p&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;
-        &lt;p&gt;Working towards / for something larger than yourself&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Sacrifice&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Investment&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Collective Mission / Movements&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Specialness&lt;/p&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;Being, feeling special&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Religion&lt;/p&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;
-        &lt;p&gt;Sacred Beliefs&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Higher than humanity, transcendence&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Enlightenment / Awakening&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Immortality&lt;/p&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;
-        &lt;p&gt;Denial of Death&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Live on in works and impact&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Suffering&lt;/p&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;
-        &lt;p&gt;Avoidance of suffering, in self and others&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Elimination of suffering&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Knowledge &amp;amp; Insight&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Identity&lt;/p&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;
-        &lt;p&gt;Changes in identity&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Purpose Fulfillment&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Destruction / Creation of Identity&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Growth&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Autonomy / Control / Responsibility&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Jeremy Nixon</name></author><summary type="html">Human connection (Especially its creation, its loss)</summary></entry></feed>
+&lt;p&gt;I experimented with variants of this which involved a remote watcher, both through screen capture and messaging back and forth on the hour. There were gains with these experiments but they weren’t nearly as substantial (my subjective estimates are ~1.5x w/ screen capture and ~1.3x with messaging). The price point was ~$600 / week. For me, this was more than worthwhile.&lt;/p&gt;</content><author><name>Jeremy Nixon</name></author><summary type="html">The problem of behavioral control, or making sure that you do what you want to be doing in any given moment, is a cornerstone of productivity and effectiveness.</summary></entry></feed>

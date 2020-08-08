@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="shortcut icon" type="image/png" href="favicon.jpg">
+</head><body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Jeremy Nixon</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about/">Identity.</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Generalization</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2020-04-22T00:00:00-07:00" itemprop="datePublished">Apr 22, 2020
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p style="text-align: center; font-weight: bold;">What is generalization?</p>
+
+<p>The critical property of an abstraction is its ability to generalize. What is the scope of its context? How cleanly does it adhere to reality, both in scope and out of scope? What flagrant misuses of the abstraction are likely? What natural safties, gramatical or otherwise, are built in?</p>
+
+<p>Within a domain, learning often looks like generalization - in sports, you pattern match one situation to similar past situations, and react instinctively in a way that your intuition hopes will lead to success. In mathematics, solving a problem with an algebraic manipulation once lets you recognize that type of manipulation in other situations. And often so you abstract the manipulation into a rule or into an operation that you can run more flexibly.</p>
+
+<p>But you’d also like to do out of domain generalization - learn something in one context and apply it to an entirely different context. Learning language in one domain (say, in a home) and then applying it at school, or with friends rather than parents, or in speeches. Take the concept of specialization and lift it from economics to understanding sexual dimorphism in evolution. Taking the concepts of a replicator and differential selection from evolution and apply it to ideas and tunes and fashions that replicate by imitation.</p>
+
+<p style="text-align: center; font-weight: bold;"> Generalization as a Standard</p>
+
+<p>Generalization accuracy is a great standard to hold abstractions to. What we want is for our representations to aid us in problem solving, which often takes the form of prediction what the impact of our actions will be or predicting what the state of our system will be in future.</p>
+
+<p>When adjudicating between representations and when constructing them, we’ll optimize for the representation that is easy to evaluate (simplicity heuristic) and that makes the most accurate predictions. And simplicity is also a part of accuracy - models that are simpler have the advantages of capturing more data (because in general they’re more abstract), being more robust to small differences between observations and so better able to capture the higher level regularity, and being straightforward to update when they’re mistaken.</p>
+
+<p>Tradeoffs need to be adjudicated, and so having a downstream task to determine the appropriate lines for those tradeoffs is invaluable. Yet in practice people use other standards either as proxies for generalization or to preserve longer term value - truth is a classic example. Instead of asking if a representation is predictive, you can ask how closely it corresponds to reality via some similarity metric between your map of the territory and the territory. Often there are tradeoffs between the true model and the model that leads to the best generalization accuracy.</p>
+
+<p>Even generalization accuracy should be seen as an intermediate standard or proxy, with utility as the true goal. And perhaps we should resolve the tension between predictive accuracy and utility in favor of utility. Many models or pieces of information that improve predictive accuracy do dramatic damage to agent utility (ex., noble lies - rights, objective grounding to values, sacred &amp; religious beliefs, etc.). It’s not clear that the metric we want to evaluate these pieces of information over with is predictive accuracy, and so that evaluation needs to happen in a decision function that adjudicates between standards based on their contribution to utility.</p>
+
+<p style="text-align: center; font-weight: bold;">What is Transfer?</p>
+
+<p>A central part of the efficient use of models is their generality. Generality means that a model works across many tasks and domains, and a so a central component of an intelligent worldview is the ability to recognize and model shared structure. This flexibility allows us to deal with unforeseen problems efficiently, by co-opting ideas and models that are already well fit by world experience and leveraging them for the task at hand. It also lets us compress the information in our world model. But there’s also this wonderful exponential structure to composing models of systems that lets us counter the exponential complexity of the problems we face.</p>
+
+<p>Transfer is identifying shared structure between objects of ideas or domains, and assuming that additional information that you have about one domain will generalize to being true of the other domain.</p>
+
+<p>All machine learning is transfer. Transfer is the ‘identical’ in identical and independently distributed. At a low level, we have transfer between datapoints which leads to a standard machine learning model. It’s transfer between datasets that we usually refer to as transfer, but that’s simply a level of abstraction above the datapoint level.</p>
+
+<p>Distributions can be closer to or farther from one another. Overfitting classically refers to an inability to ‘generalize’ to data drawn from the exact same distribution. We also need some conception of generality of models to distributions that are of different data but that have a similar structure</p>
+
+<p>There are two major components to Transfer. The first is the recognition that transfer is possible - the recognition of shared structure between domains. The second is the application of a model whose properties were learned in one domain to another domain.</p>
+
+<p>Abstraction and transfer are connected because the transfer between domains generally demands that the model be learned at the proper level of abstraction. The model can always be a memorization of the data that exists in that domain, and at that level it will be very difficult to transfer it to a new domain.</p>
+
+<p>For example, say that you’re trying to determine the proper sorted order of 1-n. You’re given a few lists of numbers, and shown that after the sort they all go to 1-n. You may think of sorting, but you could also only learn that the data you’ve seen goes to the particular n-length vector you see. Trained at a low level, your model for this system will perform perfectly on the information you’ve seen thusfar. But it’s the wrong level of abstraction if you want it to generalize. When we move up, to a sorting function, we gain the ability to generalize ‘internally’, where data is generated from the same distribution as the old and we still get the sorted output correct - this won’t happen if we just memorize instances seen before, unless we look at every possible combination. But the concept of sorting itself can generalize to other problems - say, choosing the closest neighbors from a set of distances in kNN.</p>
+
+<p>What gets transferred? The information gained from training on some domain / ask, which is stored in a model, gets transferred to a new domain.</p>
+
+<p>Using language forces analogy / transfer over all domains - to describe a situation, we have to build a model in order to use words to describe things. And that brings in information from every other instance of the modular words used to describe the situation. Which makes it much harder to memorize the particular task at hand. Instead, we have to map it to a known structure, and in so doing transfer structure and models to it. Say you tell someone “I’m having trouble deciding what my course load should be.” The word ‘load’ brings in information about resource use and the heaviness implies there is a cost to be optimized or minimized. The word ‘decision’ implies that a set of models needs to be applied to it. You can barely describe the problem without transferring information to it.</p>
+
+<p style="text-align: center; font-weight: bold;">The Recognition of Shared Structure</p>
+
+<p>The recognition of shared structure is what allows transfer to happen. Shared structure can come in many forms. Often, fields are formed around the shared structure in some set of problems, and then a body of techniques are built to flexibly solve those problems.</p>
+
+<p>A great example is in economics - there is shared structure in resource allocation problems. Take opportunity cost. It can be applied to any situation where there are scarce resources being allocated that are associated with actions that lead to some utility.</p>
+
+<p>There’s this story where I want to finish my monthly goals, but it’s late and swing dancing starts soon. If I go to swing I can’t finish my goals - the opportunity cost to my going to swing becomes finishing these goals. At a very low level, I could take a lesson away from this which is extremely specific. Swing dancing leads to forgone goal setting. One form of learning looks like memorizing that relationship.</p>
+
+<p>There’s a more abstract form of learning that comes out of abstracting, introducing time to the picture. There’s time that I won’t have to work on goals if I’m dancing. If I abstract at that level, I can take the lesson that time will make actions mutually exclusive - I can’t do one if I do the other. At that level, I can learn about other situations from this one. Any case where I spend time on one thing, it gets lost to being spent at another thing. And I can learn about the tradeoff from time in the context of swing dancing vs. goal setting and apply it to a number of other situations, thus achieving transfer.</p>
+
+<p>I can amplify that transfer even more by pushing to a higher level of abstraction. Abstracting up from time to resource, I can realize that this mutual exclusivity / scarcity framework works on money and on energy (oil, gas, nuclear), works on computer memory and human memory, attention, and so on. The breadth of impact that a discovery in any of these spaces can have on the others is a function of our ability to abstract to the appropriate level to recognize the shared structure that exists around them.</p>
+
+  </div><a class="u-url" href="/thinking/2020/04/22/generalization.html" hidden></a>
+</article>
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+<!-- 
+    <div class="footer-col-wrapper">
+      <div class="footer-col one-half">
+      <h2 class="footer-heading">Jeremy Nixon</h2>
+        <ul class="contact-list">
+          <li class="p-name">Jeremy Nixon</li><li><a class="u-email" href="mailto:jnixon2@gmail.com">jnixon2@gmail.com</a></li></ul>
+      </div>
+ -->
+      <div style="text-align: center; font-style: italic;">
+        <p>Reach to the sky from the bottom.</p>
+      </div>
+
+<!--       <div class="social-links"><ul class="social-media-list"><li><a href="https://github.com/jeremynixon"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">jeremynixon</span></a></li><li><a href="https://www.twitter.com/JvNixon"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">JvNixon</span></a></li></ul>
+</div> -->
+
+    </div>
+      <img src="https://github.com/JeremyNixon/JeremyNixon.github.io/raw/master/_site/images/Creative-Hand.jpg" alt="Moment of Creation" style="max-width:100%;">
+  </div>
+
+</footer></body>
+
+</html>
