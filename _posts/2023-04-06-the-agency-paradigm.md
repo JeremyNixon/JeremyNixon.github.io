@@ -9,7 +9,7 @@ Deep learning has changed a lot in 2 years. I’m writing this so that I can ful
 
 I’m tempted to call this the Agency paradigm - it does feel clear, in comparison with the past paradigm, that this one will give rise to general learning systems that automate 90+% of the knowledge work economy. It is possible, though not inevitable, that this will happen very quickly - on the order of the next 2 years. It may take as long as 6-8 years to get to a reliability level that allows for full automation rather than mere augmentation of every knowledge work task.
 
-The Agency Paradigm is replacing an old paradigm, which I represent with the [Machine Intelligence Research Frontier].(https://docs.google.com/document/d/13fpaiiGrGq71ZZLh5cQc_CMpdltfPJfRC8774fwzfBc/edit)
+The Agency Paradigm is replacing an old paradigm, which I represent with the [Machine Intelligence Research Frontier](https://docs.google.com/document/d/13fpaiiGrGq71ZZLh5cQc_CMpdltfPJfRC8774fwzfBc/edit).
 
 Similar concepts: [Foundation](https://en.wikipedia.org/wiki/Foundation_models) [Models](https://arxiv.org/pdf/2108.07258.pdf).
 
@@ -44,66 +44,6 @@ Self-awareness and environmental awareness allows for a transformation to the wa
 Learning to use tools is an essential part of completing important tasks in every human knowledge worker’s life. Communication is paramount in coordinating large-scale activity. Email, slack, text messaging, and other communication tools will clearly be essential to LLM agents looking to gather information from or send commands to other people. Getting the information required to make decisions, take actions that influence the environment, or answer questions often requires using search tools like web search systems or searching over private databases. Putting multiple machine learning techniques together - for example, speech to text for taking a command from a human user combined with text to speech to responding, allows for complex & integrated agents to achieve complex tasks with multiple types of output (messaging, code writing & execution, payments).
 
 The composition of these techniques - of arbitrary ML APIs with tools with self-modifications with planning - will continually unlock unknown capabilities.
-
-
-
-
-
-Chains
-
-Planning
-
-Agents
-
-Self-Correction
-
-Tool Use
-
-Composition & API Chaining
-
-Pre-Training
-
-Transformers & Attention Mechanisms
-
-Diffusion Models
-
-Multi-Modality
-
-Post-pre-training
-
-RLHF
-Instruct Fine-Tuning
-
-Information Access
-
-Context Length
-Memory Implementations
-Retrieval Augmented Generation
-Neural Information Retrieval
-
-Meta Software
-
-Neural Program Synthesis
-
-Prompting
-
-
-
-Reframe
-
-The motivation 
-The mind of the AGI.
-What the AGI thinks and how.
-
-As if a neuroscientist.
-
-Architecture of problem solving.
-
-How-to / how to build things.
-
-Diagram format?
-I’m the CEO. I don’t code but I have a team of 100 coders.
-Consider pseudocode as an intermediate representation.
 
 
 

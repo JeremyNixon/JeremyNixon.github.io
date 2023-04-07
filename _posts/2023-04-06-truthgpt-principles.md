@@ -22,7 +22,9 @@ Models need to know and reason about biases. They need to understand the bias of
 
 ## Proposed principles for TruthGPT
 
-#### Principle: Unearth the taboo.
+[](https://i.imgur.com/mZtm5gl.png)
+
+<!-- #### Principle: Unearth the taboo.
 Give clear taboos, contradictions between social belief and reality, and the reason for the importance and existence of the taboo.
 
 #### Principles of scientific investigation:
@@ -58,7 +60,7 @@ The epistemologies of each research frontier (empiricism, dataset evaluation, lo
 #### Generative vs. Corrective principles.
 LLMs need to both be able to generate truths but also need to correct for human fallacies (based in identity, tribalism, cognitive bias, religious instincts, etc.)
 
-Account for every major form of systematic delusion:
+Account for every major form of systematic delusion: -->
 
   
 
