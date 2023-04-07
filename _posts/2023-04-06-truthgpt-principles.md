@@ -62,7 +62,7 @@ Account for every major form of systematic delusion:
 
   
 
-Conclusion
+## Conclusion
 
 Understanding the underlying generator of the truth principles will be our ultimate goal. This project will never be fully complete, but we can enable our models to continually enhance both their understanding of the truth and their means of improving their access to the truth. This gives us the best hope of creating a future that isn’t pigeonholed into a distorted ideology of the present.
 
