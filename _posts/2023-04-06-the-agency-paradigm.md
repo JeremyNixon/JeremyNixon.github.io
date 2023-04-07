@@ -47,40 +47,35 @@ The composition of these techniques - of arbitrary ML APIs with tools with self-
 
 
 
-
-AGI Literature Review
-
-Chains
-Planning
-ReAct
-Prompting: Prompt Generation & Automated Prompting, Meta-Prompt
-PromptChainer
-Agents
-ReAct
-Self-Correction: Automatic Evaluation, Self-Awareness.
-Tool Use
-Toolformer
-Essential Tools List
-Composition: APIs & API Chaining
-Pre-Training [Base Models]
-Transformers & Attention Mechanisms
-BERT
-Diffusion Models
-Multi-Modality
-Post-pre-training
-RLHF [Reinforcement Learning from Human Feedback]
-Deep RL from Human Preferences
-Instruct Fine-Tuning
-Training Language Models to Follow Instructions with Human Feedback
-Information Access
-Context Length
-FlashAttention, Sparse Transformer, Efficient Transformers 
-Memory Implementations
-Search: Data & Dataset Access & Choice, RAG [Retrieval Augmented Generation]
-Retrieval-Augmented Generation
-Meta Software
-Neural Program Synthesis
-
+## Agency Literature Review
+- Chains
+    - Planning
+    - [ReAct](https://www.google.com/url?q=https://arxiv.org/pdf/2210.03629.pdf&sa=D&source=editors&ust=1680834271934927&usg=AOvVaw3Ej_pdGoAg2yDVE9sWpIYB)
+    - Prompting: Prompt Generation & Automated Prompting, Meta-Prompt
+    - [PromptChainer](https://www.google.com/url?q=https://arxiv.org/pdf/2203.06566.pdf&sa=D&source=editors&ust=1680834271935263&usg=AOvVaw0zHk0DO5X74gTten07psJ8)
+- Agents
+    - [ReAct](https://www.google.com/url?q=https://arxiv.org/pdf/2210.03629.pdf&sa=D&source=editors&ust=1680834271935529&usg=AOvVaw3JpLCvoQjCT6JXLoLhVEBP)
+- Self-Correction: Automatic Evaluation, Self-Awareness, Tool Use
+    - [Toolformer](https://www.google.com/url?q=https://arxiv.org/abs/2302.04761&sa=D&source=editors&ust=1680834271935859&usg=AOvVaw1PlmsiEAClJtw-NvM3RjMN)
+    - Essential Tools List
+- Composition: APIs & API Chaining
+- Pre-Training [Base Models]
+    - Transformers & Attention Mechanisms
+    - [BERT](https://www.google.com/url?q=https://arxiv.org/abs/1810.04805&sa=D&source=editors&ust=1680834271936334&usg=AOvVaw12LVYPXPZsF_7wUwu4C5Vg)
+    - Diffusion Models
+- Multi-Modality
+- Post-pre-training
+    - RLHF: [Deep RL from Human Preferences](https://www.google.com/url?q=https://arxiv.org/abs/1706.03741&sa=D&source=editors&ust=1680834271936749&usg=AOvVaw1zfuwiDsfVbYSX7MWGzJAs)
+    - Instruct Fine-Tuning: [Training Language Models to Follow Instructions with Human Feedback](https://www.google.com/url?q=https://arxiv.org/abs/2203.02155&sa=D&source=editors&ust=1680834271937037&usg=AOvVaw0zkEF0Ou1CDAxWYxdi5QFz)
+- Information Access
+    - Context Length
+        - [FlashAttention](https://www.google.com/url?q=https://arxiv.org/abs/2205.14135&sa=D&source=editors&ust=1680834271937350&usg=AOvVaw32F7NHErYB0bgrghTIatLl)
+        - [Sparse Transformer](https://www.google.com/url?q=https://arxiv.org/abs/1904.10509&amp;sa=D&amp;source=editors&amp;ust=168083427193)
+    - Memory Implementations
+    - Search: Data & Dataset Access & Choice, RAG [Retrieval Augmented Generation]
+    - Retrieval-Augmented Generation
+- Meta Software
+    - Neural Program Synthesis
 
 
 
