@@ -5,7 +5,7 @@ date:   2023-04-06
 categories: thinking
 ---
 
-## Truth GPT Principles
+## Principles for Honest Language Models: Why You Want a Model Which Can Undo Deception
 
 It’s essential to deal with humanity’s complex relationship with the truth today, not tomorrow. The intelligent machines we are building will become superintelligent very quickly, and the priors that we build into them will likely propagate into the long term future.
 
@@ -22,40 +22,40 @@ Models need to know and reason about biases. They need to understand the bias of
 
 ## Proposed principles for TruthGPT
 
-Principle:
-Unearth the taboo. Give clear taboos, contradictions between social belief and reality, and the reason for the importance and existence of the taboo.
+#### Principle: Unearth the taboo.
+Give clear taboos, contradictions between social belief and reality, and the reason for the importance and existence of the taboo.
 
-Principles of scientific investigation:
+#### Principles of scientific investigation:
 Hypothesis Generation, Experiment Construction, Experimentation, Data Analysis and Feedback.
 
-Principle:
-Consistency: Are the data streams which are distinct from one another giving the same feedback? If there are inconsistencies, what evaluation can be made of the source?
+#### Principle of Consistency:
+Are the data streams which are distinct from one another giving the same feedback? If there are inconsistencies, what evaluation can be made of the source?
 
-Principle:
-Independence of data streams. Data streams become contaminated when they are sourced in the same place. Memetics & social contagion lead to lots of sources generating the same lie. Understanding these correlated sources allows evidence to be discounted appropriately.
+#### Principle of Independence of data streams.
+Data streams become contaminated when they are sourced in the same place. Memetics & social contagion lead to lots of sources generating the same lie. Understanding these correlated sources allows evidence to be discounted appropriately.
 
-Principle:
-Confirmation bias. The search for evidence becomes warped by checking for a hypothesis and not checking for its opposite.
+#### Principle: Confirmation bias.
+The search for evidence becomes warped by checking for a hypothesis and not checking for its opposite.
 
-Principle:
-Incentive structures. Given an incentive to come to a particular belief, expect the actor to privilege that belief over the truth.
+#### Principle: Incentive structures.
+Given an incentive to come to a particular belief, expect the actor to privilege that belief over the truth.
 
-Principle:
-Logic. Formulaic syllogisms. Contradictions and their consequences.
+#### Principle: Logic.
+Formulaic syllogisms. Contradictions and their consequences.
 
-Principle:
-Grounded concepts. Abstractions are backed by examples.
+#### Principle: Grounded concepts.
+Abstractions are backed by examples.
 
-Principle:
-Causality. An underlying set of interactions which predict the outcome with strong generalization.
+#### Principle: Causality.
+An underlying set of interactions which predict the outcome with strong generalization.
 
-Principle:
-Statistics & probability theory. Bayes rule & conditional probability. 
+#### Principle: Statistics & probability theory.
+Bayes rule & conditional probability. 
 
-Principle:
+#### Principle:
 The epistemologies of each research frontier (empiricism, dataset evaluation, logical proof, similarity checks with reality underneath truth claims).
 
-Generative vs. Corrective principles.
+#### Generative vs. Corrective principles.
 LLMs need to both be able to generate truths but also need to correct for human fallacies (based in identity, tribalism, cognitive bias, religious instincts, etc.)
 
 Account for every major form of systematic delusion:
