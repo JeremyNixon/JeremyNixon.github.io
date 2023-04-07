@@ -22,7 +22,7 @@ Models need to know and reason about biases. They need to understand the bias of
 
 ## Proposed principles for TruthGPT
 
-[](https://i.imgur.com/mZtm5gl.png)
+![Principles](https://i.imgur.com/mZtm5gl.png)
 
 <!-- #### Principle: Unearth the taboo.
 Give clear taboos, contradictions between social belief and reality, and the reason for the importance and existence of the taboo.
